@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "/gis-workshop-waml-template" # the subpath of your site, e.g. /blog
-url: "https://aeghmmn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://meginthepeg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
@@ -37,7 +37,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-footer_content: <a href="https://github.com/aeghmmn/gis-workshop-waml-template" target="_blank">View this workshop in GitHub</a>
+footer_content: <a href="https://github.com/meginthepeg/gis-workshop-waml-template" target="_blank">View this workshop in GitHub</a>
 
 # Exclude from processing.
 # The following items will not be processed, by default.
