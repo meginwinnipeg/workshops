@@ -3,7 +3,7 @@ layout: default
 title: Home
 nav_order: 1
 ---
-# GIS & Data Visualization Workshops
+## GIS & Data Visualization Workshops
 ### University of Manitoba Libraries
 
 
@@ -11,12 +11,12 @@ ____
 
 ### For support contact:
 
-**Meg Miller** <a href='https://github.com/meginwinnipeg' target='_blank'><img src='content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>    
+Meg Miller <a href='https://github.com/meginwinnipeg' target='_blank'><img src='content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>    
 <small>GIS & Data Visualization Librarian  
 Research Services & Digital Strategies  
-University of Manitoba Libraries  
+University of Manitoba Libraries [Where are we?](content/land-acknowledgement)  
 [meg.miller@umanitoba.ca](mailto:meg.miller@umanitoba.ca)  
-[Where are we?](content/land-acknowledgement)</small>
+</small>
 
 
 ### Note:
@@ -27,7 +27,7 @@ If you run into any difficulties or have any questions contact me! I want you to
 ### Contents
 
 | Date | Session |
-|-|-|  
+|-|-|
 | November 10th: | [Sciences Grad Student Open House](https://meginwinnipeg.github.io/slides/sgsoh_w2020.html){:target="_blank"} (presentation) |
 | November 18th: | [Accessing Geospatial Data - Winnipeg & Manitoba](https://meginwinnipeg.github.io/slides/mod_w2020.html){:target="_blank"} (presentation) |
 | December 2nd:  | Open Data - Manitoba Crop Inventory |
@@ -37,5 +37,7 @@ If you run into any difficulties or have any questions contact me! I want you to
 | March 10th: | ArcGIS Spatial Analytics - Insights & Dashboards for ArcGIS |
 | March 24th: | Data Visualization - The Good, the Bad & the Ugly |
 | April 7th: | Network Analysis & Visualization using Gephi - An Introduction |
-|  |  |  
+|  |  |
+
+
 *Sessions run Wednesdays 12h-13h*
