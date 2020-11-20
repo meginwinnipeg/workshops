@@ -25,9 +25,6 @@ a {
   color: #2057AB;
 }
 
-hr {
-    color:#E5E5E5;
-}
  
 h1, h2, h3, h4, h5, h6, .site-title {
 color: #200800;
@@ -36,3 +33,7 @@ color: #200800;
 body, .side-bar {
   background: #E5E5E5;
   background-color: #E5E5E5; }
+
+.nav-list .nav-list-item .nav-list-link:hover, .nav-list .nav-list-item .nav-list-link.active { 
+   background-image: linear-gradient(to right, rgba(245,245,245,0), rgba(224,224,224,1));
+}
