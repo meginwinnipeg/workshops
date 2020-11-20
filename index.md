@@ -3,43 +3,29 @@ layout: default
 title: Home
 nav_order: 1
 ---
-# A Jekyll template for GIS workshops
-### WAML 2020  Preconference Workshop  
-[bit.ly/waml20git](http://bit.ly/waml20git)  
+# GIS & Data Visualization Workshops
+### University of Manitoba Libraries
+
 
 ____
 
-### Presenters
+### For support contact:
 
-Evan Thornberry <a href='https://github.com/ect123' target='_blank'><img src='content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
-Handsome Devil  
-GIS Librarian  
-University of British Columbia Library  
-[evan.thornberry@ubc.ca](mailto:evan.thornberry@ubc.ca)  
-
-
-
-Phil White <a href='https://github.com/outpw' target='_blank'><img src='content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
-Tries Hard  
-Earth, Environment & Geospatial Librarian  
-University of Colorado Boulder Libraries  
-[philip.white@colorado.edu](mailto:philip.white@colorado.edu)
+Meg Miller <a href='https://github.com/meginwinnipeg' target='_blank'><img src='content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>    
+GIS & Data Visualization Librarian
+Research Services & Digital Strategies
+University of Manitoba Libraries  
+[meg.miller@umanitoba.ca](mailto:meg.miller@umanitoba.ca)  
 
 
-- A GitHub.com account. If you don't already have a GitHub.com account, you can [create one here](https://github.com/join). Take this short video [Getting Started with GitHub](https://youtu.be/noZnOSpcjYY) if you're brand new and want to get a high-level overview of the platform.
-- Comfortable working with code/syntax.
-{: .prereq}
+### Purpose:
 
-### Goal of this workshop
+My goal is to create learning resources for the UM community using open tools that can be both in and outside of a structured workshop session.
 
-Our goal is to introduce you to how we use GitHub.com for creating and delivering GIS workshops online, so that you can consider using them in your own work. There will be a hands-on section where we will fork ("copy") an existing workshop repo to your own GitHub account, publish the repo with GitHub Pages, and to make some edits.
+If you run into any difficulties or have any questions contact me! I want you to understand the decisions you are making in running through these workshops so you can take them and apply them to your own research.  
 
-You may not feel totally comfortable using GitHub – this is okay. As with any skill, using Jekyll and GitHub Pages takes practice. In this workshop, we want you to understand and get familiar with some of the workflows and terminology so that you are equipped to experiment on your own.  
 
-### You can view the GitHub repository for this Jekyll site at:  
-[https://github.com/ubc-lib-geo/gis-workshop-waml-template](https://github.com/ubc-lib-geo/gis-workshop-waml-template){:target="_blank"}  
-
-### Schedule
+### Content
 
 | Time | Content
 | --- | ---
