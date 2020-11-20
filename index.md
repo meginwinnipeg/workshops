@@ -6,10 +6,8 @@ nav_order: 1
 ## GIS & Data Visualization Workshops
 ### University of Manitoba Libraries
 
+___
 
-____
-
-### For support contact:
 
 Meg Miller <a href='https://github.com/meginwinnipeg' target='_blank'><img src='content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>    
 <small>GIS & Data Visualization Librarian  
@@ -24,7 +22,7 @@ If you run into any difficulties or have any questions contact me! I want you to
 {: .note}
 
 
-### Contents
+### Sessions
 
 | Date | Session |
 |-|-|
