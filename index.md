@@ -27,8 +27,7 @@ If you run into any difficulties or have any questions contact me! I want you to
 ### Contents
 
 | Date | Session |
-|-|-|
-| |[) |
+|-|-|  
 | November 10th: | [Sciences Grad Student Open House](https://meginwinnipeg.github.io/slides/sgsoh_w2020.html){:target="_blank"} (presentation) |
 | November 18th: | [Accessing Geospatial Data - Winnipeg & Manitoba](https://meginwinnipeg.github.io/slides/mod_w2020.html){:target="_blank"} (presentation) |
 | December 2nd:  | Open Data - Manitoba Crop Inventory |
