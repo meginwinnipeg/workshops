@@ -26,15 +26,24 @@ a {
 }
 
  
-h1, h2, h3, h4, h5, h6, .site-title {
+h1, h2, h3, h4, h5, h6, {
 color: #200800;
 }
 
 body, .side-bar {
   background: #E5E5E5;
-  background-color: #E5E5E5; }
+  background-color: #E5E5E5;
+}
 
 .nav-list .nav-list-item .nav-list-link:hover, .nav-list .nav-list-item .nav-list-link.active {
   background: #f6f6f6;
-  background-color: #f6f6f6; }
+  background-color: #f6f6f6;
+}
 
+.site-header {
+  border-bottom: 1px solid #E5E5E5;
+}
+
+.site-title {
+  font-size: 75%;
+}
