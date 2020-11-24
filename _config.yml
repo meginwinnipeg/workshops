@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Meg's Workshops
+title: UML Data Viz.
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   GIS and Data Visualization Workshops from University of Manitoba Libraries.
@@ -35,7 +35,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-footer_content: <a href="https://github.com/meginwinnipeg/workshops" target="_blank">View this workshop in GitHub</a>
+footer_content: <a href="https://github.com/meginwinnipeg/workshops" target="_blank">View this page in GitHub</a>
 
 # Exclude from processing.
 # The following items will not be processed, by default.
