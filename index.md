@@ -28,7 +28,7 @@ If you run into any difficulties or have any questions contact me! I want you to
 |-|-|
 | November 10th: | [Sciences Grad Student Open House](https://meginwinnipeg.github.io/slides/sgsoh_w2020.html){:target="_blank"} (presentation) |
 | November 18th: | [Accessing Geospatial Data - Winnipeg & Manitoba](https://meginwinnipeg.github.io/slides/mod_w2020.html){:target="_blank"} (presentation) |
-| December 2nd:  | Open Data - Manitoba Crop Inventory |
+| December 2nd:  | [Open Data - Manitoba Crop Inventory](https://meginwinnipeg.github.io/slides/aci_w2020.html){:target="_blank"} (presentation) |
 | January 20th: | QGIS 1 - A Gentle Introduction to Open Source GIS Software |
 | Feburary 10th: | PowerBI - A Gentle Introduction to Data Visualization |
 | Feburary 24th: | Infographics - An Introduction |
