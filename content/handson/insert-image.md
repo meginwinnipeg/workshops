@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Insert an Image
-parent: Hands On
+parent: Workshops
 nav_order: 4
 ---
 # Insert an Image
