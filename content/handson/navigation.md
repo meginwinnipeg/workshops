@@ -2,7 +2,7 @@
 layout: default
 title: Change Navigation
 parent: Workshops
-nav_order: 6
+nav_exclude: true
 ---
 # Change the Navigation Order
 
