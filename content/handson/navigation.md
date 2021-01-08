@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Change Navigation
-parent: Hands On
+parent: Workshops
 nav_order: 6
 ---
 # Change the Navigation Order
