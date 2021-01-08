@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Test your knowledge: QGIS 
+title: Test knowledge
 parent: Introduction to QGIS
 grand_parent: Workshops
 nav_order: 3
