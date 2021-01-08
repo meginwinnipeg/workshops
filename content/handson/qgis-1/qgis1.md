@@ -18,6 +18,7 @@ In this session, participants will:
 - Explore QGIS interface  
 -	Load and symbolize tabular data to an existing project  
 
+## Before the session:
 - Download and install the **long-term release** from the [QGIS downloads page](https://qgis.org/en/site/forusers/download.html).
 - Download the data and extract the compressed files into your **Downloads** folder.
 [Download](https://www.dropbox.com/){: .btn .btn-blue }
