@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Conclusion
-nav_order: 12
+parent: qgis1
+grand_parent: workshops
+nav_order: 4
 ---
 
 ### Coordinate Systems
