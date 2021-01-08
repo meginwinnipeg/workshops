@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Outline
-nav_order: 4
-parent: workshops
+nav_order: 1
+parent: Workshops
 has_children: true
 ---
 
-# Understanding Spatial Data: Map Projections
+# Title Page
 
 ## Learning Outcomes
 
