@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Exercises
-nav_order: 8
+title: Walkthrough
+nav_order: 2
 has_children: true
 ---
 
-## Exercises
+## Walkthrough of session
 
 These exercises will be accomplished using ArcGIS Desktop. You should have already downloaded the software and the data we will use for this workshop.
 
