@@ -6,9 +6,9 @@ grand_parent: Workshops
 nav_order: 1
 ---
 
+# Introduction to QGIS
 
-## Introduction to QGIS
-Follow along if you want:
+## Follow along if you want:
 
 <iframe width="720" height="480" frameborder="0" marginheight="0" marginwidth="0" src="https://meginwinnipeg.github.io/slides/aci_w2020.html"></iframe>
 
