@@ -2,7 +2,7 @@
 layout: default
 title: Summarize
 parent: qgis1
-grand_parent: workshops
+grand_parent: Workshops
 nav_order: 4
 ---
 
