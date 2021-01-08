@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Conclusion
+title: Summarize
 parent: qgis1
 grand_parent: workshops
 nav_order: 4
