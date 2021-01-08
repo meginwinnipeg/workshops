@@ -1,9 +1,11 @@
 ---
 layout: default
 title: Introduction
-nav_order: 4.1.1
-has_children: true
+parent: QGIS-1
+grand_parent: Workshops
+nav_order: 1
 ---
+
 
 ## Introduction
 
