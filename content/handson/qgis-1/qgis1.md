@@ -5,9 +5,9 @@ nav_order: 1
 parent: Workshops
 has_children: true
 ---
-
+{: .no_toc }
 # Introduction to QGIS
-Before the session:
+## Before the session:
 - Download and install the **long-term release** of QGIS for your operating system. [Download Software](https://qgis.org/en/site/forusers/download.html){: .btn .btn-green }
 - Download the data and extract the compressed files into your **Downloads** folder. [Download Data](https://www.dropbox.com/){: .btn .btn-green }
 {: .prereq}
