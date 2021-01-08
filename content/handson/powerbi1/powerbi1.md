@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction to Power BI
+title: Power BI: 1
 nav_order: 1
 parent: Workshops
 has_children: true
