@@ -18,13 +18,8 @@ In this session, participants will:
 - Explore QGIS interface  
 -	Load and symbolize tabular data to an existing project  
 
-- QGIS installed on your machine
-- Data for session downloaded
-{: .prereq}
-
-This workshop is run using QGIS. If you do not already have a copy download the **long-term release** from the [QGIS downloads page](https://qgis.org/en/site/forusers/download.html).
-
-Download the data and extract the compressed files into your **Downloads** folder.
-
+- Download and install the **long-term release** from the [QGIS downloads page](https://qgis.org/en/site/forusers/download.html).
+- Download the data and extract the compressed files into your **Downloads** folder.
 [Download](https://www.dropbox.com/){: .btn .btn-blue }
+{: .prereq}
 
