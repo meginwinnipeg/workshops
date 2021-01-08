@@ -13,10 +13,10 @@ has_children: true
 This hands-on session provides an overview of Geographic Information Systems (GIS) and how it can be used. Attendees will compare various GIS software and data types, become familiar with navigating the QGIS interface and procedures for adding and symbolizing data. Discussion will be centered on integrating researcher data with secondary data sources.  
 
 In this session, participants will:  
-•	Overview of  GIS and popular visualization strategies  
-•	List popular GIS software and what is supported through the University  
-•	Explore QGIS interface  
-•	Load and symbolize tabular data to an existing project  
+- Overview of  GIS and popular visualization strategies  
+-	List popular GIS software and what is supported through the University  
+- Explore QGIS interface  
+-	Load and symbolize tabular data to an existing project  
 
 - QGIS installed on your machine
 - Data for session downloaded
