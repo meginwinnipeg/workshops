@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Walkthrough
-parent: Introduction to Power BI
+title: Power BI Walkthrough
+parent: Power BI 1
 grand_parent: Workshops
 nav_order: 2
 ---
