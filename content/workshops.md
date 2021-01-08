@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hands On
+title: Workshops
 nav_order: 5
 has_children: true
 ---
