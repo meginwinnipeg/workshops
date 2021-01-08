@@ -1,8 +1,3 @@
----
-layout: default
-title: Markdown Practice
-nav_order: 4
----
 # Markdown: What is it?
 
 Markdown is a very simple markup language for formatting plain text. You may have seen it or used it in discussion forums (think Reddit) to style text in certain ways – like in **bold** or *italics* or ***both***. It's also often used in GitHub for assembling nicely looking README files, but it's also used for the content that makes up this site. GitHub Pages (and Jekyll) reads Markdown files (usually with the file extension `.md` or `.markdown`) and converts them to valid HTML.
