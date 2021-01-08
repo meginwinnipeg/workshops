@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Introduction to QGIS
+title: Introduction to Power BI
 nav_order: 1
 parent: Workshops
 has_children: true
 ---
 
-# Introduction to QGIS
+# Introduction to Power BI
 
 ## Learning Outcomes
 
