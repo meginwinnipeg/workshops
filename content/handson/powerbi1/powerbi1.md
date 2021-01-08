@@ -4,6 +4,7 @@ title: Power BI 1
 nav_order: 1
 parent: Workshops
 has_children: true
+nav_exclude: true
 ---
 
 # Introduction to Power BI
