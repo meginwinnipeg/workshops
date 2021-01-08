@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Test knowledge
+title: Q Knowledge check
 parent: QGIS 1
 grand_parent: Workshops
 nav_order: 3
 ---
+## Check your Understanding
 
 ### Coordinate Systems
 
