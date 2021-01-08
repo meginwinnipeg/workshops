@@ -1,9 +1,3 @@
----
-layout: default
-title: Example Pages
-nav_order: 7
-has_children: true
----
 # Example pages
 
 We've assembled some example pages that show some ways to display information that might be used in GIS workshops. The table of contents is below.
