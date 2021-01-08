@@ -10,8 +10,8 @@ has_children: true
 Before the session:
 - Download and install the **long-term release** from the [QGIS downloads page](https://qgis.org/en/site/forusers/download.html).
 - Download the data and extract the compressed files into your **Downloads** folder.  
-[Download](https://www.dropbox.com/){: .btn .btn-blue }
-{: .note}
+[Download](https://www.dropbox.com/){: .btn .btn-green }
+{: .prereq}
 
 ### Objectives:
 
