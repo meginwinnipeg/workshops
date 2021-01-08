@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Test knowledge
-parent: Introduction to Power BI
+title: Power BI knowledge check
+parent: Power BI 1
 grand_parent: Workshops
 nav_order: 3
 ---
