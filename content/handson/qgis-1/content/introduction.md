@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introduction
-parent: qgis1
+parent: Introduction to QGIS
 grand_parent: Workshops
 nav_order: 1
 ---
