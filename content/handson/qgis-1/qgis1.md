@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Outline
+title: Introduction to QGIS
 nav_order: 1
 parent: Workshops
 has_children: true
 ---
 
-# Title Page
+# Introduction to QGIS
 
 ## Learning Outcomes
 
