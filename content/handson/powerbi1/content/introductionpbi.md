@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Intro + Slides
-parent: Introduction to Power BI
+title: Introduction to Power BI
+parent: Power BI 1
 grand_parent: Workshops
 nav_order: 1
 ---
