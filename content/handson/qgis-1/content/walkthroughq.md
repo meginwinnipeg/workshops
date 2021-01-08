@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Walkthrough
-parent: Introduction to QGIS
+title: Exercise QGIS
+parent: QGIS 1
 grand_parent: Workshops
 nav_order: 2
 ---
