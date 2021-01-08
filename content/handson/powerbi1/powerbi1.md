@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Power BI: 1
+title: Power BI 1
 nav_order: 1
 parent: Workshops
 has_children: true
