@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction to QGIS
+title: QGIS 1
 nav_order: 1
 parent: Workshops
 has_children: true
