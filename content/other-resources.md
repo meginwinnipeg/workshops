@@ -5,13 +5,13 @@ nav_order: 5
 ---
 # Other Resources
 ## Library 
-If you'd like to take some beginner-level short workshops to get you up to speed, you can take these from UBC Library's Research Commons:
--  [Intro to Git and GitHub](https://ubc-library-rc.github.io/intro-git/)
--  [Intro to the Unix Shell](https://ubc-library-rc.github.io/intro-shell/)
--  [Intro to Jekyll](https://ubc-library-rc.github.io/intro-jekyll/)
+Here are some links to UML resources you may find useful:
+-  [GIS Subject Guide](https://ubc-library-rc.github.io/intro-git/)
+-  [Data Visualization Subject Guide](https://ubc-library-rc.github.io/intro-shell/)
+-  [Data & Statistics Subject Guide](https://ubc-library-rc.github.io/intro-jekyll/)
 
 ## External Links
-If you'd like to take some beginner-level short workshops to get you up to speed, you can take these from UBC Library's Research Commons:
--  [Link1](https://ubc-library-rc.github.io/intro-git/)
--  [Link2](https://ubc-library-rc.github.io/intro-shell/)
--  [Link3](https://ubc-library-rc.github.io/intro-jekyll/)
+If you'd like to take some beginner-level short workshops to get you up to speed, here are some good places to start:
+-  [Link1](https://google.ca)
+-  [Link2](https://google.ca)
+-  [Link3](https://google.ca)
