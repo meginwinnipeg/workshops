@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Exercise QGIS
+title: COVID Exercise
 parent: QGIS 1
 grand_parent: Workshops
 nav_order: 2
