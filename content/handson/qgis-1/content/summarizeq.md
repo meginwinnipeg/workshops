@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Summarize
+title: Test your knowledge: QGIS 
 parent: Introduction to QGIS
 grand_parent: Workshops
-nav_order: 4
+nav_order: 3
 ---
 
 ### Coordinate Systems
