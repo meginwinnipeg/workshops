@@ -2,7 +2,7 @@
 layout: default
 title: Add Some Text
 parent: Workshops
-nav_order: 5
+nav_exclude: true
 ---
 # Add Some Text
 Let's add some text to your page! You are welcome to experiment here or borrow some of the example text below. *1*{: .circle .circle-blue} Copy/Paste text to your page, then *2*{: .circle .circle-blue} commit your changes. *3*{: .circle .circle-blue} Count to 30 and refresh your page.
