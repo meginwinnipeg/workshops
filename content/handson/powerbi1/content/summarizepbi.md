@@ -5,6 +5,7 @@ parent: Power BI 1
 grand_parent: Workshops
 nav_order: 3
 ---
+## Check your understanding: 
 
 ### Coordinate Systems
 
