@@ -1,8 +1,3 @@
----
-layout: default
-title: UI Features
-nav_order: 6
----
 # UI features
 
 
