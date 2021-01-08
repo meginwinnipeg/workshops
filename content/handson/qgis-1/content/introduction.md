@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction
+title: Intro + Slides
 parent: Introduction to QGIS
 grand_parent: Workshops
 nav_order: 1
