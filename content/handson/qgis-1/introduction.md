@@ -2,7 +2,7 @@
 layout: default
 title: Introduction
 parent: qgis1
-grand_parent: Workshops
+grand_parent: workshops
 nav_order: 1
 ---
 
