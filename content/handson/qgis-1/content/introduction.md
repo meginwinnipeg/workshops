@@ -2,12 +2,12 @@
 layout: default
 title: Introduction
 parent: qgis1
-grand_parent: workshops
+grand_parent: Workshops
 nav_order: 1
 ---
 
 
-## Introduction
+## Intro to topic
 
 This introductory video will set the stage for what this workshop is all about.
 
