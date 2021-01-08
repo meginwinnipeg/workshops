@@ -4,7 +4,6 @@ title: Outline
 nav_order: 4
 parent: workshops
 has_children: true
-has_toc: false
 ---
 
 # Understanding Spatial Data: Map Projections
