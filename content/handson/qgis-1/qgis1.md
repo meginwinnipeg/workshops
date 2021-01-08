@@ -4,8 +4,8 @@ title: QGIS 1
 nav_order: 1
 parent: Workshops
 has_children: true
+has_toc: false
 ---
-{: .no_toc }
 # Introduction to QGIS
 ## Before the session:
 - Download and install the **long-term release** of QGIS for your operating system. [Download Software](https://qgis.org/en/site/forusers/download.html){: .btn .btn-green }
