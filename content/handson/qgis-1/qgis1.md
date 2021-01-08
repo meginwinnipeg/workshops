@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Outline
-nav_order: 4.1
+nav_order: 4
+parent: workshops
 has_children: true
 has_toc: false
 ---
