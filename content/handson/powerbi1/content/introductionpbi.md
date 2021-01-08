@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Intro + Slides
-parent: Introduction to QGIS
+parent: Introduction to Power BI
 grand_parent: Workshops
 nav_order: 1
 ---
