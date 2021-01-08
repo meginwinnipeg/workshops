@@ -2,7 +2,7 @@
 layout: default
 title: Edit Your README
 parent: Workshops
-nav_order: 2
+nav_exclude: true
 ---
 # Edit Your README
 First we're going to make a few quick edits to your new repository's README file.  
