@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Edit Your README
-parent: Hands On
+parent: Workshops
 nav_order: 2
 ---
 # Edit Your README
