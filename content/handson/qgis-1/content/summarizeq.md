@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Summarize
-parent: qgis1
+parent: Introduction to QGIS
 grand_parent: Workshops
 nav_order: 4
 ---
