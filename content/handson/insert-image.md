@@ -2,7 +2,7 @@
 layout: default
 title: Insert an Image
 parent: Workshops
-nav_order: 4
+nav_exclude: true
 ---
 # Insert an Image
 
