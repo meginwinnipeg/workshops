@@ -4,34 +4,28 @@ title: Participating Online
 nav_order: 3
 ---
 # Participating online
-Active participation enlivens the session with other voices and perspectives. We encourage you to engage with instructors and with each other.    
 
-Microphones are muted by default to improve audio quality and recording is disabled to preserve participant privacy.    
+## Audio
+Your  microphone will be muted by default to improve audio quality. This session is recorded so that you can refer back to the content at your own pace.  
 
-The Zoom toolbar provides several ways to be part of the conversation:
+![GoToWebinar Audio Options](img/gotoudio.png)
 
-![Zoom Toolbar](img/zoom_toolbar.png)
+## GoToWebinar
+The toolbar provides a couple of ways to ask questions and interact with your colleagues.  
 
-## Participants window
-The _Participants_ window lists everyone in the session. Click the icons at the bottom of the window to communicate with the instructors.
+![GoToWebinar Toolbar](img/gototools.png)
 
-![Menu at bottom of participants window](img/participants_window_menu.png)
+Clicking on the red arrow opens your tools.  
 
-Clicking an icon makes it appear next to your name in the participants list. Use this to **answer yes/no** questions or to **raise your hand** when instructors invite you to ask a question, comment, or share your screen.
+## Raise Hand Button
+Use the _Raise Hand_ button to ask to be unmuted to comment or ask a the instructor a question during question period. 
 
-## Chat window
-Use the _Chat_ window to comment or ask a question at any time. Instructors will do their best to respond, sometimes waiting for a break in the lesson to do so.
+## Questions window
+Use the _Questions_ window to comment or ask a the instructor a question at any time. Instructors will do their best to respond, sometimes waiting for a break in the lesson to do so.  
 
-The _Chat_ window is a good place to report problems with your audio connection. Instructors may also use it to share links to material mentioned in the session.
+![GoToWebinar Question window](img/gotoquestions.png)
 
 ## Share your screen
-In some cases instructors may invite you to share your screen. Raise your hand to indicate that you're ready to share. When called upon click _Share screen_, select a window to display, and click _Share_.
+There is no option in GoToWebinar to share your screen with the instructor. If you have in-depth questions, it is best to book a one-on-one consultation or attend office hours for the session which will be held the following Wednesday 12-1pm.
 
-## Contribute to the Whiteboard
-The _Whiteboard_ is a collaborative space that everyone can annotate with drawings and text. When the whiteboard is shared click _View options_ and select _Annotate_.
 
-![Menu with Annotate option](img/open_annotate_toolbar.png)
-
-This opens the annotation toolbar. Drawings and text you add to the screen will be visible to everyone in the session or breakout room.
-
-![The annotation toolbar](img/annotate_toolbar.png)
