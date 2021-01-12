@@ -8,7 +8,7 @@ nav_order: 3
 ## Audio
 Your  microphone will be muted by default to improve audio quality. This session is recorded so that you can refer back to the content at your own pace.  
 
-![GoToWebinar Audio Options](img/gotoudio.png)
+![GoToWebinar Audio Options](img/gotoaudio.png)
 
 ## GoToWebinar
 The toolbar provides a couple of ways to ask questions and interact with your colleagues.  
