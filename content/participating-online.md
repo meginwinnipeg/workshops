@@ -17,7 +17,7 @@ The toolbar provides a couple of ways to ask questions and interact with your co
 
 Clicking on the red arrow opens your tools.  
 
-## Raise Hand Button
+## Raise hand button
 Use the _Raise Hand_ button to ask to be unmuted to comment or ask a the instructor a question during question period. 
 
 ## Questions window
