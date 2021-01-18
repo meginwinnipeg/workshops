@@ -11,7 +11,7 @@ nav_order: 6
 <br>
 **Coordinate Reference System (CRS):** The system used to reference the x and y coordinates of your data (may be projected or geographic).  
 <br>
-**Dialog:**A small window that opens to allow you to choose options, open or save files, etc.  
+**Dialog:** A small window that opens to allow you to choose options, open or save files, etc.  
 <br>
 **Feature:** An individual object in your data - for example a single line, point or polygon.  
 <br>
