@@ -12,16 +12,19 @@ nav_order: 3
 ## Software versions
 <details>
 <summary><strong>If I am a beginner, what is the most appropriate version of the software to install?</strong></summary>You want to download the <em>Long-term release</em>.  </details>
+<br>
 
 ## Loading Data
 <details>
 <summary><strong>QGIS can ingest so many formats, if I have tabular data, which one will cause me the fewest issues? </strong></summary> <em>CSV files</em> will be the most robust option. </details>
+<br>
 
 ## Projections
 <details>
 <summary><strong>What is the default coordinate system used in QGIS?</strong></summary> <em>WGS 84.</em>  </details>
+<br>
 
-### Joining data
+## Joining data
 <details>
 <summary><strong>Where do I go to join my research data table to geospatial data?</strong></summary>Right-click on the layer name in the <em>Table of Contents > Properties > Symbology</em>. </details>
 
