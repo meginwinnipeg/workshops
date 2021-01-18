@@ -11,7 +11,7 @@ Here are some links to UML resources you may find useful:
 -  [Data & Statistics Subject Guide](https://libguides.lib.umanitoba.ca/data)
 
 ## External Links
-If you'd like to take some beginner-level short workshops to get you up to speed, here are some good places to start:
--  [Link1](https://google.ca)
--  [Link2](https://google.ca)
--  [Link3](https://google.ca)
+If you're working through a project, here are some good places to start:
+-  [GIS Stack Exchange](https://gis.stackexchange.com/)
+-  [GeoNet (ESRI Support Forums)](https://community.esri.com/)
+-  [Official QGIS Documentation](https://www.qgis.org/en/docs/index.html)
