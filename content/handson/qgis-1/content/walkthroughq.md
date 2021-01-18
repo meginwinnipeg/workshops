@@ -22,28 +22,28 @@ nav_order: 2
 	Try using the pan (hand) and zoom (magnifying glasses) to move around the map  
 
 4. Explore the **Table of Contents**  
-		a. Right click on a layer, **open the attribute table** , if we want to map COVID cases, what is missing?  
-		b. To makes the _ne\_50m\_lakes_ file visible, **drag it up the list** so it is above _ne\_50m\_admin\_0\_countries_ file  
+	1. Right click on a layer, **open the attribute table** , if we want to map COVID cases, what is missing?  
+	2. To makes the _ne\_50m\_lakes_ file visible, **drag it up the list** so it is above _ne\_50m\_admin\_0\_countries_ file  
 		![QGIS Table of Contents(qtoc.png)  
-		c. Right click on _ne\_50m\_admin\_0\_countries_ and select **Properties \> **![](paintbrust.png)**(paintbrush)**to change the symbology to a simple dark grey fill with a lighter grey stroke.  
+	3. Right click on _ne\_50m\_admin\_0\_countries_ and select **Properties \> **![](paintbrust.png)**(paintbrush)**to change the symbology to a simple dark grey fill with a lighter grey stroke.  
 		![QGIS Symbology Window](qsymbology.png)  
 		Your map should now look something like:  
 		![Map Canvas](qmapcanvas.png)  
 
 5. Adding data from a .csv file  
-	a. Layer \&gt; Add Layer \> **Add Delimited Text Layer**  
-	b. Click the button to the right of the _File name_ text field and select the _CountryData.csv_ file in your data folder  
-	c. The wizard auto-fills. Ensure that:  
+	1. Layer \&gt; Add Layer \> **Add Delimited Text Layer**  
+	2. Click the button to the right of the _File name_ text field and select the _CountryData.csv_ file in your data folder  
+	3. The wizard auto-fills. Ensure that:  
 		1. **File Format** : _csv_  
 		2. **Record and Field Options:** _First record has field names + detect field types_  
 		3. **Geometry Definition** : _Point coordinates_  
 		4. **Xfield** = _longitude_ **Yfield** = _latitude_  
 		5. **Geometry CRS:** _EPSG: 4326 – WGS 84_  
-	d. Click **Add** button  
+	4. Click **Add** button  
 
 6. Export data to a shapefile format so that it can be used in analysis  
-	a. Right click on your _CountryData_ layer in the TOC  
-	b. Select Export \> **Save Features as**  
+	1. Right click on your _CountryData_ layer in the TOC  
+	2. Select Export \> **Save Features as**  
 		1. **Format** : _ESRI Shapefile_  
 		2. Click the button to the right of the _ **File name** _text field and select the appropriate directory to save your new file, name it something descriptive like _CountryDataSHP_  
 		3. **CRS:** _EPSG: 4326 – WGS 84_  
