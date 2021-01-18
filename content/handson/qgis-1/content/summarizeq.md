@@ -9,22 +9,22 @@ nav_order: 3
 
 ### Software versions
 <details>
-<summary>Question aout versioning?</summary>Web Mercator </details>
+<summary>If I am a beginner, what is the most appropriate version of the software to install?</summary>You want to download the  **Long-term release**.  </details>
 <br>
 
 ### Loading Data
 <details>
-<summary>Question about loading?</summary>Web Mercator </details>
+<summary>QGIS can ingest so mant formats, if I have tabular data, what is the format that will cause me the fewest issues?</summary>**csv files** will be the most robust option. </details>
 <br>
 
 ### Projections
 <details>
-<summary>Question about projections?</summary> Web Mercator </details>
+<summary>What is the default coordinate system used in QGIS?</summary> **WGS 84**  </details>
 <br>
 
-### Symbolize your data
+### Symbolizing data
 <details>
-<summary>Question about properties?</summary>Web Mercator </details>
+<summary>Where do I go to change the colour of my data?</summary>Right-click on the layer name in the Table of Contents and select Properties \> Symbology </details>
 <br>
   
 
