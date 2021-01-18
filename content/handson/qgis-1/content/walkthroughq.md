@@ -8,7 +8,7 @@ nav_order: 2
 
 ## QGIS Exercise – Rebuild the COVID-19 map as a choropleth
 
-![Project Image](qdemo.png)
+![Project Image](qdemo.PNG)
 
 1. **Open** QGIS:  
 	Load the workspace (Project \> Open \> _Covid.qgz_)  
@@ -24,7 +24,7 @@ nav_order: 2
 4. Explore the **Table of Contents**  
 	1. Right click on a layer, **open the attribute table** , if we want to map COVID cases, what is missing?  
 	2. To makes the _ne\_50m\_lakes_ file visible, **drag it up the list** so it is above _ne\_50m\_admin\_0\_countries_ file  
-		![QGIS Table of Contents(qtoc.png)  
+		![QGIS Table of Contents](qtoc.png)  
 	3. Right click on _ne\_50m\_admin\_0\_countries_ and select **Properties \>** ![paintbrush icon](symbologyicon.png) **(paintbrush)** to change the symbology to a simple dark grey fill with a lighter grey stroke.  
 		![QGIS Symbology Window](qsymbology.png)  
 		Your map should now look something like:  
@@ -34,11 +34,11 @@ nav_order: 2
 	1. Layer \> Add Layer \> **Add Delimited Text Layer**  
 	2. Click the button to the right of the _File name_ text field and select the _CountryData.csv_ file in your data folder  
 	3. The wizard auto-fills. Ensure that:  
-		- **File Format** : _csv_  
-		- **Record and Field Options:** _First record has field names + detect field types_  
-		- **Geometry Definition** : _Point coordinates_  
-		- **Xfield** = _longitude_ **Yfield** = _latitude_  
-		- **Geometry CRS:** _EPSG: 4326 – WGS 84_  
+		1. **File Format** : _csv_  
+		2. **Record and Field Options:** _First record has field names + detect field types_  
+		3. **Geometry Definition** : _Point coordinates_  
+		4. **Xfield** = _longitude_ **Yfield** = _latitude_  
+		5. **Geometry CRS:** _EPSG: 4326 – WGS 84_  
 	4. Click **Add** button  
 
 6. Export data to a shapefile format so that it can be used in analysis  
@@ -53,17 +53,17 @@ nav_order: 2
 	1. Plugins \> **Manage and Install Plugins**  
 	2. Search: MMQGIS  
 	3. Click Install Plugin (it should now appear in the Menu area)  
-	![Installing a plugin](qinstallplugin1.png)   
+	![Installing a plugin](qinstallplugin1.PNG)   
 
 8. Perform a **Spatial Join** to join the data from _CountryDataSHP_ with the _ne\_50m\_admin\_0\_countries_ file  
 	1. MMQGIS \> Combine \> Spatial Join  
 	2. In the wizard, ensure that:  
-		- **Output Shape (Target) Layer:**_ne\_50m\_admin\_0\_countries_  
-		- **Spatial Operation:** _Contains_  
-		- **Data (Join) Layer:** _CountryDataSHP_  
-		- **Fields:** ctrl + click to select_: Country, Confirmed, Deaths, Recovered, Latitude, Longitude_  
-		- **Field operation** : _First_  
-		- **Output:** Navigate to your folder and save as _spatialjoin.shp_  
+		1. **Output Shape (Target) Layer:**_ne\_50m\_admin\_0\_countries_  
+		2. **Spatial Operation:** _Contains_  
+		3. **Data (Join) Layer:** _CountryDataSHP_  
+		4. **Fields:** ctrl + click to select: _Country, Confirmed, Deaths, Recovered, Latitude, Longitude_  
+		5. **Field operation** : _First_  
+		6. **Output:** Navigate to your folder and save as _spatialjoin.shp_  
 
 9. Create a Choropleth  
 	1. Right click on _spatialjoin.shp_ and select **Properties \>** ![paintbrush icon](symbologyicon.png) **(paintbrush)** to change the symbology  
@@ -73,11 +73,11 @@ nav_order: 2
     5. **Mode** : Quantile  
     6. **Classes** : 5  
     7. **Values** : Adjust the class cut-offs as you see fit by clicking the values  
-	[QGIS Symbology cut-offs](qclasscutoffs.png)  
+	![QGIS Symbology cut-offs](qclasscutoffs.png)  
     8. Click Apply + OK  
 
 10. The countries with joined data are now symbolized according to number of confirmed cases.  
-	[Finished map](qfinalproduct.png)  
+	![Finished map](qfinalproduct.png)  
 
 Congratulations! You made it through!  
 
