@@ -6,18 +6,18 @@ grand_parent: Workshops
 nav_order: 2
 ---
 
-## QGIS Exercise – Rebuild the COVID-19 map as a choropleth
+# QGIS Exercise – Rebuild the COVID-19 map as a choropleth
 
 ![Project Image](img/qdemo.PNG)
 
-1. **Open** QGIS:  
+## 1. **Open** QGIS:  
 	Load the workspace (Project \> Open \> _Covid.qgz_)  
 
-2. **Interface:**  
+## 2. **Interface:**  
 	Workspace, Table of Contents (TOC), Menu/Tools  
 	![QGIS Interface](img/qinterface.png)  
 
-3. Explore the **workspace** :  
+## 3. Explore the **workspace** :  
 	![QGIS navigation tools](img/qnavigationtools.png)  
 	Try using the pan (hand) and zoom (magnifying glasses) to move around the map  
 
