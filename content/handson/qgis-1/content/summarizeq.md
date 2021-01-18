@@ -7,24 +7,26 @@ nav_order: 3
 ---
 ## Check your Understanding
 
+*Click the arrows to reveal the answers.*
+
 ### Software versions
 <details>
-<summary>If I am a beginner, what is the most appropriate version of the software to install?</summary>You want to download the  <strong>Long-term release</strong>.  </details>
+<summary><strong>If I am a beginner, what is the most appropriate version of the software to install?</strong></summary>You want to download the <em>Long-term release</em>.  </details>
 <br>
 
 ### Loading Data
 <details>
-<summary>QGIS can ingest so mant formats, if I have tabular data, what is the format that will cause me the fewest issues?</summary><strong>csv files</strong> will be the most robust option. </details>
+<summary><strong>QGIS can ingest so mant formats, if I have tabular data, what is the format that will cause me the fewest issues?</strong></summary><em>csv files</em> will be the most robust option. </details>
 <br>
 
 ### Projections
 <details>
-<summary>What is the default coordinate system used in QGIS?</summary> <strong>WGS 84</strong>  </details>
+<summary><strong>What is the default coordinate system used in QGIS?</strong></summary> <em>WGS 84</em>  </details>
 <br>
 
-### Symbolizing data
+### Joining data
 <details>
-<summary>Where do I go to change the colour of my data?</summary>Right-click on the layer name in the Table of Contents and select <strong>Properties > Symbology</strong> </details>
+<summary><strong>Where do I go to join my research data table to geospatial data?</strong></summary>Right-click on the layer name in the <em>Table of Contents > Properties > Symbology</em> </details>
 <br>
   
 

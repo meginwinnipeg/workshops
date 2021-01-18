@@ -16,14 +16,17 @@ nav_order: 2
 
 ## 1. **Open** QGIS:  
 Load the workspace (Project \> Open \> _Covid.qgz_)  
+<br>
 
 ## 2. **Interface:**  
-Workspace, Table of Contents (TOC), Menu/Tools  
+ Numbers 1-3 illustrate the locations of the following elements: Workspace, Table of Contents (TOC), Menu/Tools  
 ![QGIS Interface](img/qinterface.png)  
+<br>
 
 ## 3. Explore the **workspace** :  
 ![QGIS navigation tools](img/qnavigationtools.png)  
-Try using the pan (hand) and zoom (magnifying glasses) to move around the map  
+Try using the pan (hand) and zoom (magnifying glasses) to move around the map.  
+<br>
 
 ## 4. Explore the **Table of Contents**  
 1. Right click on a layer, **open the attribute table** , if we want to map COVID cases, what is missing?  
@@ -33,6 +36,7 @@ Try using the pan (hand) and zoom (magnifying glasses) to move around the map
 	![QGIS Symbology Window](img/qsymbology.png)  
 	Your map should now look something like:  
 	![Map Canvas](img/qmapcanvas.png)  
+<br>
 
 ## 5. Adding data from a .csv file  
 1. Layer \> Add Layer \> **Add Delimited Text Layer**  
@@ -44,6 +48,7 @@ Try using the pan (hand) and zoom (magnifying glasses) to move around the map
 	4. **Xfield** = _longitude_ **Yfield** = _latitude_  
 	5. **Geometry CRS:** _EPSG: 4326 – WGS 84_  
 4. Click **Add** button  
+<br>
 
 ## 6. Export data to a shapefile format so that it can be used in analysis  
 1. Right click on your _CountryData_ layer in the TOC  
@@ -52,12 +57,14 @@ Try using the pan (hand) and zoom (magnifying glasses) to move around the map
 	2. Click the button to the right of the _ **File name** _text field and select the appropriate directory to save your new file, name it something descriptive like _CountryDataSHP_  
 	3. **CRS:** _EPSG: 4326 – WGS 84_  
 ![Export Dialogue Box](img/qexportdialogue.png)  
+<br>
 
 ## 7.  Add a Plugin to perform analysis  
 1. Plugins \> **Manage and Install Plugins**  
 2. Search: MMQGIS  
 3. Click Install Plugin (it should now appear in the Menu area)  
 ![Installing a plugin](img/qinstallplugin1.PNG)   
+<br>
 
 ## 8. Perform a **Spatial Join** to join the data from *CountryDataSHP* with the *Countries* file  
 1. MMQGIS \> Combine \> Spatial Join  
@@ -68,6 +75,7 @@ Try using the pan (hand) and zoom (magnifying glasses) to move around the map
 	4. **Fields:** ctrl + click to select: _Country, Confirmed, Deaths, Recovered, Latitude, Longitude_  
 	5. **Field operation** : _First_  
 	6. **Output:** Navigate to your folder and save as _spatialjoin.shp_  
+<br>
 
 ## 9. Create a Choropleth  
 1. Right click on _spatialjoin.shp_ and select **Properties \>** ![paintbrush icon](img/symbologyicon.png) **(paintbrush)** to change the symbology  
@@ -79,10 +87,13 @@ Try using the pan (hand) and zoom (magnifying glasses) to move around the map
 7. **Values** : Adjust the class cut-offs as you see fit by clicking the values  
 ![QGIS Symbology cut-offs](img/qclasscutoffs.png)  
 8. Click Apply + OK  
+<br>
 
 ## 10. The countries with joined data are now symbolized according to number of confirmed cases.  
 ![Finished map](img/qfinalproduct.png)  
+<br>
 
 Congratulations! You made it through!  
+<br>
 
 Questions? Concerns?  
