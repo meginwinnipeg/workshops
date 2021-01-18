@@ -9,22 +9,22 @@ nav_order: 3
 
 ### Software versions
 <details>
-<summary>If I am a beginner, what is the most appropriate version of the software to install?</summary>You want to download the  **Long-term release**.  </details>
+<summary>If I am a beginner, what is the most appropriate version of the software to install?</summary>You want to download the  <strong>Long-term release</strong>.  </details>
 <br>
 
 ### Loading Data
 <details>
-<summary>QGIS can ingest so mant formats, if I have tabular data, what is the format that will cause me the fewest issues?</summary>**csv files** will be the most robust option. </details>
+<summary>QGIS can ingest so mant formats, if I have tabular data, what is the format that will cause me the fewest issues?</summary><strong>csv files</strong> will be the most robust option. </details>
 <br>
 
 ### Projections
 <details>
-<summary>What is the default coordinate system used in QGIS?</summary> **WGS 84**  </details>
+<summary>What is the default coordinate system used in QGIS?</summary> <strong>WGS 84</strong>  </details>
 <br>
 
 ### Symbolizing data
 <details>
-<summary>Where do I go to change the colour of my data?</summary>Right-click on the layer name in the Table of Contents and select Properties \> Symbology </details>
+<summary>Where do I go to change the colour of my data?</summary>Right-click on the layer name in the Table of Contents and select <strong>Properties > Symbology</strong> </details>
 <br>
   
 
