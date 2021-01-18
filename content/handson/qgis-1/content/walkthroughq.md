@@ -8,7 +8,11 @@ nav_order: 2
 
 # QGIS Exercise – Building the COVID-19 map
 
+---
+
 ![Project Image](img/qdemo.PNG)
+
+---
 
 ## 1. **Open** QGIS:  
 Load the workspace (Project \> Open \> _Covid.qgz_)  
@@ -23,9 +27,9 @@ Try using the pan (hand) and zoom (magnifying glasses) to move around the map
 
 ## 4. Explore the **Table of Contents**  
 1. Right click on a layer, **open the attribute table** , if we want to map COVID cases, what is missing?  
-2. To makes the <u>Lakes</u> file visible, **drag it up the list** so it is above <u>Countries</u> file  
+2. To makes the *Lakes* file visible, **drag it up the list** so it is above *Countries* file  
 	![QGIS Table of Contents](img/qtoc.png)  
-3. Right click on <u>Countries</u> and select **Properties \>** ![paintbrush icon](img/symbologyicon.png) **(paintbrush)** to change the symbology to a simple dark grey fill with a lighter grey stroke.  
+3. Right click on *Countries* and select **Properties \>** ![paintbrush icon](img/symbologyicon.png) **(paintbrush)** to change the symbology to a simple dark grey fill with a lighter grey stroke.  
 	![QGIS Symbology Window](img/qsymbology.png)  
 	Your map should now look something like:  
 	![Map Canvas](img/qmapcanvas.png)  
@@ -55,7 +59,7 @@ Try using the pan (hand) and zoom (magnifying glasses) to move around the map
 3. Click Install Plugin (it should now appear in the Menu area)  
 ![Installing a plugin](img/qinstallplugin1.PNG)   
 
-## 8. Perform a **Spatial Join** to join the data from <u>CountryDataSHP</u> with the <u>Countries</u> file  
+## 8. Perform a **Spatial Join** to join the data from *CountryDataSHP* with the *Countries* file  
 1. MMQGIS \> Combine \> Spatial Join  
 2. In the wizard, ensure that:  
 	1. **Output Shape (Target) Layer:**_Countries_  
