@@ -8,27 +8,27 @@ nav_order: 2
 
 ## QGIS Exercise – Rebuild the COVID-19 map as a choropleth
 
-![Project Image](images/qdemo.PNG)
+![Project Image](img/qdemo.PNG)
 
 1. **Open** QGIS:  
 	Load the workspace (Project \> Open \> _Covid.qgz_)  
 
 2. **Interface:**  
 	Workspace, Table of Contents (TOC), Menu/Tools  
-	![QGIS Interface](images/qinterface.png)  
+	![QGIS Interface](img/qinterface.png)  
 
 3. Explore the **workspace** :  
-	![QGIS navigation tools](images/qnavigationtools.png)  
+	![QGIS navigation tools](img/qnavigationtools.png)  
 	Try using the pan (hand) and zoom (magnifying glasses) to move around the map  
 
 4. Explore the **Table of Contents**  
 	1. Right click on a layer, **open the attribute table** , if we want to map COVID cases, what is missing?  
 	2. To makes the _ne\_50m\_lakes_ file visible, **drag it up the list** so it is above _ne\_50m\_admin\_0\_countries_ file  
-		![QGIS Table of Contents](images/qtoc.png)  
-	3. Right click on _ne\_50m\_admin\_0\_countries_ and select **Properties \>** ![paintbrush icon](images/symbologyicon.png) **(paintbrush)** to change the symbology to a simple dark grey fill with a lighter grey stroke.  
+		![QGIS Table of Contents](img/qtoc.png)  
+	3. Right click on _ne\_50m\_admin\_0\_countries_ and select **Properties \>** ![paintbrush icon](img/symbologyicon.png) **(paintbrush)** to change the symbology to a simple dark grey fill with a lighter grey stroke.  
 		![QGIS Symbology Window](images/qsymbology.png)  
 		Your map should now look something like:  
-		![Map Canvas](images/qmapcanvas.png)  
+		![Map Canvas](img/qmapcanvas.png)  
 
 5. Adding data from a .csv file  
 	1. Layer \> Add Layer \> **Add Delimited Text Layer**  
@@ -47,13 +47,13 @@ nav_order: 2
 		1. **Format** : _ESRI Shapefile_  
 		2. Click the button to the right of the _ **File name** _text field and select the appropriate directory to save your new file, name it something descriptive like _CountryDataSHP_  
 		3. **CRS:** _EPSG: 4326 – WGS 84_  
-	![Export Dialogue Box](images/qexportdialogue.png)  
+	![Export Dialogue Box](img/qexportdialogue.png)  
 
 7.  Add a Plugin to perform analysis  
 	1. Plugins \> **Manage and Install Plugins**  
 	2. Search: MMQGIS  
 	3. Click Install Plugin (it should now appear in the Menu area)  
-	![Installing a plugin](images/qinstallplugin1.PNG)   
+	![Installing a plugin](img/qinstallplugin1.PNG)   
 
 8. Perform a **Spatial Join** to join the data from _CountryDataSHP_ with the _ne\_50m\_admin\_0\_countries_ file  
 	1. MMQGIS \> Combine \> Spatial Join  
@@ -66,18 +66,18 @@ nav_order: 2
 		6. **Output:** Navigate to your folder and save as _spatialjoin.shp_  
 
 9. Create a Choropleth  
-	1. Right click on _spatialjoin.shp_ and select **Properties \>** ![paintbrush icon](images/symbologyicon.png) **(paintbrush)** to change the symbology  
+	1. Right click on _spatialjoin.shp_ and select **Properties \>** ![paintbrush icon](img/symbologyicon.png) **(paintbrush)** to change the symbology  
 	2. **Symbology type** : _Graduated_ (from the dropdown)  
     3. **Column** : Confirmed  
     4. **Colour ramp** : Anything light to dark  
     5. **Mode** : Quantile  
     6. **Classes** : 5  
     7. **Values** : Adjust the class cut-offs as you see fit by clicking the values  
-	![QGIS Symbology cut-offs](images/qclasscutoffs.png)  
+	![QGIS Symbology cut-offs](img/qclasscutoffs.png)  
     8. Click Apply + OK  
 
 10. The countries with joined data are now symbolized according to number of confirmed cases.  
-	![Finished map](images/qfinalproduct.png)  
+	![Finished map](img/qfinalproduct.png)  
 
 Congratulations! You made it through!  
 
