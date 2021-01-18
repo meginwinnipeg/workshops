@@ -8,29 +8,30 @@ nav_order: 2
 
 ## QGIS Exercise – Rebuild the COVID-19 map as a choropleth
 
+![Project Image](qdemo.png)
 
 1. **Open** QGIS:  
-	Load the workspace (Project > Open > _Covid.qgz_)  
+	Load the workspace (Project \> Open \> _Covid.qgz_)  
 
 2. **Interface:**  
 	Workspace, Table of Contents (TOC), Menu/Tools  
-	[QGIS Interface](qinterface.png)  
+	![QGIS Interface](qinterface.png)  
 
 3. Explore the **workspace** :  
-	[QGIS navigation tools](qnavigationtools.png)  
+	![QGIS navigation tools](qnavigationtools.png)  
 	Try using the pan (hand) and zoom (magnifying glasses) to move around the map  
 
 4. Explore the **Table of Contents**  
-	a. Right click on a layer, **open the attribute table** , if we want to map COVID cases, what is missing?  
-	b. To makes the _ne\_50m\_lakes_ file visible, **drag it up the list** so it is above _ne\_50m\_admin\_0\_countries_ file  
-	[QGIS Table of Contents(qtoc.png)  
-	c. Right click on _ne\_50m\_admin\_0\_countries_ and select **Properties \&gt;**![](paintbrust.png)**(paintbrush)**to change the symbology to a simple dark grey fill with a lighter grey stroke.  
-	[QGIS Symbology Window](qsymbology.png)  
-	Your map should now look something like:  
-	[Map Canvas](qmapcanvas.png)  
+		a. Right click on a layer, **open the attribute table** , if we want to map COVID cases, what is missing?  
+		b. To makes the _ne\_50m\_lakes_ file visible, **drag it up the list** so it is above _ne\_50m\_admin\_0\_countries_ file  
+		![QGIS Table of Contents(qtoc.png)  
+		c. Right click on _ne\_50m\_admin\_0\_countries_ and select **Properties \> **![](paintbrust.png)**(paintbrush)**to change the symbology to a simple dark grey fill with a lighter grey stroke.  
+		![QGIS Symbology Window](qsymbology.png)  
+		Your map should now look something like:  
+		![Map Canvas](qmapcanvas.png)  
 
 5. Adding data from a .csv file  
-	a. Layer \&gt; Add Layer \&gt; **Add Delimited Text Layer**  
+	a. Layer \&gt; Add Layer \> **Add Delimited Text Layer**  
 	b. Click the button to the right of the _File name_ text field and select the _CountryData.csv_ file in your data folder  
 	c. The wizard auto-fills. Ensure that:  
 		1. **File Format** : _csv_  
@@ -42,18 +43,18 @@ nav_order: 2
 
 6. Export data to a shapefile format so that it can be used in analysis  
 	a. Right click on your _CountryData_ layer in the TOC  
-	b. Select Export \&gt; **Save Features as**  
+	b. Select Export \> **Save Features as**  
 		1. **Format** : _ESRI Shapefile_  
 		2. Click the button to the right of the _ **File name** _text field and select the appropriate directory to save your new file, name it something descriptive like _CountryDataSHP_  
 		3. **CRS:** _EPSG: 4326 – WGS 84_  
-	[](RackMultipart20210118-4-n4hr5h_html_814f95fe432ebe13.png)
+	![](RackMultipart20210118-4-n4hr5h_html_814f95fe432ebe13.png)
 
 7.  Add a Plugin to perform analysis  
 	a. Plugins \&gt; **Manage and Install Plugins**  
 	b. Search: MMQGIS  
 	c. Click Install Plugin (it should now appear in the Menu area)  
-	[](RackMultipart20210118-4-n4hr5h_html_26235ee7873403fa.gif)  
-	[](RackMultipart20210118-4-n4hr5h_html_74143c9e6d44681c.png)  
+	![](RackMultipart20210118-4-n4hr5h_html_26235ee7873403fa.gif)  
+	![](RackMultipart20210118-4-n4hr5h_html_74143c9e6d44681c.png)  
 
 8. Perform a **Spatial Join** to join the data from _CountryDataSHP_ with the _ne\_50m\_admin\_0\_countries_ file  
 	a. MMQGIS \&gt; Combine \&gt; Spatial Join  
