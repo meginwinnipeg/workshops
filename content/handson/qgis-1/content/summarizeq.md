@@ -26,7 +26,7 @@ nav_order: 3
 
 ## Joining data
 <details>
-<summary><strong>Where do I go to join my research data table to geospatial data?</strong></summary>Right-click on the layer name in the <em>Table of Contents > Properties > Symbology</em>. </details>
+<summary><strong>Where do I go to join my research data table to geospatial data?</strong></summary>Right-click on the layer name in the <em>Table of Contents > Properties > Join</em>. </details>
 
   
 
