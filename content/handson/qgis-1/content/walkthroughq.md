@@ -16,7 +16,7 @@ nav_order: 2
 
 ## 1. **Load** a Project:  
 1. Open QGIS from the list of programs on your computer.  
-2. Load the workspace (**Project \> Open \> _Covid.qgz_**  
+2. Load the workspace **Project \> Open \> _Covid.qgz_**  
 <br>
 
 ## 2. **Interface:**  
@@ -72,7 +72,7 @@ Try using the pan (hand) and zoom (magnifying glasses) to move around the map.
 2. **Symbology type** : _Graduated_ (from the dropdown)  
 3. **Column** : Confirmed  
 4. **Colour ramp** : Anything light to dark  
-5. **Mode** : Quantile  
+5. **Mode** : Natural Breaks (Jenks)  
 6. **Classes** : 5  
 7. **Values** : Adjust the class cut-offs as you see fit by clicking the values  
 ![QGIS Symbology cut-offs](img/qclasscutoffs.png)  
