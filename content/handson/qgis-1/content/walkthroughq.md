@@ -14,23 +14,27 @@ nav_order: 2
 
 ---
 
-## 1. **Open** QGIS:  
-Load the workspace (Project \> Open \> _Covid.qgz_)  
+## 1. **Load** a Project:  
+1. Open QGIS from the list of programs on your computer.  
+2. Load the workspace (**Project \> Open \> _Covid.qgz_**  
 <br>
 
 ## 2. **Interface:**  
- Numbers 1-3 illustrate the locations of the following elements: Workspace, Table of Contents (TOC), Menu/Tools  
+Numbers 1-3 illustrate the locations of the following elements: 
+1. Workspace  
+2. Table of Contents (TOC)  
+3. Menu/Tools  
 ![QGIS Interface](img/qinterface.png)  
 <br>
 
 ## 3. Explore the **workspace** :  
-![QGIS navigation tools](img/qnavigationtools.png)  
 Try using the pan (hand) and zoom (magnifying glasses) to move around the map.  
+![QGIS navigation tools](img/qnavigationtools.png)  
 <br>
 
 ## 4. Explore the **Table of Contents**  
 1. There is a *Lakes* file listed in the TOC but it is not visible on the map:  
-	To makes the *Lakes* file visible, **drag it up the list** so it is above *Countries* file  
+	To makes the *Lakes* file visible, **drag it up the list** so it is above *Countries* file.  
 	![QGIS Table of Contents](img/qtoc.PNG)  
 	Your map should now look something like:  
 	![Map Canvas](img/qmapcanvas.png)  
@@ -54,7 +58,7 @@ Try using the pan (hand) and zoom (magnifying glasses) to move around the map.
 1. Right click on _Countries_ and select **Properties \>** ![join icon](img/joinsicon.PNG) **(Joins)** to open the dialogue box.  
 2. Click the plus sign at the bottom of the dialogue to create a new Join.   
 2. In the wizard, ensure that:  
-	1. **Join Layer:**_coviddata_  
+	1. **Join Layer:** _coviddata_  
 	2. **Join field:** _Country Re_  
 	3. **Target Field:** _NAME EN_  
 	4. Check off the option to cache join layer in virtual memory  
