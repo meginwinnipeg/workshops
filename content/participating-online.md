@@ -11,14 +11,14 @@ Your  microphone will be muted by default to improve audio quality. This session
 ![GoToWebinar Audio Options](img/gotoaudio.png)
 
 ## GoToWebinar
-The toolbar provides a couple of ways to ask questions and interact with your colleagues.  
+The toolbar provides limited methods to interact with the instructor or your peers.  
 
 ![GoToWebinar Toolbar](img/gototools.png)
 
 Clicking on the red arrow opens your tools.  
 
 ## Raise hand button
-Use the _Raise Hand_ button to ask to be unmuted to comment or ask a the instructor a question during question period. 
+Use the _Raise Hand_ button to ask to be unmuted to comment in question period. Try and think of these sessions as a live YouTube video. Asking for assistance with specific technical issues will not be helpful to the broader audience, but asking general questions will be. 
 
 ## Questions window
 Use the _Questions_ window to comment or ask a the instructor a question at any time. Instructors will do their best to respond, sometimes waiting for a break in the lesson to do so.  

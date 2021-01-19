@@ -29,56 +29,42 @@ Try using the pan (hand) and zoom (magnifying glasses) to move around the map.
 <br>
 
 ## 4. Explore the **Table of Contents**  
-1. Right click on a layer, **open the attribute table** , if we want to map COVID cases, what is missing?  
-2. To makes the *Lakes* file visible, **drag it up the list** so it is above *Countries* file  
+1. There is a *Lakes* file listed in the TOC but it is not visible on the map:  
+	To makes the *Lakes* file visible, **drag it up the list** so it is above *Countries* file  
 	![QGIS Table of Contents](img/qtoc.png)  
-3. Right click on *Countries* and select **Properties \>** ![paintbrush icon](img/symbologyicon.png) **(paintbrush)** to change the symbology to a simple dark grey fill with a lighter grey stroke.  
-	![QGIS Symbology Window](img/qsymbology.png)  
 	Your map should now look something like:  
 	![Map Canvas](img/qmapcanvas.png)  
+2. Right click on the *Countries* layer, **open the attribute table** , if we want to map COVID cases, what information is missing from the *Countries* file?  
 <br>
 
-## 5. Adding data from a .csv file  
-1. Layer \> Add Layer \> **Add Delimited Text Layer**  
-2. Click the button to the right of the _File name_ text field and select the _CountryData.csv_ file in your data folder  
+## 5. Adding data from a .csv file:  
+1. There are multiple ways to add a .csv file to QGIS. The most efficient is:  
+	Layer \> Add Layer \> **Add Delimited Text Layer**  
+2. Click the button to the right of the _File name_ text field and select the _covidData.csv_ file in your data folder.  
 3. The wizard auto-fills. Ensure that:  
 	1. **File Format** : _csv_  
 	2. **Record and Field Options:** _First record has field names + detect field types_  
-	3. **Geometry Definition** : _Point coordinates_  
-	4. **Xfield** = _longitude_ **Yfield** = _latitude_  
-	5. **Geometry CRS:** _EPSG: 4326 – WGS 84_  
+	3. **Geometry Definition** : _No Geometry (attribute table only)_  
+	4. Ensure the preview looks accurate     
 4. Click **Add** button  
+	![QGIS add delimited text dialogue](img/qadddialogue.png)  
 <br>
 
-## 6. Export data to a shapefile format so that it can be used in analysis  
-1. Right click on your _CountryData_ layer in the TOC  
-2. Select Export \> **Save Features as**  
-	1. **Format** : _ESRI Shapefile_  
-	2. Click the button to the right of the _ **File name** _text field and select the appropriate directory to save your new file, name it something descriptive like _CountryDataSHP_  
-	3. **CRS:** _EPSG: 4326 – WGS 84_  
-![Export Dialogue Box](img/qexportdialogue.png)  
-<br>
-
-## 7.  Add a Plugin to perform analysis  
-1. Plugins \> **Manage and Install Plugins**  
-2. Search: MMQGIS  
-3. Click Install Plugin (it should now appear in the Menu area)  
-![Installing a plugin](img/qinstallplugin1.PNG)   
-<br>
-
-## 8. Perform a **Spatial Join** to join the data from *CountryDataSHP* with the *Countries* file  
-1. MMQGIS \> Combine \> Spatial Join  
+## 6. Perform a **Join** to add the data from *covidData.csv* to the *Countries* file.  
+1. Right click on _Countries_ and select **Properties \>** ![join icon](img/joinsicon.png) **(Joins)** to open the dialogue box.  
+2. Click the plus sign at the bottom of the dialogue to create a new Join.   
 2. In the wizard, ensure that:  
-	1. **Output Shape (Target) Layer:**_Countries_  
-	2. **Spatial Operation:** _Contains_  
-	3. **Data (Join) Layer:** _CountryDataSHP_  
-	4. **Fields:** ctrl + click to select: _Country, Confirmed, Deaths, Recovered, Latitude, Longitude_  
-	5. **Field operation** : _First_  
-	6. **Output:** Navigate to your folder and save as _spatialjoin.shp_  
+	1. **Join Layer:**_coviddata_  
+	2. **Join field:** _Country Re_  
+	3. **Target Field:** _NAME EN_  
+	4. Check off the option to cache join layer in virtual memory  
+	5. Click **OK**  
+	![QGIS create join dialogue](img/qjoindialogue.png)
+	6. Right click on the *Countries* layer, **open the attribute table** ,now the COVID numbers have been appended to the end of the attribute table.  
 <br>
 
-## 9. Create a Choropleth  
-1. Right click on _spatialjoin.shp_ and select **Properties \>** ![paintbrush icon](img/symbologyicon.png) **(paintbrush)** to change the symbology  
+## 7. Create a Choropleth  
+1. Right click on _Countries_ and select **Properties \>** ![paintbrush icon](img/symbologyicon.png) **(paintbrush)** to change the symbology  
 2. **Symbology type** : _Graduated_ (from the dropdown)  
 3. **Column** : Confirmed  
 4. **Colour ramp** : Anything light to dark  
@@ -89,8 +75,17 @@ Try using the pan (hand) and zoom (magnifying glasses) to move around the map.
 8. Click Apply + OK  
 <br>
 
-## 10. The countries with joined data are now symbolized according to number of confirmed cases.  
+## 8. The countries with joined data are now symbolized according to number of confirmed cases.  
 ![Finished map](img/qfinalproduct.png)  
+<br>
+
+## 9. Export data to a shapefile format so that it can be used in analysis.  
+1. Right click on your _Countries_ layer in the TOC  
+2. Select Export \> **Save Features as**  
+	1. **Format** : _ESRI Shapefile_  
+	2. Click the button to the right of the _ **File name** _text field and select the appropriate directory to save your new file with the rest of your data, name it something descriptive like _CountriesCOVIDcounts_  
+	3. **CRS:** _EPSG: 4326 – WGS 84_  
+![Export Dialogue Box](img/qexportdialogue.png)  
 <br>
 
 Congratulations! You made it through!  
