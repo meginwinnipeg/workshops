@@ -35,7 +35,7 @@ Try using the pan (hand) and zoom (magnifying glasses) to move around the map.
 ## 4. Explore the **Table of Contents**  
 1. There is a *Lakes* file listed in the TOC but it is not visible on the map:  
 	To makes the *Lakes* file visible, **drag it up the list** so it is above *Countries* file.  
-	![QGIS Table of Contents](img/qtoc.PNG)  
+	![QGIS Table of Contents](img/qtoc.png)  
 	Your map should now look something like:  
 	![Map Canvas](img/qmapcanvas.png)  
 2. Right click on the *Countries* layer, **open the attribute table** , if we want to map COVID cases, what information is missing from the *Countries* file?  

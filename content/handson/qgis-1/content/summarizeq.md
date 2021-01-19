@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Q Knowledge check
+title: Q FAQs
 parent: QGIS 1
 grand_parent: Workshops
 nav_order: 3
 ---
-# Check your Understanding
+# QGIS FAQs
 
 *Click the arrows to reveal the answers.*
 
