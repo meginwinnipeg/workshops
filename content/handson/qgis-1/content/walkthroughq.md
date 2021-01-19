@@ -31,7 +31,7 @@ Try using the pan (hand) and zoom (magnifying glasses) to move around the map.
 ## 4. Explore the **Table of Contents**  
 1. There is a *Lakes* file listed in the TOC but it is not visible on the map:  
 	To makes the *Lakes* file visible, **drag it up the list** so it is above *Countries* file  
-	![QGIS Table of Contents](img/qtoc.png)  
+	![QGIS Table of Contents](img/qtoc.PNG)  
 	Your map should now look something like:  
 	![Map Canvas](img/qmapcanvas.png)  
 2. Right click on the *Countries* layer, **open the attribute table** , if we want to map COVID cases, what information is missing from the *Countries* file?  
@@ -47,11 +47,11 @@ Try using the pan (hand) and zoom (magnifying glasses) to move around the map.
 	3. **Geometry Definition** : _No Geometry (attribute table only)_  
 	4. Ensure the preview looks accurate     
 4. Click **Add** button  
-	![QGIS add delimited text dialogue](img/qadddialogue.png)  
+	![QGIS add delimited text dialogue](img/qadddialogue.PNG)  
 <br>
 
 ## 6. Perform a **Join** to add the data from *covidData.csv* to the *Countries* file.  
-1. Right click on _Countries_ and select **Properties \>** ![join icon](img/joinsicon.png) **(Joins)** to open the dialogue box.  
+1. Right click on _Countries_ and select **Properties \>** ![join icon](img/joinsicon.PNG) **(Joins)** to open the dialogue box.  
 2. Click the plus sign at the bottom of the dialogue to create a new Join.   
 2. In the wizard, ensure that:  
 	1. **Join Layer:**_coviddata_  
@@ -59,7 +59,7 @@ Try using the pan (hand) and zoom (magnifying glasses) to move around the map.
 	3. **Target Field:** _NAME EN_  
 	4. Check off the option to cache join layer in virtual memory  
 	5. Click **OK**  
-	![QGIS create join dialogue](img/qjoindialogue.png)
+	![QGIS create join dialogue](img/qjoindialogue.PNG)  
 	6. Right click on the *Countries* layer, **open the attribute table** ,now the COVID numbers have been appended to the end of the attribute table.  
 <br>
 
@@ -83,7 +83,7 @@ Try using the pan (hand) and zoom (magnifying glasses) to move around the map.
 1. Right click on your _Countries_ layer in the TOC  
 2. Select Export \> **Save Features as**  
 	1. **Format** : _ESRI Shapefile_  
-	2. Click the button to the right of the _ **File name** _text field and select the appropriate directory to save your new file with the rest of your data, name it something descriptive like _CountriesCOVIDcounts_  
+	2. Click the button to the right of the **File name** text field and select the appropriate directory to save your new file with the rest of your data, name it something descriptive like _CountriesCOVIDcounts_  
 	3. **CRS:** _EPSG: 4326 – WGS 84_  
 ![Export Dialogue Box](img/qexportdialogue.png)  
 <br>
