@@ -18,10 +18,10 @@ nav_order: 1
 ## Key points from slides:
 - GIS is any system used to analyze, capture or work with geospatial data and can ingest three main types of data: tabular, vector and raster.  
 - Different tools within the software are only able to work with specific data types.  
-- Before embarking on a GIS project it is good to take stock of three main things: 
-	- Context
-	- Resources
-	- Users  
-- QGIS is the most robust entry level open-source GIS tool available.
+- Before embarking on a GIS project it is good to take stock of your objective to help you select the appropriate tool: 
+	- Visualize + Contextualize: Google Earth  
+	- Perform Analysis: QGIS  
+	- Visualize & Share: Leaflet, mapbox.js, Carto...  
+- QGIS is the most robust entry level open-source GIS analysis tool available.
 - Many open tools can be found linked from the [data visualization subject guide](https://libguides.lib.umanitoba.ca/viz).  
 

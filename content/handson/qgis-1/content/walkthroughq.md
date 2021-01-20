@@ -73,10 +73,11 @@ Try using the pan (hand) and zoom (magnifying glasses) to move around the map.
 3. **Column** : Confirmed  
 4. **Colour ramp** : Anything light to dark  
 5. **Mode** : Natural Breaks (Jenks)  
-6. **Classes** : 5  
-7. **Values** : Adjust the class cut-offs as you see fit by clicking the values  
+6. **Classes** : 5
+7. Click **Classify** to classify your data    
+8. **Values** : Adjust the class cut-offs as you see fit by clicking the values  
 ![QGIS Symbology cut-offs](img/qclasscutoffs.png)  
-8. Click Apply + OK  
+9. Click Apply + OK  
 <br>
 
 ## 8. The countries with joined data are now symbolized according to number of confirmed cases.  
