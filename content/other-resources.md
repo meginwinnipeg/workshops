@@ -14,4 +14,4 @@ Here are some links to UML resources you may find useful:
 If you're working through a project, here are some good places to start:
 -  [GIS Stack Exchange](https://gis.stackexchange.com/)
 -  [GeoNet (ESRI Support Forums)](https://community.esri.com/)
--  [Official QGIS Documentation](https://www.qgis.org/en/docs/index.html)
+-  [Official QGIS Training Manual (LTR 3.10)](https://docs.qgis.org/3.10/en/docs/training_manual/)
