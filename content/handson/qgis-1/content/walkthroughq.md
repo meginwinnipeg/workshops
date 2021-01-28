@@ -97,3 +97,5 @@ Congratulations! You made it through!
 <br>
 
 Questions? Concerns?  
+
+<small> Data:[Natural Earth](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/), [JHU CSSE COVID-19 Data Repository](https://github.com/CSSEGISandData/COVID-19)</small>  
