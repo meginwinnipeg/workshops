@@ -11,22 +11,22 @@ nav_order: 3
 
 ## Software versions
 <details>
-<summary><strong>If I am a beginner, what is the most appropriate version of the software to install?</strong></summary>You want to download the <em>Long-term release</em>.  </details>
+<summary><strong>I am using the PowerBI app in my web browser and can't find the data cleaning menus. I could find them when I was in the Lab...</strong></summary>The PowerBI app (SaaS) has much less functionality than the Desktop version. Data transformation options are only available in Desktop.</em>.  </details>
 <br>
 
-## Loading Data
+## Failed Visualizations
 <details>
-<summary><strong>QGIS can ingest so many formats, if I have tabular data, which one will cause me the fewest issues? </strong></summary> <em>CSV files</em> will be the most robust option. </details>
+<summary><strong>This is a disaster, nothing is showing up the way I am expecting it to.</strong></summary> Before you begin to visualize <em>clean data</em> is critical. This means no merged fields, floating legends or rogue images. Ensure each column has a descriptive header to help you navigate.</details>
 <br>
 
-## Projections
+## Data Classification
 <details>
-<summary><strong>What is the default coordinate system used in QGIS?</strong></summary> <em>WGS 84.</em>  </details>
+<summary><strong>My data is continuous, but the options I want to use for visualization are greyed out. Whats going on?</strong></summary> <em>You probably haven't set the correct data type, format or summarization on that particular field. Make adjustments in the <em>data</em> panel.</details>
 <br>
 
 ## Joining data
 <details>
-<summary><strong>Where do I go to join my research data table to geospatial data?</strong></summary>Right-click on the layer name in the <em>Table of Contents > Properties > Join</em>. </details>
+<summary><strong>I am trying to use a Merge Query to join two tables but it isn't working!</strong></summary>Often it is the data types that will be causing the issue. Make sure the fields you are trying to join on <em>match in type</em> (ie. text, decimal...). Also ensure there are no <em>errors</em> in your data (nulls etc). </details>
 
   
 
