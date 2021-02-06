@@ -21,7 +21,7 @@ nav_order: 3
 
 ## Data Classification
 <details>
-<summary><strong>My data is continuous, but the options I want to use for visualization are greyed out. What's going on?</strong></summary> You probably haven't set the correct data type, format or summarization on that particular field. Make adjustments in the <em>data</em> panel.</details>
+<summary><strong>My data is continuous, but the options I want to use for visualization are greyed out. What's going on?</strong></summary> You probably haven't set the correct data type, format or summarization on that particular field. Make adjustments in the <em>data</em> panel.</details>  
 <br>
 
 ## Joining data
