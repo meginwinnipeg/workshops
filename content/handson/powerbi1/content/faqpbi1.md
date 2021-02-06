@@ -11,17 +11,17 @@ nav_order: 3
 
 ## Software versions
 <details>
-<summary><strong>I am using the PowerBI app in my web browser and can't find the data cleaning menus. I could find them when I was in the Lab...</strong></summary>The PowerBI app (SaaS) has much less functionality than the Desktop version. Data transformation options are only available in Desktop.</em>.  </details>
+<summary><strong>I am using the PowerBI app in my web browser and can't find the data cleaning menus. I could find them when I was in the Lab...</strong></summary>The PowerBI app (SaaS) has much less functionality than the Desktop version. Data transformation options are only available in Desktop.</details>
 <br>
 
 ## Failed Visualizations
 <details>
-<summary><strong>This is a disaster, nothing is showing up the way I am expecting it to.</strong></summary> Before you begin to visualize <em>clean data</em> is critical. This means no merged fields, floating legends or rogue images. Ensure each column has a descriptive header to help you navigate.</details>
+<summary><strong>This is a disaster, nothing is showing up the way I am expecting it to.</strong></summary> Before you begin to visualize <em>clean data</em> is critical. This means no merged fields, floating legends or rogue images. Ensure each column has a descriptive header to help you navigate.</details>  
 <br>
 
 ## Data Classification
 <details>
-<summary><strong>My data is continuous, but the options I want to use for visualization are greyed out. Whats going on?</strong></summary> <em>You probably haven't set the correct data type, format or summarization on that particular field. Make adjustments in the <em>data</em> panel.</details>
+<summary><strong>My data is continuous, but the options I want to use for visualization are greyed out. What's going on?</strong></summary> You probably haven't set the correct data type, format or summarization on that particular field. Make adjustments in the <em>data</em> panel.</details>
 <br>
 
 ## Joining data
