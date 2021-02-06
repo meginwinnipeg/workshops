@@ -11,7 +11,7 @@ nav_order: 1
 *Follow along and interact with the slides below if you want:*
 <br>
 
-<iframe width="720" height="480" frameborder="0" marginheight="0" marginwidth="0" style="border:12px solid  #fcfcfc" src="https://meginwinnipeg.github.io/slides/qgis_s2021.html"></iframe>
+<iframe width="720" height="480" frameborder="0" marginheight="0" marginwidth="0" style="border:12px solid  #fcfcfc" src="https://meginwinnipeg.github.io/slides/pbi_s2021.html"></iframe>
 
 <hr>
 
@@ -23,5 +23,5 @@ nav_order: 1
 	- Perform Analysis: QGIS  
 	- Visualize & Share: Leaflet, mapbox.js, Carto...  
 - QGIS is the most robust entry level open-source GIS analysis tool available.
-- Many open tools can be found linked from the [data visualization subject guide](https://libguides.lib.umanitoba.ca/viz).  
+- Many visualization tools can be found linked from the [data visualization subject guide](https://libguides.lib.umanitoba.ca/viz).  
 
