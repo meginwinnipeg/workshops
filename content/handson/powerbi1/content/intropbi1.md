@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Introduction to QGIS
-parent: QGIS 1
+title: Introduction to PowerBI
+parent: PowerBI 1
 grand_parent: Workshops
 nav_order: 1
 ---
 
-# Introduction to QGIS
+# Introduction to PowerBI
 
 *Follow along and interact with the slides below if you want:*
 <br>

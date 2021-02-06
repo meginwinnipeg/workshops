@@ -1,12 +1,12 @@
 ---
 layout: default
-title: COVID Exercise
-parent: QGIS 1
+title: SciHub Exercise
+parent: PowerBI 1
 grand_parent: Workshops
 nav_order: 2
 ---
 
-# QGIS Exercise – Building the COVID-19 map
+# PowerBI Exercise – Building a better dashboard
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: QGIS 1
-nav_order: 1
+title: PowerBI 1
+nav_order: 2
 parent: Workshops
 has_children: true
 has_toc: false
 ---
-# Introduction to QGIS
+# Introduction to PowerBI
 
 ## Objectives:
 

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Q FAQs
-parent: QGIS 1
+title: PowerBI FAQs
+parent: PowerBI 1
 grand_parent: Workshops
 nav_order: 3
 ---
-# QGIS FAQs
+# PowerBI FAQs
 
 *Click the arrows to reveal the answers.*
 
