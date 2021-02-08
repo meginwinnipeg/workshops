@@ -27,7 +27,7 @@ Numbers 1-5 illustrate the locations of the following elements:
 4. **Filters** (where you can limit results by only selecting from records that match a certain criteria)  
 5. **Workspace**
 
-![PowerBI Interface Elements](img/interface.PNG)  
+	![PowerBI Interface Elements](img/interface.PNG)  
 <br>
 
 Numbers 6-8 illustrate the locations of the following views: 
@@ -35,12 +35,12 @@ Numbers 6-8 illustrate the locations of the following views:
 7. **Data** (your data in tabular format)  
 8. **Models** (how your data are related)  
 
-![PowerBI Interface Views](img/interface2.PNG)  
+	![PowerBI Interface Views](img/interface2.PNG)  
 <br>
 
 ## 3. Explore the **reports workspace** :  
 This is our dashboard of visualizations. It is possible to interact with the graphics by panning, clicking and hovering to learn more about the data.  
-![Dashboard view](img/dashbad.PNG)  
+	![Dashboard view](img/dashbad.PNG)  
 <br>
 
 ## 4. **Explanatory text** (tab 2) is a critical but often overlooked part of a dashboard.
@@ -53,9 +53,8 @@ This is our dashboard of visualizations. It is possible to interact with the gra
 	2. Replace the _your name here_ text with your own name  
     3. Using your mouse **click and drag** to select all the text, then select the **align centre** option from the properties box to change the justification.  
 	![justify text menu](img/expla2.PNG)  
-	
-Your workspace should now look something like this:  
-![Explanatory Text Workspace](img/explafin.PNG) 
+3. Your workspace should now look something like this:  
+	![Explanatory Text Workspace](img/explafin.PNG) 
 <br>
 
 ## 5. **Tree Map** (tab 3) - Edit a field name for display purposes.  
@@ -67,9 +66,8 @@ Often our data headers will not be in plain language for our audience or formatt
 4. Change the text from _Count of publisher_DOI_prefixes.PublisherName_ to _Distinct publishers_  
 	![PowerBI rename field dialogue](img/tree1.PNG)  
 5. Press **Enter** to save your changes.  
-<br>
-You can now see the changes in the tooltip:  
-![Tooltip changes](img/tree2.PNG)
+6. You can now see the changes in the tooltip:  
+	![Tooltip changes](img/tree2.PNG)  
 <br>
 
 ## 6. **Pie** (tab 4)- Add data to a new visualization.  
@@ -80,9 +78,8 @@ I have already created the container for you, all that needs to be done is to po
 	2. Click the **checkbox** beside the _Day_Night_ field to link it to the chart.   
     3. Now **drag and drop** the _Day_Night_ field from the Fields panel to the **Values** property of the Visualizations panel. It should auto-load as a count.  
 	![Load data dialogue](img/pie1.PNG)  
-	
-Your workspace should now look something like this:  
-![Pie Workspace](img/piefin.PNG) 
+3. Your workspace should now look something like this:  
+	![Pie Workspace](img/piefin.PNG) 
 <br>
 
 ## 7. **Outliers** (tab 5) – Turn off slider, edit title, add labels.
@@ -94,14 +91,14 @@ While the zoom slider on the y-axis does help us to contend with the high volume
 	![Zoom slider toggle](img/outlier2.PNG)  
 4. Toggle the **Data labels** slider option from the **'off'** to the **'on'** position, we now have labels, but not meaningful ones.  
 5. Open the **Data Labels** dropdown by clicking on the arrow and change the **Display Units** from **‘auto’** to **‘none’**.  
- ![Data labels options](img/outlier3.PNG)  
+	![Data labels options](img/outlier3.PNG)  
 6. Open the **Title** dropdown and edit the _Title_ to remove the reference to the slider.  
- ![Data labels options](img/outlier4.PNG)  
-Your workspace should now look something like this:  
-![Outliers Workspace](img/outlierfin.PNG)   
+	![Data labels options](img/outlier4.PNG)  
+7. Your workspace should now look something like this:  
+	![Outliers Workspace](img/outlierfin.PNG)   
 <br>
 
-## 8. **Map** (Tabs 6 & 7)– Adjust base map, convert a report to a tool tip. 
+## 8. **Map** (tabs 6 & 7)– Adjust base map, convert a report to a tool tip. 
 We want our dashboard to look like a cohesive whole with the data being the primary focus, but also not overwhelming the user.  
 1. Left click once on the map to activate it  
 2. In the _Visualization panel_ ensure the *format* option is selected,  
@@ -116,25 +113,22 @@ We want our dashboard to look like a cohesive whole with the data being the prim
 	4. Open the **Page size** dropdown and change the type from **‘Letter’** to **‘Tooltip’**.  
 	![Page size options](img/map2.PNG)  
 	The workspace should have snapped to your content size.  
-
-Now when you return to the _Map / UX_ tab at the bottom of your screen, when you **mouse-over** a data point it should look something like:  
-![Map Workspace](img/mapfin.PNG) 
+5. Now when you return to the _Map / UX_ tab at the bottom of your screen, when you **mouse-over** a data point it should look something like:  
+	![Map Workspace](img/mapfin.PNG) 
 <br>
 
-## 9. **Final Report** (Tab 8) – Proof your work (& change a filter size)
+## 9. **Final Report** (tab 8) – Proof your work (& change a filter size)
 You’ve finally done it, your project is complete! But wait, it’s time to give it one last once over. What have you done? With all your fussing, there’s a mismatch between the publisher chart title and content!  
 1. Left click once on the blue publisher chart in the workspace to activate,  
 2. In the _Filters_ panel click the arrow to open the **Top 3 downloaded…** properties  
 3. Adjust the **Show items** option from **‘4’** to **’3’**  
 	![Filter options dialogue](img/final1.PNG)  
 4. Press **enter** to save your change.  
-
-Your workspace should now look something like:  
-![Final Report Workspace](img/finalfin.PNG)   
+5. Your workspace should now look something like:  
+	![Final Report Workspace](img/finalfin.PNG)   
 <br>
 
 Congratulations! You made it through!  
-<br>
 
 Questions? Concerns?  
 <br>
