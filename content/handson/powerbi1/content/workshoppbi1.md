@@ -21,7 +21,7 @@ nav_order: 2
 
 ## 2. Explore the PowerBI **Interface:**  
 Numbers 1-5 illustrate the locations of the following elements: 
-1. Menus and tools  
+1. **Menus** and **tools**  
 2. **Fields** (specific pieces of information about a record- this is your data)  
 3. **Visualizations** (where you select what type of chart you will use, the fields that will populate it and how it will look)  
 4. **Filters** (where you can limit results by only selecting from records that match a certain criteria)  
@@ -58,61 +58,84 @@ Your workspace should now look something like this:
 ![Explanatory Text Workspace](img/explafin.PNG) 
 <br>
 
-## 5. Adding data from a .csv file:  
-1. There are multiple ways to add a .csv file to QGIS. The most efficient is:  
-	Layer \> Add Layer \> **Add Delimited Text Layer**  
-2. Click the button to the right of the _File name_ text field and select the _covidData.csv_ file in your data folder.  
-3. The wizard auto-fills. Ensure that:  
-	1. **File Format** : _csv_  
-	2. **Record and Field Options:** _First record has field names + detect field types_  
-	3. **Geometry Definition** : _No Geometry (attribute table only)_  
-	4. Ensure the preview looks accurate     
-4. Click **Add** button  
-	![QGIS add delimited text dialogue](img/qadddialogue.PNG)  
+## 5. **Tree Map** (tab 3) - Edit a field name for display purposes.  
+Often our data headers will not be in plain language for our audience or formatted in a grammatically correct way. Here we will replace the data header text with a plain language descriptor, leaving our base data unchanged.
+1. Left click on the bar chart once to activate it;   
+2. You will be in the _Fields_ tab of the _Visualization_ panel.  
+	![Fields tab of Visualization Panel](img/pie0.PNG) 
+3. In the _Visualizations_ pane find the _Values_ property and click on the arrow to open the properties, then select **Rename for this visual**.  
+4. Change the text from _Count of publisher_DOI_prefixes.PublisherName_ to _Distinct publishers_  
+	![PowerBI rename field dialogue](img/tree1.PNG)  
+5. Press **Enter** to save your changes.  
+You can now see the changes in the tooltip:
+![Tooltip changes](img/tree2.PNG)
 <br>
 
-## 6. Perform a **Join** to add the data from *covidData.csv* to the *Countries* file.  
-1. Right click on _Countries_ and select **Properties \>** ![join icon](img/joinsicon.PNG) **(Joins)** to open the dialogue box.  
-2. Click the plus sign at the bottom of the dialogue to create a new Join.   
-2. In the wizard, ensure that:  
-	1. **Join Layer:** _coviddata_  
-	2. **Join field:** _Country Re_  
-	3. **Target Field:** _NAME EN_  
-	4. Check off the option to cache join layer in virtual memory  
-	5. Click **OK**  
-	![QGIS create join dialogue](img/qjoindialogue.PNG)  
-	6. Right click on the *Countries* layer, **open the attribute table** ,now the COVID numbers have been appended to the end of the attribute table.  
+## 6. **Pie** (tab 4)- Add data to a new visualization.  
+I have already created the container for you, all that needs to be done is to populate the graph.  
+1. Left click once on the chart to activate it  
+2. To populate the graphic select the following options from the _Fields_ and _Visualizations_ Panels:  
+	1. In the **Fields Panel**, ensure you have the _SciHub_Publishers_ dataset activated  
+	2. Click the **checkbox** beside the _Day_Night_ field to link it to the chart.   
+    3. Now **drag and drop** the _Day_Night_ field from the Fields panel to the **Values** property of the Visualizations panel. It should auto-load as a count.  
+	![Load data dialogue](img/pie1.PNG)  
+	
+Your workspace should now look something like this:  
+![Pie Workspace](img/piefin.PNG) 
 <br>
 
-## 7. Create a Choropleth  
-1. Right click on _Countries_ and select **Properties \>** ![paintbrush icon](img/symbologyicon.png) **(paintbrush)** to change the symbology  
-2. **Symbology type** : _Graduated_ (from the dropdown)  
-3. **Column** : Confirmed  
-4. **Colour ramp** : Anything light to dark  
-5. **Mode** : Natural Breaks (Jenks)  
-6. **Classes** : 5
-7. Click **Classify** to classify your data    
-8. **Values** : Adjust the class cut-offs as you see fit by clicking the values  
-![QGIS Symbology cut-offs](img/qclasscutoffs.png)  
-9. Click Apply + OK  
+## 7. **Outliers** (tab 5) – Turn off slider, edit title, add labels.
+While the zoom slider on the y-axis does help us to contend with the high volume of downloads coming out of QC (compared to other provinces), it isn’t necessarily the most user-friendly solution. Instead, we will add labels to our bars.  
+1. Left click once on the bar chart in the workspace to activate  
+2. In the _Visualization_ panel ensure the **format** option is selected,  
+	![Visualization panel, format option](img/outlier1.PNG)  
+3. Toggle the **Zoom slider** option from the **'on'** to the **'off'** position
+	![Zoom slider toggle](img/outlier2.PNG)  
+4. Toggle the **Data labels** slider option from the **'off'** to the **'on'** position, we now have labels, but not meaningful ones.  
+5. Open the **Data Labels** dropdown by clicking on the arrow and change the **Display Units** from **‘auto’** to **‘none’**.  
+ ![Data labels options](img/outlier3.PNG) 
+6. Open the **Title** dropdown and edit the _Title_ to remove the reference to the slider.  
+ ![Data labels options](img/outlier4.PNG) 
+Your workspace should now look something like this:  
+![Outliers Workspace](img/outlierfin.PNG)   
 <br>
 
-## 8. The countries with joined data are now symbolized according to number of confirmed cases.  
-![Finished map](img/qfinalproduct.png)  
+## 8. **Map** (Tabs 6 & 7)– Adjust base map, convert a report to a tool tip. 
+We want our dashboard to look like a cohesive whole with the data being the primary focus, but also not overwhelming the user.  
+1. Left click once on the map to activate it  
+2. In the _Visualization panel_ ensure the *format* option is selected,  
+	![Visualization panel, format option](img/outlier1.PNG)  
+3. Open the **Map styles** dropdown and change the theme from ‘**Aerial’** to **‘Grayscale’**. 
+	![Map styles options](img/map1.PNG)  
+4. When we hover over a data point on our map we get a large white box for a tooltip, to adjust another report to be a tooltip, we need to properly size it.
+	1. Open the **City Summary tooltip tab** at the bottom of the page, you can see that the page size is much larger than the content.  
+	2. Left click once in the whitespace of the workspace to select,   
+    3. In the _Visualization_ panel ensure the **format** option is selected,  
+	![Visualization panel, format option](img/outlier1.PNG)  
+	4. iOpen the **Page size** dropdown and change the type from **‘Letter’** to **‘Tooltip’**.  
+	![Page size options](img/map2.PNG)  
+	The workspace should have snapped to your content size.  
+
+Now when you return to the _Map / UX_ tab at the bottom of your screen, when you **mouse-over** a data point it should look something like:  
+![Map Workspace](img/mapfin.PNG) 
 <br>
 
-## 9. Export data to a shapefile format so that it can be used in analysis.  
-1. Right click on your _Countries_ layer in the TOC  
-2. Select Export \> **Save Features as**  
-	1. **Format** : _ESRI Shapefile_  
-	2. Click the button to the right of the **File name** text field and select the appropriate directory to save your new file with the rest of your data, name it something descriptive like _CountriesCOVIDcounts_  
-	3. **CRS:** _EPSG: 4326 – WGS 84_  
-![Export Dialogue Box](img/qexportdialogue.png)  
+## 9. **Final Report** (Tab 8) – Proof your work (& change a filter size)
+You’ve finally done it, your project is complete! But wait, it’s time to give it one last once over. What have you done? With all your fussing, there’s a mismatch between the publisher chart title and content!  
+1. Left click once on the blue publisher chart in the workspace to activate,  
+2. In the _Filters_ panel click the arrow to open the **Top 3 downloaded…** properties  
+3. Adjust the **Show items** option from **‘4’** to **’3’**
+	![Filter options dialogue](img/final1.PNG)  
+4. Press **enter** to save your change.  
+
+Your workspace should now look something like:  
+![Final Report Workspace](img/finalfin.PNG)   
 <br>
 
 Congratulations! You made it through!  
 <br>
 
 Questions? Concerns?  
+<br>
 
-<small> Data:[Natural Earth](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/), [JHU CSSE COVID-19 Data Repository](https://github.com/CSSEGISandData/COVID-19)</small>  
+<small> Data: [SciHub data (Dryad)](https://doi.org/10.5061/dryad.q447c﻿), [DOI Prefixes Prefixes](https://gist.github.com/TomDemeranville)</small>  
