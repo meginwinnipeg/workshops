@@ -19,7 +19,7 @@ nav_order: 2
 2. Load the workspace **File \> Open report \> _SciHub.pbix_**  
 <br>
 
-## 2. Explore the PowerBI **Interface:**  
+## 2. Explore the PowerBI Interface:  
 Numbers 1-5 illustrate the locations of the following elements: 
 1. **Menus** and **tools**  
 2. **Fields** (specific pieces of information about a record- this is your data)  
@@ -67,7 +67,8 @@ Often our data headers will not be in plain language for our audience or formatt
 4. Change the text from _Count of publisher_DOI_prefixes.PublisherName_ to _Distinct publishers_  
 	![PowerBI rename field dialogue](img/tree1.PNG)  
 5. Press **Enter** to save your changes.  
-You can now see the changes in the tooltip:
+<br>
+You can now see the changes in the tooltip:  
 ![Tooltip changes](img/tree2.PNG)
 <br>
 
@@ -89,13 +90,13 @@ While the zoom slider on the y-axis does help us to contend with the high volume
 1. Left click once on the bar chart in the workspace to activate  
 2. In the _Visualization_ panel ensure the **format** option is selected,  
 	![Visualization panel, format option](img/outlier1.PNG)  
-3. Toggle the **Zoom slider** option from the **'on'** to the **'off'** position
+3. Toggle the **Zoom slider** option from the **'on'** to the **'off'** position  
 	![Zoom slider toggle](img/outlier2.PNG)  
 4. Toggle the **Data labels** slider option from the **'off'** to the **'on'** position, we now have labels, but not meaningful ones.  
 5. Open the **Data Labels** dropdown by clicking on the arrow and change the **Display Units** from **‘auto’** to **‘none’**.  
- ![Data labels options](img/outlier3.PNG) 
+ ![Data labels options](img/outlier3.PNG)  
 6. Open the **Title** dropdown and edit the _Title_ to remove the reference to the slider.  
- ![Data labels options](img/outlier4.PNG) 
+ ![Data labels options](img/outlier4.PNG)  
 Your workspace should now look something like this:  
 ![Outliers Workspace](img/outlierfin.PNG)   
 <br>
@@ -112,7 +113,7 @@ We want our dashboard to look like a cohesive whole with the data being the prim
 	2. Left click once in the whitespace of the workspace to select,   
     3. In the _Visualization_ panel ensure the **format** option is selected,  
 	![Visualization panel, format option](img/outlier1.PNG)  
-	4. iOpen the **Page size** dropdown and change the type from **‘Letter’** to **‘Tooltip’**.  
+	4. Open the **Page size** dropdown and change the type from **‘Letter’** to **‘Tooltip’**.  
 	![Page size options](img/map2.PNG)  
 	The workspace should have snapped to your content size.  
 
@@ -124,7 +125,7 @@ Now when you return to the _Map / UX_ tab at the bottom of your screen, when you
 You’ve finally done it, your project is complete! But wait, it’s time to give it one last once over. What have you done? With all your fussing, there’s a mismatch between the publisher chart title and content!  
 1. Left click once on the blue publisher chart in the workspace to activate,  
 2. In the _Filters_ panel click the arrow to open the **Top 3 downloaded…** properties  
-3. Adjust the **Show items** option from **‘4’** to **’3’**
+3. Adjust the **Show items** option from **‘4’** to **’3’**  
 	![Filter options dialogue](img/final1.PNG)  
 4. Press **enter** to save your change.  
 
@@ -138,4 +139,4 @@ Congratulations! You made it through!
 Questions? Concerns?  
 <br>
 
-<small> Data: [SciHub data (Dryad)](https://doi.org/10.5061/dryad.q447c﻿), [DOI Prefixes Prefixes](https://gist.github.com/TomDemeranville)</small>  
+<small> Data: [SciHub data (Dryad)](https://doi.org/10.5061/dryad.q447c﻿), [DOI Prefixes](https://gist.github.com/TomDemeranville)</small>  
