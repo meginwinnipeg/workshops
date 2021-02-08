@@ -46,7 +46,7 @@ sup { top: -0.5em; }
 
 /* Embedded content ========================================================================== */
 /** Remove the border on images inside links in IE 10. */
-img { border: 5px solid #f7f7f7; border-radius: 5px; border-style: none; }
+img { border-style: none; }
 
 /* Forms ========================================================================== */
 /** 1. Change the font styles in all browsers. 2. Remove the margin in Firefox and Safari. */
@@ -1707,6 +1707,6 @@ template { display: none; }
 /** Add the correct display in IE 10. */
 [hidden] { display: none; }
 
-img { border: 1.5px solid #eeebee; border-radius: 5px; padding: 5px; }
+img { border: 5px solid #f7f7f7; border-radius: 5px; } 
 
 /*# sourceMappingURL=just-the-docs-default.css.map */
