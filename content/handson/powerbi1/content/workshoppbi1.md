@@ -48,7 +48,7 @@ This is our dashboard of visualizations. It is possible to interact with the gra
 	1. Left click once on the chart to activate it  
 	2. A button with three dots will appear in the top right corner of the object, click it, then select the **remove** option  
 	![Remove content](img/expla1.PNG)  
-2. **Edit and align** text - – you want to identify yourself by adding your name after the date entry in this text box, we also want to change the text alignment to _centre_ so that it flows better in the document.  
+2. **Edit and align** text - you want to identify yourself by adding your name after the date entry in this text box, we also want to change the text alignment to _centre_ so that it flows better in the document.  
 	1. Left click once on the text block to activate it – you can now adjust the text using the editor    
 	2. Replace the _your name here_ text with your own name  
     3. Using your mouse **click and drag** to select all the text, then select the **align centre** option from the properties box to change the justification.  
@@ -91,9 +91,9 @@ While the zoom slider on the y-axis does help us to contend with the high volume
 	![Zoom slider toggle](img/outlier2.PNG)  
 4. Toggle the **Data labels** slider option from the **'off'** to the **'on'** position, we now have labels, but not meaningful ones.  
 5. Open the **Data Labels** dropdown by clicking on the arrow and change the **Display Units** from **‘auto’** to **‘none’**.  
-	![Data labels options](img/outlier3.PNG)  
-6. Open the **Title** dropdown and edit the _Title_ to remove the reference to the slider.  
 	![Data labels options](img/outlier4.PNG)  
+6. Open the **Title** dropdown and edit the _Title_ to remove the reference to the slider.  
+	![Data labels options](img/outlier3.PNG)  
 7. Your workspace should now look something like this:  
 	![Outliers Workspace](img/outlierfin.PNG)   
 <br>
