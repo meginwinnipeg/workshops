@@ -10,35 +10,52 @@ nav_order: 2
 
 ---
 
-![Project Image](img/qdemo.PNG)
+![Project Image](img/workshop.PNG)
 
 ---
 
 ## 1. **Load** a Project:  
-1. Open QGIS from the list of programs on your computer.  
-2. Load the workspace **Project \> Open \> _Covid.qgz_**  
+1. Open PowerBI from the list of programs on your computer.  
+2. Load the workspace **File \> Open report \> _SciHub.pbix_**  
 <br>
 
-## 2. **Interface:**  
-Numbers 1-3 illustrate the locations of the following elements: 
-1. Workspace  
-2. Table of Contents (TOC)  
-3. Menu/Tools  
-![QGIS Interface](img/qinterface.png)  
+## 2. Explore the PowerBI **Interface:**  
+Numbers 1-5 illustrate the locations of the following elements: 
+1. Menus and tools  
+2. **Fields** (specific pieces of information about a record- this is your data)  
+3. **Visualizations** (where you select what type of chart you will use, the fields that will populate it and how it will look)  
+4. **Filters** (where you can limit results by only selecting from records that match a certain criteria)  
+5. **Workspace**
+
+![PowerBI Interface Elements](img/interface.PNG)  
 <br>
 
-## 3. Explore the **workspace** :  
-Try using the pan (hand) and zoom (magnifying glasses) to move around the map.  
-![QGIS navigation tools](img/qnavigationtools.png)  
+Numbers 6-8 illustrate the locations of the following views: 
+6. **Reports** (dashboard visuals) 
+7. **Data** (your data in tabular format)  
+8. **Models** (how your data are related)  
+
+![PowerBI Interface Views](img/interface2.PNG)  
 <br>
 
-## 4. Explore the **Table of Contents**  
-1. There is a *Lakes* file listed in the TOC but it is not visible on the map:  
-	To makes the *Lakes* file visible, **drag it up the list** so it is above *Countries* file.  
-	![QGIS Table of Contents](img/qtoc.png)  
-	Your map should now look something like:  
-	![Map Canvas](img/qmapcanvas.png)  
-2. Right click on the *Countries* layer, **open the attribute table** , if we want to map COVID cases, what information is missing from the *Countries* file?  
+## 3. Explore the **reports workspace** :  
+This is our dashboard of visualizations. It is possible to interact with the graphics by panning, clicking and hovering to learn more about the data.  
+![Dashboard view](img/dashbad.PNG)  
+<br>
+
+## 4. **Explanatory text** (tab 2) is a critical but often overlooked part of a dashboard.
+1. **Delete object** - we are going to delete the meaningless graphic from the page  
+	1. Left click once on the chart to activate it  
+	2. A button with three dots will appear in the top right corner of the object, click it, then select the **remove** option  
+	![Remove content](img/expla1.PNG)  
+2. **Edit and align** text - – you want to identify yourself by adding your name after the date entry in this text box, we also want to change the text alignment to _centre_ so that it flows better in the document.  
+	1. Left click once on the text block to activate it – you can now adjust the text using the editor    
+	2. Replace the _your name here_ text with your own name  
+    3. Using your mouse **click and drag** to select all the text, then select the **align centre** option from the properties box to change the justification.  
+	![justify text menu](img/expla2.PNG)  
+	
+Your workspace should now look something like this:  
+![Explanatory Text Workspace](img/explafin.PNG) 
 <br>
 
 ## 5. Adding data from a .csv file:  
