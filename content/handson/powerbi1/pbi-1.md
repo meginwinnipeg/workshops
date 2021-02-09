@@ -10,7 +10,7 @@ has_toc: false
 
 ## Objectives:
 
-This hands-on session provides an overview of data visualization and how it can be used. Attendees will compare various software and data types, become familiar with navigating the PowerBI interface and procedures for adding and symbolizing data. Discussion will be centered on integrating researcher data with secondary data sources.  
+This hands-on session provides an overview of data dashboards and popular visualization strategies. Attendees will compare various software and data types, become familiar with navigating the PowerBI interface and procedures for adding and symbolizing data. Discussion will be centered on integrating researcher data with secondary data sources.  
 
 In this session, participants will:  
 - Gain an overview of  Data Visualization and popular visualization strategies  
