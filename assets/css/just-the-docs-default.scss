@@ -16,6 +16,8 @@
 @import "./vendor/normalize.scss/normalize.scss";
 
 img {
+border: 1px solid #E9E9E9;
+border-radius:5px;
 padding:1px;
 }
 
@@ -29,8 +31,8 @@ color: #200800;
 }
 
 body, .side-bar {
-  background: #EEEEEE;
-  background-color: #EEEEEE;
+  background: #E5E5E5;
+  background-color: #E5E5E5;
 }
 
 .nav-list .nav-list-item .nav-list-link:hover, .nav-list .nav-list-item .nav-list-link.active {
@@ -39,7 +41,7 @@ body, .side-bar {
 }
 
 .site-header {
-  border-bottom: 1px solid #EEEEEE;
+  border-bottom: 1px solid #E5E5E5;
 }
 
 .site-title {
