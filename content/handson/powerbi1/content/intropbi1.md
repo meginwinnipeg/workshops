@@ -16,12 +16,19 @@ nav_order: 1
 <hr>
 
 ## Key points from slides:
-- GIS is any system used to analyze, capture or work with geospatial data and can ingest three main types of data: tabular, vector and raster.  
-- Different tools within the software are only able to work with specific data types.  
-- Before embarking on a GIS project it is good to take stock of your objective to help you select the appropriate tool: 
-	- Visualize + Contextualize: Google Earth  
-	- Perform Analysis: QGIS  
-	- Visualize & Share: Leaflet, mapbox.js, Carto...  
-- QGIS is the most robust entry level open-source GIS analysis tool available.
+
+- **Data Visualization:** Display complex information in a way that makes it easier for your end user to explore or understand what you have done.  
+- **Data Dashboard:** A graphical user interface providing easily digestible views of a particular process or objective.  
+- Breaking things down into the following four categories will help you select the appropriate graphic type for your data.
+	- Comparison  
+    - Composition  
+    - Distribution  
+    - Relationship  
+- Before startiing project it is good to take stock of your requirements to help you select the appropriate tool: 
+	- Your expertise - be kind to your future self;  
+    - Purpose - exploratory vs. explanatory;  
+    - Audience - expertise, mediation;  
+    - Data requirements - size, residency, privacy...  
+- PowerBI and Tableau are the most robust entry level dashboard tools available.  
 - Many visualization tools can be found linked from the [data visualization subject guide](https://libguides.lib.umanitoba.ca/viz).  
 
