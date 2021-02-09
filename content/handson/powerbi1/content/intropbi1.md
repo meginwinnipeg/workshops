@@ -32,3 +32,4 @@ nav_order: 1
 - PowerBI and Tableau are the most robust entry level dashboard tools available.  
 - Many visualization tools can be found linked from the [data visualization subject guide](https://libguides.lib.umanitoba.ca/viz).  
 
+
