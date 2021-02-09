@@ -17,18 +17,18 @@ nav_order: 1
 
 ## Key points from slides:
 
-- **Data Visualization:** Display complex information in a way that makes it easier for your end user to explore or understand what you have done.  
-- **Data Dashboard:** A graphical user interface providing easily digestible views of a particular process or objective.  
+- _Data Visualization:_ Display complex information in a way that makes it easier for your end user to explore or understand what you have done.  
+- _Data Dashboard:_ A graphical user interface providing easily digestible views of a particular process or objective.  
 - Breaking things down into the following four categories will help you select the appropriate graphic type for your data.
 	- Comparison  
     - Composition  
     - Distribution  
     - Relationship  
-- Before startiing project it is good to take stock of your requirements to help you select the appropriate tool: 
-	- Your expertise - be kind to your future self;  
-    - Purpose - exploratory vs. explanatory;  
-    - Audience - expertise, mediation;  
-    - Data requirements - size, residency, privacy...  
+- Before starting project it is good to take stock of your requirements to help you select the appropriate tool: 
+	- Your expertise  
+    - Purpose 
+    - Audience
+    - Data requirements 
 - PowerBI and Tableau are the most robust entry level dashboard tools available.  
 - Many visualization tools can be found linked from the [data visualization subject guide](https://libguides.lib.umanitoba.ca/viz).  
 

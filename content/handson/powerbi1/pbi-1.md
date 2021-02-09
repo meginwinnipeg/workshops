@@ -20,7 +20,7 @@ In this session, participants will:
 
 ## Before the session:
 - Download and install the **demo** of PowerBI Desktop for your operating system. [Download Software](https://powerbi.microsoft.com/en-us/get-started/){: .btn .btn-green }
-- Download the data and extract the compressed files into your **Downloads** folder. [Download Data](https://github.com/meginwinnipeg/workshops/raw/main/content/handson/powerbi1/data/PBI1data.zip){: .btn .btn-green }
+- Download the data and extract the compressed files into your **Downloads** folder. [Download Data](https://github.com/meginwinnipeg/workshops/raw/main/content/handson/powerbi1/data/PowerBI1data.zip){: .btn .btn-green }
 {: .prereq}
 
 
