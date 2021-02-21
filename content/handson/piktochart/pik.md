@@ -19,7 +19,7 @@ In this session, participants will:
 - Design a graphic from start to finish (story, layout, visualization selection, font/colour)  
 
 ## Before the session:
-- Create a free Piktochart account. [Go to site](https://create.piktochart.com/){: .btn .btn-green }
+- Create a free Piktochart account. [Take me there!](https://create.piktochart.com/){: .btn .btn-green }
 - Download the data and extract the compressed files into your **Downloads** folder. [Download Data](https://github.com/meginwinnipeg/workshops/raw/main/content/handson/piktochart/data/piktochartData.zip){: .btn .btn-green }
 {: .prereq}
 
