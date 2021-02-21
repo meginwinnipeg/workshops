@@ -19,14 +19,25 @@ Before we dive in to making a graphic you need to decide what your purpose is…
 - Is it exploratory or explanatory? If exploratory, maybe an infographic isn’t the best option.  
 - Where will it be used? This will help us select appropriate size, and visual elements.  
 - What is your data capable of? Don’t mislead the audience or create chart-junk!  
+
 Then decide what your actual object will look like. The goal of creating an infographic is to educate your user by providing context and supporting visuals around a certain theme or trend. Physically sketch out what you are thinking about.  
+
 In this case:  
 ![Image sketch](img/step0.PNG)
- 
+ <br>
+
+## 1. Access your workspace:  
+
+1. Log-in to your free Piktochart account (https://create.piktochart.com/)  
+2. The dashboard page is your landing page.  
 <br>
 
-## 2. Explore the PowerBI Interface:  
-Numbers 1-5 illustrate the locations of the following elements: 
+## 2. Create a new item:  
+1. Click on the option to create a **new item**. 
+2. Select the **infographic** option
+3. We will use the **blank template**
+![Piktochart Dashboard](img/step0.PNG)
+ 
 1. **Menus** and **tools**  
 2. **Fields** (specific pieces of information about a record- this is your data)  
 3. **Visualizations** (where you select what type of chart you will use, the fields that will populate it and how it will look)  
