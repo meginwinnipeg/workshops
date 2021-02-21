@@ -14,9 +14,15 @@ nav_order: 2
 
 ---
 
-## 1. **Load** a Project:  
-1. Open PowerBI from the list of programs on your computer.  
-2. Load the workspace **File \> Open report \> _SciHub.pbix_**  
+## 0. **Step back**:  
+Before we dive in to making a graphic you need to decide what your purpose is…  
+- Is it exploratory or explanatory? If exploratory, maybe an infographic isn’t the best option.  
+- Where will it be used? This will help us select appropriate size, and visual elements.  
+- What is your data capable of? Don’t mislead the audience or create chart-junk!  
+Then decide what your actual object will look like. The goal of creating an infographic is to educate your user by providing context and supporting visuals around a certain theme or trend. Physically sketch out what you are thinking about.  
+In this case:  
+![Image sketch](img/step0.PNG)
+ 
 <br>
 
 ## 2. Explore the PowerBI Interface:  
