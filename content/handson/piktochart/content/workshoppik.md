@@ -142,6 +142,9 @@ We are going to add a bar chart visualizing total precipitation to our graphic.
 3. In the Chart dialogue box that opens  
     1. Select the first chart option on the left for vertical bars  
     2. Delete the sample data and paste in the following:  
+	| Date | Session |
+|-|-|
+| November 10th: | [Sciences Grad Student Open House](https://meginwinnipeg.github.io/slides/sgsoh_w2020.html){:target="_blank"} (presentation) |  
  |Winnipeg|Toronto
 :-----:|:-----:|:-----:
 Precipitation (mm)|5.4|25.1  
