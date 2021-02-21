@@ -27,7 +27,6 @@ In this case:
  <br>
 
 ## 1. Access your workspace:  
-
 1. Log-in to your free Piktochart account (https://create.piktochart.com/)  
 2. The dashboard page is your landing page.  
 <br>
@@ -36,31 +35,27 @@ In this case:
 1. Click on the option to create a **new item**. 
 2. Select the **infographic** option
 3. We will use the **blank template**
-![Piktochart Dashboard](img/step0.PNG)
+
+![Create new item](img/step2.PNG)  
+<br>
  
-1. **Menus** and **tools**  
-2. **Fields** (specific pieces of information about a record- this is your data)  
-3. **Visualizations** (where you select what type of chart you will use, the fields that will populate it and how it will look)  
-4. **Filters** (where you can limit results by only selecting from records that match a certain criteria)  
-5. **Workspace**
+## 3. Explore Piktochart Workspace:  
+Numbers 1-4 illustrate the locations of the following elements:  
 
-	![PowerBI Interface Elements](img/interface.PNG)  
+1. Piktochart **options**  
+2. **Objects** (to create a new elements)  
+3. **Properties** (options for each of the specific objects)
+4. **Workspace** (where you build your visual)  
+
+	![Piktochart workspace](img/step3.PNG)  
 <br>
 
-Numbers 6-8 illustrate the locations of the following views: 
-6. **Reports** (dashboard visuals) 
-7. **Data** (your data in tabular format)  
-8. **Models** (how your data are related)  
-
-	![PowerBI Interface Views](img/interface2.PNG)  
+## 4. **Name** your item:  
+In the top left corner of the page there is a textbox for you to name your file. I’ve named mine _January_. Name yours whatever you would like.  
+	![Name item  text box](img/step4.PNG)  
 <br>
 
-## 3. Explore the **reports workspace** :  
-This is our dashboard of visualizations. It is possible to interact with the graphics by panning, clicking and hovering to learn more about the data.  
-	![Dashboard view](img/dashbad.PNG)  
-<br>
-
-## 4. **Explanatory text** (tab 2) is a critical but often overlooked part of a dashboard.
+## 5. **Explanatory text** (tab 2) is a critical but often overlooked part of a dashboard.
 1. **Delete object** - we are going to delete the meaningless graphic from the page  
 	1. Left click once on the chart to activate it  
 	2. A button with three dots will appear in the top right corner of the object, click it, then select the **remove** option  
