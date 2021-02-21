@@ -200,9 +200,9 @@ The built in options in are sometimes very limited, so finding work abounds is i
   -28.1°C vs -12.2°C_  
 4. Select the text within each block and change it's properties using the **text properties menu** that appears.  
 ![text properties toolbar](img/step13b.PNG)  
-    - _Line 1: Roboto Condensed 23  
-    - Line 2: Roboto Condensed 16  
-    - Line 3: Oswald, Bold, 30, colours to match the cities_  
+  _Line 1: Roboto Condensed 23  
+  Line 2: Roboto Condensed 16  
+  Line 3: Oswald, Bold, 30, colours to match the cities_  
 	
 5.  I added a bit more descriptive text: a title for the graph, and the data source  
 ![workspace step 13](img/step13c.PNG)
