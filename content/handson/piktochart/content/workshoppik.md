@@ -60,7 +60,7 @@ We want our workspace to be smaller and in landscape orientation.
 1. Click the gear next to the workspace to open the properties menu  
 2. Change the height to be 500px  
 
-![Change workspace size dialogue](img/step5.PNG) 
+	![Change workspace size dialogue](img/step5.PNG) 
 <br>
 
 ## 6. Set **background**.  
@@ -141,7 +141,7 @@ We are going to add a bar chart visualizing total precipitation to our graphic.
  
 3. In the Chart dialogue box that opens  
     1. Select the first chart option on the left for vertical bars  
-    2. Delete the sample data and paste in the following:
+    2. Delete the sample data and paste in the following:  
 	|  |     Winnipeg    |     Toronto    |  
 	|-|-|-|
 	|     Precipitation (mm)    |     5.4    |     25.1    |  
@@ -172,15 +172,15 @@ You can see that the image in the background is competing with our text. To deal
 	![workspace step 12](img/step12c.PNG)  
  
 6. Copy and paste this box two times to create a background for our title, as well as our descriptive text.  
-    a. Resize and position one behind the title  
-    b. Resize and position the other over the western territories and provinces,  
+    1. Resize and position one behind the title  
+    2. Resize and position the other over the western territories and provinces,  
 7. Your workspace should look something like:  
 	![workspace step 12](img/step12d.PNG)  
 <br>  
 
 ## 13. Add decorative descriptive text  
 The built in options in are sometimes very limited, so finding work abounds is important. Here we will use three separate blocks of Body text to add some visual interest to our descriptive text.  
-![decorative text sample](img/step13a.PNG)  
+	![decorative text sample](img/step13a.PNG)  
  
 1. Select the Text option from the list of tools  
 2. Drag and drop three Body Text blocks onto your workspace  
@@ -190,10 +190,10 @@ The lowest monthly minimums were…
 -28.1°C vs -12.2°C_  
 4. Select the text within each block and change its properties using the text properties menu that appears.  
 ![text properties toolbar](img/step13b.PNG)  
-
     - Line 1: Roboto Condensed 23  
     - Line 2: Roboto Condensed 16  
     - Line 3: Oswald, Bold, 30, colours to match the cities  
+	
 5.  I added a bit more descriptive text: a title for the graph, and the data source  
 ![workspace step 13](img/step13c.PNG)
 <br>
