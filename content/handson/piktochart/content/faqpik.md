@@ -5,28 +5,28 @@ parent: Piktochart
 grand_parent: Workshops
 nav_order: 3
 ---
-# Piktochart FAQs
+# Infographic FAQs
 
 *Click the arrows to reveal the answers.*
 
-## Software versions
+## Software selections
 <details>
-<summary><strong>I am using the PowerBI app in my web browser and can't find the data cleaning menus. I could find them when I was in the Lab...</strong></summary>The PowerBI app (SaaS) has much less functionality than the Desktop version. Data transformation options are only available in Desktop.</details>
+<summary><strong>Which online infogrpahic tool is the best?</strong></summary>There are may online tools available, and really, any will do. If you need to export your image, Piktochart is a good option.</details>
 <br>
 
-## Failed Visualizations
+## Failed Charts
 <details>
-<summary><strong>This is a disaster, nothing is showing up the way I am expecting it to.</strong></summary> Before you begin to visualize <em>clean data</em> is critical. This means no merged fields, floating legends or rogue images. Ensure each column has a descriptive header to help you navigate.</details>  
+<summary><strong>What is going on with my charts? My values aren't showing up as I expect them to.</strong></summary> Try swapping the orientation of your rows and columns, the tool is often looking for things to be in a specific format.</details>  
 <br>
 
-## Data Classification
+## Disappearing Data
 <details>
-<summary><strong>My data is continuous, but the options I want to use for visualization are greyed out. What's going on?</strong></summary> You probably haven't set the correct data type, format or summarization on that particular field. Make adjustments in the <em>data</em> panel.</details>  
+<summary><strong>I added my data using the dynamic option, and it was working, today when I log-in it's gone. Help?</strong></summary> Did you rename or move the data on your local machine? If so, you'll need to relink it to the graphic.</details>  
 <br>
 
-## Joining data
+## Effienct workflows
 <details>
-<summary><strong>I am trying to use a Merge Query to join two tables but it isn't working!</strong></summary>Often it is the data types that will be causing the issue. Make sure the fields you are trying to join on <em>match in type</em> (ie. text, decimal...). Also ensure there are no <em>errors</em> in your data (nulls etc). </details>
+<summary><strong>I'm making a poster and it feels like I'm spending all my time formatting things and adjusting properties and starting over...</strong></summary>It is a fidgety process, the best thing to do is to make a plan based on the message you want to communicate before you start and then stick to it.</details>
 
   
 
