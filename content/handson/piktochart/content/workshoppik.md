@@ -107,9 +107,9 @@ _Where would you rather spend January?
 Winnipeg or Toronto_  
 3. You can select text within the block and change its properties using the text properties menu that appears.  
 I am going to:  
-    1. Bold the first line of the Title,  
-    2. Right justify for visual interest  
-    3. Apply a different colour to each city name  
+    1. _Bold_ the first line of the Title,  
+    2. _Right justify_ for visual interest  
+    3. Apply a _different colour_ to each city name  
 	![text toolbar options](img/step9b.PNG)
 4. Your workspace should look something like:  
 ![workspace step 9](img/step9c.PNG)
@@ -200,7 +200,7 @@ The built in options in are sometimes very limited, so finding work abounds is i
   -28.1°C vs -12.2°C_  
 4. Select the text within each block and change it's properties using the **text properties menu** that appears.  
 ![text properties toolbar](img/step13b.PNG)  
-    _- Line 1: Roboto Condensed 23  
+    - _Line 1: Roboto Condensed 23  
     - Line 2: Roboto Condensed 16  
     - Line 3: Oswald, Bold, 30, colours to match the cities_  
 	
