@@ -17,6 +17,9 @@ If you're working through a project, here are some good places to start:
 -  [GIS Stack Exchange](https://gis.stackexchange.com/)
 -  [Microsoft Community (PowerBI Support Forums)](https://community.powerbi.com/t5/Get-Help-with-Power-BI/ct-p/PBI_GetHelp)
 -  [Official QGIS Training Manual (LTR 3.10)](https://docs.qgis.org/3.10/en/docs/training_manual/)  
+-  [Official Piktochart Support](https://support.piktochart.com/article/20-infographic)  
 -  [Official PowerBI Training Materials](https://docs.microsoft.com/en-us/power-bi/fundamentals/)  
+
+
 
 
