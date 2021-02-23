@@ -31,7 +31,7 @@ If you run into any difficulties or have any questions contact me! I want you to
 | December 2nd:  | [Open Data - Manitoba Crop Inventory](https://meginwinnipeg.github.io/slides/aci_w2020.html){:target="_blank"} (presentation) |
 | January 20th: | [QGIS 1 - A Gentle Introduction to Open Source GIS Software](https://meginwinnipeg.github.io/workshops/content/handson/qgis-1/content/introductionq.html) |
 | Feburary 10th: | [PowerBI - A Gentle Introduction to Data Dashboards](https://meginwinnipeg.github.io/workshops/content/handson/powerbi1/content/intropbi1.html) |
-| Feburary 24th: | [Infographics - An Introduction] (https://meginwinnipeg.github.io/workshops/content/handson/piktochart/pik.html) |
+| Feburary 24th: | [Infographics - An Introduction](https://meginwinnipeg.github.io/workshops/content/handson/piktochart/pik.html) |
 | March 10th: | ArcGIS Spatial Analytics - Insights & Dashboards for ArcGIS |
 | March 24th: | Data Visualization - The Good, the Bad & the Ugly |
 | April 7th: | Network Analysis & Visualization using Gephi - An Introduction |
