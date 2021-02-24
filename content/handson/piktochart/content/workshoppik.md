@@ -9,8 +9,9 @@ nav_order: 2
 # Piktochart exercise – Making a bite-size visual
 
 ---
+<kbd><img src="img/workshop.PNG"></kbd>
 
-![Project Image](img/workshop.PNG)
+![Project Image](img/workshops.PNG)
 
 ---
 
