@@ -11,9 +11,13 @@ nav_order: 6
 <br>
 **Coordinate Reference System (CRS):** The system used to reference the x and y coordinates of your data (may be projected or geographic).  
 <br>
+**Dashboard:** A graphical user interface providing easily digestible views of a particular process or objective.  
+<br>
 **Dialog:** A small window that opens to allow you to choose options, open or save files, etc.  
 <br>
 **Feature:** An individual object in your data - for example a single line, point or polygon.  
+<br>
+**Infographic:** A collection of imagery, charts, and minimal text that gives an easy-to-understand overview of a topic or distills a theme.  
 <br>
 **Layer:** A set of data, usually of one type which can be turned on and off, moved above or below other layers, and styled/labelled.  
 <br>
