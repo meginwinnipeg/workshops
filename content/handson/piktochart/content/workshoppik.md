@@ -11,7 +11,6 @@ nav_order: 2
 ---
 <kbd><img style="border:12px solid  #fcfcfc" src="img/workshop.PNG"></kbd>
 
-![Project Image](img/workshops.PNG)
 
 ---
 

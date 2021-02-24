@@ -10,7 +10,7 @@ nav_order: 2
 
 ---
 
-![Project Image](img/workshop.PNG)
+<kbd><img style="border:12px solid  #fcfcfc" src="img/workshop.PNG"></kbd>
 
 ---
 
