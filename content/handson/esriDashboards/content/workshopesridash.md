@@ -29,11 +29,6 @@ Thinking about your purpose will help you choose:
     <td>No, just visualize.</td>
   </tr>
   <tr>
-    <td>Is your primary dataset tabular?</td>
-    <td>Yes</td>
-    <td>No</td>
-  </tr>
-  <tr>
     <td>What is your study timeframe?</td>
     <td>What might happen in the future.</td>
     <td>Events happening now.</td>
@@ -47,8 +42,6 @@ Thinking about your purpose will help you choose:
 
 Then decide what your actual object will look like. The goal of creating a dashboard is to allow your audience to explore your research at their own pace, with a bit of guidance from you to give them context.  
 In this case we will be updating the following dashboard to add visual interest, facilitate understanding of trends and create a cohesive experience.  
-
-![decorative text sample](img/step0.PNG) <br>
  
 
 ## 1. Access your **workspace**:   
@@ -63,13 +56,13 @@ In this case we will be updating the following dashboard to add visual interest,
 ## 2. Make your own **copy** of the dashboard to work from:  
 1. Click the **Edit Dashboard** option to open the dashboard  
 
-	![decorative text sample](img/step2a.PNG) <br>
+	![decorative text sample](img/step2.PNG) <br>
  
 2. Click the **dropdown arrow** by the save option at the top of the page, then select the **‘Save As’** option.  
 
 	![decorative text sample](img/step2b.PNG) <br>
  
-3. Edit the Title to include your initials (Ie: TreeExerciseNew_MM).  
+3. Edit the Title to include your initials (Ie: _TreeExerciseNew_MM_).  
 4. Click _Save_, the screen will refresh and you now have your own dashboard to get started with!  
 
 
@@ -111,25 +104,25 @@ In this case we will be updating the following dashboard to add visual interest,
     1. _Value Type_: **statistic**,  
     2. _Statistic_: **count**  
 
-	![decorative text sample](img/step4c.PNG) <br>
+      ![decorative text sample](img/step4c.PNG) <br>
  
 5. In the indicator panel:  
-    1. _Bottom Tex_t: **Trees**  
+    1. _Bottom Text:_ **Trees**  
     2. _Icon:_ **Right** > Select a tree from the icon options.  
     3. Click the colour swatch to open the colour picker and give it a colour.  
 
-	![decorative text sample](img/step4d.PNG) <br>
+	  ![decorative text sample](img/step4d.PNG) <br>
 
 6. Click _‘Done’_ in the bottom right corner of the screen to create your indicator.  
 7. **Move** your indicator to be positioned below the _Descriptive text_ box.  
     1. Hover over the small blue bar on the top left corner of your Indicator to reveal the **Drag Item** option at the top of the list.  
 
-	![decorative text sample](img/step4e.PNG) <br>
+	  ![decorative text sample](img/step4e.PNG) <br>
   
     2. **Click** and **drag** the item until you are over top of the Descriptive text box move your mouse towards the bottom of the box and you will be given the option to dock as a row, release the mouse button.  
     3. Adjust the size of the objects to reveal the entire text box by **dragging the margins** between the two objects downwards.  
 
-	![decorative text sample](img/step4f.PNG) <br>
+	  ![decorative text sample](img/step4f.PNG) <br>
  
 8. Your dashboard should now look something like:  
 
@@ -141,7 +134,7 @@ In this case we will be updating the following dashboard to add visual interest,
 
 	![decorative text sample](img/step5a.PNG) <br>
  
-2. Under the actions panel click the _‘Add Target’_ option, and add the following three (3) elements:  
+2. Under the actions panel click the **‘Add Target’** option, and add the following three (3) elements:  
 - _DanielMcIntyre_trees (this is the Genus map)_  
 - _What is the tree distribution (this is our line graph_  
 - _Indicator_  
@@ -176,8 +169,7 @@ The line graph is an inappropriate choice here as it implies the dataset is cont
  
 6. **Move** your chart to be **stacked** on top of the other neighbourhood chart.
     1. Hover over the **small blue bar** on the top left corner of your Indicator to reveal the **Drag Item** option at the top of the list.  
-
-	![decorative text sample](img/step6e.PNG) <br>
+    ![decorative text sample](img/step6e.PNG) <br>
  
     2. **Click** and **drag the item** until you are over top of the middle of the other chart. A small blue square will appear (sorry, I can’t screenshot this) and the option to **stack** the items will be revealed, release your mouse button.  
 7. Your Dashboard should now look something like:  
