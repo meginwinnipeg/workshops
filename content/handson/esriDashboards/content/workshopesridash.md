@@ -50,13 +50,13 @@ In this case we will be updating the following dashboard to add visual interest,
 3. Select the **Shared dashboards** option to view the dashboards available.  
 4. Click the **more information** option  on the bottom of the _TreeExercise_New_ to open dashboard options.  
 
-	![decorative text sample](img/step1.PNG) <br>
+	![decorative text sample](img/step1a.PNG) <br>
 
 
 ## 2. Make your own **copy** of the dashboard to work from:  
 1. Click the **Edit Dashboard** option to open the dashboard  
 
-	![decorative text sample](img/step1a.PNG) <br>
+	![decorative text sample](img/step2a.PNG) <br>
  
 2. Click the **dropdown arrow** by the save option at the top of the page, then select the **‘Save As’** option.  
 
