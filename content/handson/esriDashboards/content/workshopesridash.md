@@ -56,7 +56,7 @@ In this case we will be updating the following dashboard to add visual interest,
 ## 2. Make your own **copy** of the dashboard to work from:  
 1. Click the **Edit Dashboard** option to open the dashboard  
 
-	![decorative text sample](img/step2.PNG) <br>
+	![decorative text sample](img/step1a.PNG) <br>
  
 2. Click the **dropdown arrow** by the save option at the top of the page, then select the **‘Save As’** option.  
 
