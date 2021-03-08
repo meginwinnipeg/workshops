@@ -49,5 +49,4 @@ nav_order: 3
 <details>
 <summary><strong>I'm making a dashboard and it feels like I'm spending all my time formatting things and adjusting properties and starting over...</strong></summary>It is a fidgety process, the best thing to do is to make a plan based on the message you want to communicate before you start and then stick to it.</details>
 
-  
-
+ 

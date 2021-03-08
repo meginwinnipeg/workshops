@@ -25,8 +25,8 @@ Thinking about your purpose will help you choose:
   </tr>
   <tr>
     <td>Are you looking to conduct analyses?</td>
-    <td>Yes!</td>
-    <td>No, just visualize.</td>
+    <td>Yes, in depth!</td>
+    <td>Yes, simple descriptive stats.</td>
   </tr>
   <tr>
     <td>What is your study timeframe?</td>
