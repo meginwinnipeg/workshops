@@ -21,7 +21,7 @@ Watch the session on YouTube.
 - _Spatial Analytics:_ Statistical analysis of geographic data.  
 - _Data Visualization:_ Display complex information in a way that makes it easier for your end user to explore or understand what you have done.  
 - Many tools have the ability to ingest geographic data, it's up to you to choose the right tool for the job. 
-    -<table style="width:60%">
+  <table style="width:60%; text-indent: 5px;">
   <tr>
     <th></th>
     <th>Tabular</th>
