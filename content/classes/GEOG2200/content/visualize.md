@@ -6,7 +6,7 @@ grand_parent: Classes
 nav_order: 4
 ---
 
-# Piktochart exercise – Making a bite-size visual
+# Visualizing your story as a whole using StoryMaps
 
 ---
 <kbd><img style="border:12px solid  #fcfcfc" src="img/workshop.PNG"></kbd>

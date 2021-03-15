@@ -6,7 +6,7 @@ grand_parent: Classes
 nav_order: 2
 ---
 
-# Piktochart exercise – Making a bite-size visual
+# Workspace set-up & integrating datasets
 
 ---
 <kbd><img style="border:12px solid  #fcfcfc" src="img/workshop.PNG"></kbd>

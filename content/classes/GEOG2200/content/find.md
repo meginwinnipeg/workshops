@@ -1,15 +1,13 @@
 ---
 layout: default
-title: Gather
+title: Find
 parent: GEOG2200
 grand_parent: Classes
 nav_order: 1
 ---
 
-# Piktochart exercise – Making a bite-size visual
+# Finding data to support your story  
 
----
-<kbd><img style="border:12px solid  #fcfcfc" src="img/workshop.PNG"></kbd>
 
 
 ---

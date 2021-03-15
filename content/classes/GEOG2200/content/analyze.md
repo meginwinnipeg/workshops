@@ -6,7 +6,7 @@ grand_parent: Classes
 nav_order: 3
 ---
 
-# Piktochart exercise – Making a bite-size visual
+# Conducting analysis using ArcGIS Online tools
 
 ---
 <kbd><img style="border:12px solid  #fcfcfc" src="img/workshop.PNG"></kbd>
