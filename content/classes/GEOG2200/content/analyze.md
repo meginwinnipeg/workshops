@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Geog2200 Analyze
+title: Analyze
 parent: GEOG2200
 grand_parent: Classes
 nav_order: 3
