@@ -34,7 +34,7 @@ Watch the session on YouTube.
   </tr>
   <tr>
     <td>Desktop</td>
-    <td>SPSS, SAS</td>
+    <td>SPSS, SAS, PowerBI/ Tableau Desktop</td>
     <td>ESRI ArcGIS, QGIS, GRASS</td>
   </tr>
     </table>
