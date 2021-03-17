@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Visualize
+title: Share
 parent: GEOG2200
 grand_parent: Classes
 nav_order: 4
 ---
 
-# Visualizing your story as a whole using StoryMaps
+# Sharing your story as a whole using StoryMaps
 
 ---
-<kbd><img style="border:12px solid  #fcfcfc" src="img/workshop.PNG"></kbd>
+<iframe width="720" height="480" frameborder="0" marginheight="0" marginwidth="0" style="border:12px solid  #fcfcfc" src="https://meginwinnipeg.github.io/slides/RVsharing.html"></iframe>
 
 
 ---

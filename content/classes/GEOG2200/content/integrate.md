@@ -8,8 +8,7 @@ nav_order: 2
 
 # Workspace set-up & integrating datasets
 
----
-<kbd><img style="border:12px solid  #fcfcfc" src="img/workshop.PNG"></kbd>
+<iframe width="720" height="480" frameborder="0" marginheight="0" marginwidth="0" style="border:12px solid  #fcfcfc" src="https://meginwinnipeg.github.io/slides/RVintegrating.html"></iframe>
 
 
 ---
