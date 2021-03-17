@@ -21,7 +21,7 @@ Before we dive in to making a graphic you need to decide what your purpose is…
 Then decide what your actual object will look like. The goal of creating an infographic is to educate your user by providing context and supporting visuals around a certain theme or trend. Physically sketch out what you are thinking about.  
 
 In this case:  
-![Image sketch](img/step0.PNG)
+![Image sketch](img/find/step0.PNG)
  <br>
 
 ## 1. **Access** your workspace:  
