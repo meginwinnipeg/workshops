@@ -41,7 +41,7 @@ We want to add our tree data to our Content area in the form of a feature servic
 In the Dialogue Box that follows:  
     1. _Title_: **SomethingMeaningful_yourinitials**  
     2. _Tags_: **7200_yourinitials**   
-    3. **Check off** the option to _publish the file as a hosted layer.  
+    3. **Check off** the option to _publish the file as a hosted layer_.  
     4. Double-check your field types and location fields: _Diameter at Breast Height_ should be a **double**, _Latitude_ and _Longitude_ set as the **location** fields.  
 ![AGOL workspace](img/analyze/step2b.PNG)<br>  
 
@@ -52,7 +52,7 @@ In the Dialogue Box that follows:
  
 ## 3. Create a **heat map** do show distribution.  
 
-1. Click the  dropdown arrow beside the**Open in Map Viewer** option at the top of the list of options on the right side of your feature service window.  
+1. Click the  dropdown arrow beside the **Open in Map Viewer** option at the top of the list of options on the right side of your feature service window.  
 2. Select the **add to new map** option. The data may take a couple of seconds to load.  
 ![AGOL workspace](img/analyze/step3a.PNG)<br>  
 
@@ -100,7 +100,7 @@ In the Dialogue Box that follows:
     1. _Symbols_: change the colour to **green**  
     2. _Classify_: check **yes**, then select **Natural Breaks**.  
     3. _Classes_: **5**  
-    4. _Round Classes: **10**  
+    4. _Round Classes_: **10**  
     5. _Transparency_: Adjust as you want  
 	  ![AGOL workspace](img/analyze/step4g.PNG)<br>  
 
@@ -125,7 +125,7 @@ In the Dialogue Box that follows:
 9. From the **Analysis** options above your Table of Contents, open the heading to **Summarize Data** and select the **Join Features** option.  
 ![AGOL workspace](img/analyze/step5c.PNG)<br>  
 
-10. In the Join Wizard Dialogue select the following options. Note that most options and tools have a blue circle you can hover over for more information.  
+10. In the _Join Wizard Dialogue_ select the following options. Note that most options and tools have a blue circle you can hover over for more information.  
     1. _Target_: **TreeInventory**  
     2. _Join Layer_: **InspectionStatus** table  
     3. _Join Type_: **Fields** in a table where **TreeID** = **TreeID** 
