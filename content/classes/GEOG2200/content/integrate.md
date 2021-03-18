@@ -31,7 +31,7 @@ This includes:
 ## 2. **Explore** the Content Panel:  
 Numbers 1-4 illustrate the locations of the following elements:  
 
-1. **Personal content ** (includes all data and objects you have created)  
+1. **Personal content** (includes all data and objects you have created)  
 2. **Filters** (allows you to easily limit the things that show up in your content area)  
 3. **Create New** (one of many ways to create/ add content to your workspace)  
 4. **Available content** (items that have been shared to you through groups, University of Manitoba or ESRI’s Living Atlas.)  
@@ -39,7 +39,7 @@ Numbers 1-4 illustrate the locations of the following elements:
 	![AGOL workspace](img/integrate/step2.PNG)<br>  
   
 
-##3. View **Organization** data options:  
+## 3. View **Organization** data options:  
 
 1. Click on **My Organization** in the blue Content navigation bar.  
 2. This brings up data that has been shared at the Organizational level. Be aware, not all of it is available for reuse.  
@@ -58,12 +58,12 @@ Numbers 1-4 illustrate the locations of the following elements:
 1. Click on **My Groups** in the blue Content navigation bar.  
 2. This brings up items that have been shared at the Group level.  
 3. Click on the **KingsPark_GenusMap** map that has been shared with you.  
-![AGOL workspace](img/find/step4a.PNG)<br> 
+![AGOL workspace](img/integrate/step4a.PNG)<br> 
  
   
 ## 5. **Open item** using the ArcGIS Online Map Viewer:  
 
-1. Select the **Open in Map Viewer ** option on the right side of your screen.  
+1. Select the **Open in Map Viewer** option on the right side of your screen.  
 ![AGOL workspace](img/integrate/step5a.PNG)<br>
    
 2. **Explore** the AGOL interface.  
@@ -78,7 +78,7 @@ Numbers 1-4 illustrate the locations of the following elements:
  
 3. **Save** a copy of the map to your personal content area by selecting the **Save As** option. Add your initials to the end of the filename.  
 
-![AGOL workspace](img/integrate/step5c.PNG)<br>  
+  ![AGOL workspace](img/integrate/step5c.PNG)<br>  
  
 
 ## 6. **Configure pop-up** in your map for visual clarity.  
@@ -106,5 +106,6 @@ We will be reusing this map later in a StoryMap. How your map looks here is how 
 
 3. Your map should now look something like:  
 ![AGOL workspace](img/integrate/step7b.PNG)<br>
- 
 
+4. We will now move over to the **Analysis** section to make more maps.  
+ 
