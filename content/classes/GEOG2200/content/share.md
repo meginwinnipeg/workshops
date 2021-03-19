@@ -14,204 +14,122 @@ nav_order: 4
 
 ---
 
-## 0. **Step back**:  
-Before we dive in to making a graphic you need to decide what your purpose is…  
-- Is it exploratory or explanatory? If exploratory, maybe an infographic isn’t the best option.  
-- Where will it be used? This will help us select appropriate size, and visual elements.  
-- What is your data capable of? Don’t mislead the audience or create chart-junk!  
+## 0. **Step Back**:  
+While we have had the purpose of creating a StoryMap in the back of our minds while we were creating our maps, let’s step back take stock of what we have, and make a concrete plan.  
 
-Then decide what your actual object will look like. The goal of creating an infographic is to educate your user by providing context and supporting visuals around a certain theme or trend. Physically sketch out what you are thinking about.  
+Our Scenario:  
+_You have been hired as the GIS intern in the Public Works Department at the City of Winnipeg. The arborists have been doing a lot of work in King’s Park and entering information into their new tree inventory system. Your job is to create some materials for the public so they can see how their tax dollars are being used._  
 
-In this case:  
-![Image sketch](img/step0.PNG)
- <br>
+What do we have?  
+- Map of Trees by Genus  
+- Heat Map of Tree Distribution  
+- Map of trees by Trunk Diameter  
+- Map of Tree Inspection Status  
+- Workshop folder that includes: images of trees and park elements, a locator map for the park, some text to copy and paste, data csv files.  
 
-## 1. **Access** your workspace:  
-1. Log-in to your free Piktochart account (https://create.piktochart.com/)  
-2. The dashboard page is your landing page.  
-<br>
-
-## 2. **Create** a new item:  
-1. Click on the option to create a **new item**. 
-2. Select the **infographic** option
-3. We will use the **blank template**
-
-![Create new item](img/step2.PNG)  
-<br>
+Map out your idea:  
+![AGOL workspace](img/share/step0.PNG)<br>
  
-## 3. **Explore** Piktochart Workspace:  
-Numbers 1-4 illustrate the locations of the following elements:  
 
-1. Piktochart **options**  
-2. **Objects** (to create a new elements)  
-3. **Properties** (options for each of the specific objects)
-4. **Workspace** (where you build your visual)  
+---
 
-	![Piktochart workspace](img/step3.PNG)  
-<br>
+## 1. Access the **StoryMap**:  
+1. Navigate or use the waffle button on your Home screen to get to the StoryMaps landing page (https://storymaps.arcgis.com/stories) and ensure you are signed in.  
+2. The landing page has the same elements as ArcGIS Online, but organized in a different way.  
+Numbers 1-4 describe them.  
+    1. Account settings  
+    2. Create a new story  
+    3. List of personal/ available content  
+    4. Training materials  
+![AGOL workspace](img/share/step1a.PNG)<br>  
 
-## 4. **Name** your item:  
-In the top left corner of the page there is a **textbox** for you to name your file. I’ve named mine _January_. Name yours whatever you would like.  
-	![Name item  text box](img/step4.PNG)  
-<br>
+3. Select the **New Story** button to start a new story from scratch. Your Story will save automatically as you work.  
+4. Your screen should look something like:  
+![AGOL workspace](img/share/step1b.PNG)<br>  
 
-## 5. Change **workspace size**.  
-We want our workspace to be smaller and in landscape orientation.  
-1. Click the **gear** next to the workspace to open the properties menu  
-2. Change the **height** to be _500px_  
-
-	![Change workspace size dialogue](img/step5.PNG) 
-<br>
-
-## 6. Set **background**.  
-Stark white and black are hard on the eyes, so we will start by setting the background colour to a light grey.  
-1. Select the **Background** option from the list of tools  
-2. Under the **Background Colours heading**, select light grey by clicking on the paint bucket (or type Hex code #e5e5e5 into the box).  
-  ![Change workspace background dialogue](img/step6.PNG) 
-3. Your workspace should look something like:
-  ![workspace step 6](img/step6a.PNG)	
-<br>
-
-## 7. **Upload** an image.  
-We are going to use a map of Canada as a background image to provide some visual interest and ground the audience.  
-1. Select the **Uploads** option from the list of tools  
-2. **Browse** to your data folder and select the map image to upload.  
- ![upload image dialogue](img/step7.PNG)  
  
-3.	Once the image has uploaded, **drag and drop** it into your workspace  
-<br>
+## 2. **Explore** the StoryMap workspace.  
+1. Numbers 1-5 describe the different elements available:  
+    1. Add a **title** and **subtitle** by typing directly into the browser.  
+    2. Add a **new object/row** to your story. 
+    3. Add **media** to the row.  
+    4. Adjust the **design** of your story by selecting a pre-set (colour/font/layout) or create a template of your own.  
+    5. Sharing options to **Preview** and **Publish** your story.  
+![AGOL workspace](img/share/step2a.PNG)<br>  
 
-## 8. **Scale** the image to act as a background.  
-We are going to scale this image up and set it so that it acts as a background.  
-1. Left click the image once to **select** it  
-2. So that it doesn’t skew, hold down the shift key and drag and of the handles that appear along the edge to increase the size to be roughly the width of the page  
-3. The top and bottom of the map are cut off, but that’s ok. We just need to make sure the positions for Toronto and Winnipeg are visible  
-4. In the **image properties toolbar** that appears while the image is selected  
-    1. Change the **opacity** of the image to make it less dominant, by clicking the checkerboard  
-    2. Then click the **lock** so that the image doesn’t accidentally get selected and shift, we will be placing other elements on top of it.  
-	![image settings dialogue](img/step8a.PNG) 
- 
-5.	Your workspace should now look something like:  
+2. On your own:  
+    1. Add one of the images provided to you in the workshop data as a **cover image** (3)  
+    2. Adjust the **Design** (4) to see how the look of your workspace changes.  
+    3. Add a creative **title/subtitle** to catch the attention of your audience.  
+3. I selected to use a _Full_ cover and the _Summit_ theme for simplicity.  
+![AGOL workspace](img/share/step2b.PNG)<br>  
 
-	![workspace step 8](img/step8b.PNG)   
-<br>
+4. This is where I would usually step back and assess the font and colour choices of my theme in relation to the project:  
+- Is the colour of the theme cohesive with my background image?  
+- Is personality of the font appropriate for my audience and purpose?  
+- How much time do I have? Is one of the default templates good enough, or should I create a custom theme?  
 
-## 9. Add a Title/ Subtitle/ Surround **text**.  
-We don’t want to overwhelm the user, but we do want to create something visually interesting. A good way to think about it is to select one ornamental text for titles/ emphasis and one plain one for everything else. I selected Oswald and Roboto Condensed, but you can select whatever you want.  
-1. Select the **Text** option from the list of tools  
-![text properties dialogue](img/step9a.PNG)
- 
-2. **Drag and drop** the Title block onto your workspace  
-Copy and paste the following text into the block that has appeared in your workspace:  
-_Where would you rather spend January?  
-Winnipeg or Toronto_  
-3. You can select text within the block and change its properties using the text properties menu that appears.  
-I am going to:  
-    1. _Bold_ the first line of the Title,  
-    2. _Right justify_ for visual interest  
-    3. Apply a _different colour_ to each city name  
-	![text toolbar options](img/step9b.PNG)
-4. Your workspace should look something like:  
-![workspace step 9](img/step9c.PNG)
- <br>
 
-## 10. Add some **graphics**
-We are going to add some icons to the image and carry our colour scheme through the infographic with (in my case) blue being used to represent Winnipeg, and Orange for Toronto.  
-1. Select the **Graphics** option from the list of tools.  
-2. To add a **marker icon** select the Shapes & Icons option and search the word _marker_. 
-![graphics properties dialogue](img/step10a.PNG)
+## 3. Add a **new object** to your StoryMap.  
+1. Hover your mouse below your cover page block, a green plus sign will appear.  
+2. Clicking on the plus sign reveals all the different objects that can be added to your page.  
+![AGOL workspace](img/share/step3a.PNG)<br>  
  
-3. **Select** any of the black (mono) options available and **drag and drop** it onto the workspace.  
-4. Hold down the **shift key** to keep proportions and drag the handles to resize (once something is in the workspace you can copy + paste it to duplicate).  
-5. Add a second marker to the map  
-6. Drag one the markers to the vague locations of Winnipeg and Toronto on the map  
-7. Select each marker and use the graphic toolbar to **change their colours** by clicking on the paint can icon:  
-![graphics colour options](img/step10b.PNG)
- 
-8.	Your workspace should look something like:
-![workspace step 10](img/step10c.PNG)
-   
-<br>
+3. In the plan I made, I said I was going to add a text box with a locator map to the left (you can always reorder the rows later).  
+    1. Select the **Image** option and upload the _locator map_ image from the workshop content that was made available to you.  
+    2. Once the image is loaded you will see the image **options** by hovering over its top.  
+    3. I am going to select the **float** option so that I can add park text next to it.  
+    ![AGOL workspace](img/share/step3b.PNG)<br>  
 
-## 11. Add a **chart**
-We are going to add a bar chart visualizing total precipitation to our graphic.  
-1. Select the **Tools** option from the list to tools  
-2. Add the **Chart** option by clicking on it once:  
-	![add tools dialogue](img/step11a.PNG)
+    4. Next I will add my **Text** by clicking the _green plus sign_ that appears on the top right corner of my newly added image. Hovering over each element provides a description.  
+![AGOL workspace](img/share/step3c.PNG)<br>  
  
-3. In the Chart dialogue box that opens  
-    1. Select the first chart option on the left for **vertical bars**  
-    2. **Delete** the sample data and paste in the following:  
-  <table style="width:60%">
-  <tr>
-    <th></th>
-    <th>Winnipeg</th>
-    <th>Toronto</th>
-  </tr>
-  <tr>
-    <td>Precipitation (mm)</td>
-    <td>5.4</td>
-    <td>25.1</td>
-  </tr>
-  </table> 
+    5. Copy and paste the Park text from the word document provided in the workshop content. You can see that you can format text as headers, lists and add hyperlinks.  
+4. Step back and assess. In my case, my block looks like:  
+![AGOL workspace](img/share/step3d.PNG)<br>  
 
-4. To edit the chart properties click the **gear** in the top right corner of the dialogue box.  
-    a. For a **title** we can add:  
-	_The total precipitation for the month was..._   
-    b. To change the bar colours to match our colour theme select: **Individual color setting**, and select your city colours to represent their respective values by clicking on the colour swatches.  
-	![chart properties dialogue](img/step11b.PNG)
  
-5. Click **Insert Chart** in the top right corner  
-6. With the chart selected use the handles to shift and resize it to sit over top of the Maritime provinces with the entire title visible.  
-7. Your workspace should look something like:  
-	![workspace step 11](img/step11c.PNG)
-<br>
-	
-## 12. Reduce visual clutter  
-You can see that the image in the background is competing with our text. To deal with this we will use some semi-transparent boxes.  
-1. Select the **Graphics tool** from the left side of the screen  
-2. Under the **Shapes & Icons** options select the _square_  
-  ![graphics tools](img/step12a.PNG)  
-3. Resize the square so that it is slightly larger than your chart.  
-4. Use the image graphic toolbar to:  
-    1. Change the **colour** to _light grey_  
-    2. **Transparency** to _80%_  
-    3. **Arrange** option to _send backward_ behind the chart and in front of the map  
-	![image properites tools](img/step12b.PNG)
-5. It should look something like:  
-	![workspace step 12](img/step12c.PNG)  
- 
-6. Copy and paste this box **two times** to create a background for our title, as well as our descriptive text.  
-    1. Resize and position one behind the **title**  
-    2. Resize and position the other over the western territories and provinces,  
-7. Your workspace should look something like:  
-	![workspace step 12](img/step12d.PNG)  
-<br>  
+## 4. Add an **immersive object** to your StoryMap.  
+When we scroll to the bottom of the list of objects we can add to our page there are 3 immersive options: slideshow, sidecar and map tour. As all the maps we have created are of the same area and scale, vertical sidecar scrolling will be a good fit.  
+![AGOL workspace](img/share/step4a.PNG)<br>  
 
-## 13. Add decorative descriptive **text**  
-The built in options in are sometimes very limited, so finding work abounds is important. Here we will use three separate blocks of _Body text_ to add some visual interest to our descriptive text.  
-	![decorative text sample](img/step13a.PNG)  
+1. Add a sidecar row to your page by clicking the green plus sign below the row you just added and selecting the **sidecar** option.  
+2. Select whichever layout you prefer, and then click _Done_, your new sidecar wizard will open.  
+3. Explore the sidecar builder. Numbers 1-4 describe the different elements:  
+    1. **Add media**: where you add the background image/map  
+    2. **Add text**: where you add your descriptive text, you can also add images, other maps, videos etc.  
+    3. **Add slide**: where you add a new object inside the immersive viewer.  
+    4. **Your slides**: the content that is already loaded into the viewer.  
+![AGOL workspace](img/share/step4b.PNG)<br>  
+
  
-1. Select the **Text** option from the list of tools  
-2. Drag and drop three **Body Text blocks** onto your workspace  
-3. Copy and paste the following text into each of those blocks that has appeared in your workspace:  
-  _Do you like the cold?  
-  The lowest monthly minimums were…  
-  -28.1°C vs -12.2°C_  
-4. Select the text within each block and change it's properties using the **text properties menu** that appears.  
-![text properties toolbar](img/step13b.PNG)  
-  _Line 1: Roboto Condensed 23  
-  Line 2: Roboto Condensed 16  
-  Line 3: Oswald, Bold, 30, colours to match the cities_  
-	
-5.  I added a bit more descriptive text: a title for the graph, and the data source  
-![workspace step 13](img/step13c.PNG)
-<br>
+## 5. Add a **map** to your sidecar.  
+1. Click the **Add media** button at the top of the window (1) and then select the **map** option.  
+2. Your available ArcGIS Online maps appear as options to select. I am going to add my _Inspection Status_ map.   
+3. After adding my map, the dialogue changes to a map preview:  
+![AGOL workspace](img/share/step5a.PNG)<br>  
+
+4. I know that I will have a text box floating on the left side of my page, so I will pan and zoom my map to position it something like:  
+![AGOL workspace](img/share/step5b.PNG)<br>  
+ 
+5. Select the gear option at the top of the properties bar on the left side of your screen, here you can control how the user interacts with your map.  
+6. In my case I want to allow for map navigation (scrolling and panning) and also show the legend, so I have toggled these options _on_.  
+![AGOL workspace](img/share/step5c.PNG)<br>  
+ 
+7. Click _Place Map_ in the bottom right corner of your screen to finish adding your map.  
+8. I will also add **context text** to the textbox by clicking the green plus sign and selecting the **text** option. I am copy + pasting the _The Project_ text from the workshop text document.  
+9. Slide 1 of my sidecar now looks something like:  
+![AGOL workspace](img/share/step5d.PNG)<br>  
+
+10. Continue to populate your sidecar with the other maps you have created. There is a link to a video, and some other images that you can try adding to your sidecar/ text boxes as well.  
+
+
+## 6. Publish and share  
+Once I have finished adding content and I am happy with my results, you can select the **Publish** option at the top of your screen. The builder will prompt you if any components of your StoryMap do not have the appropriate sharing settings to be displayed properly.  
+**Note** It is up to you to know the permissions level on the data/ media you have embedded in your StoryMap and not break copyright.  
 
 
 Congratulations! You made it through!  
 
 Questions? Concerns?  
 <br>
-
-<small> Data: [Climate Summary Data (Environment Canada)](https://climate.weather.gc.ca/prods_servs/cdn_climate_summary_e.html), [Map of Canada (Wikimedia)](https://upload.wikimedia.org/wikipedia/commons/3/38/Canada_blank_map.svg)</small>  
