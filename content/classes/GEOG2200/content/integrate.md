@@ -56,8 +56,8 @@ Numbers 1-4 illustrate the locations of the following elements:
 ## 4. View **Group** data options:  
 
 1. Click on **My Groups** in the blue Content navigation bar.  
-2. This brings up items that have been shared at the Group level.  
-3. Click on the **KingsPark_GenusMap** map that has been shared with you.  
+2. This brings up items that have been shared at the Group level, I have shared four (4) maps and one feature layer with you.  
+3. Click on the **GenusMapKP_2200** map that has been shared with you.  
 ![AGOL workspace](img/integrate/step4a.PNG)<br> 
  
   
