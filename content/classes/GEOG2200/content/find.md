@@ -22,7 +22,7 @@ This includes:
 ---
 
 ## 1. **Access** your workspace:  
-1. Navigate to UM's ArcGIS Online Portal (https://univmb.maps.arcgis.com)  
+1. Navigate to UM's ArcGIS Online Portal [https://univmb.maps.arcgis.com](https://univmb.maps.arcgis.com)  
 2. Log-in by clicking on the blue button for accounts created after December 1 2020.
 ![AGOL workspace](img/find/step1a.PNG)<br>
  
@@ -36,15 +36,15 @@ Numbers 1-3 illustrate the locations of the following elements:
 
 1. **Account** (includes link to training materials)  
 2. **Tools** (all of the different ESRI Apps available to you)  
-3. **Options** (pages for different purposes (you content, maps, etc.)  
+3. **Options** (pages for different purposes (your content, maps, etc.)  
 
 	![AGOL workspace](img/find/step2.PNG)<br>  
 
 
 ## 3. **Explore** Training options:  
 
-1. **Click ** on your username in the top right corner of the screen.  
-2. Select the**Training** option half way down the list.  
+1. **Click** on your username in the top right corner of the screen.  
+2. Select the **Training** option half way down the list.  
 ![AGOL workspace](img/find/step3a.PNG)<br>  
    
 
