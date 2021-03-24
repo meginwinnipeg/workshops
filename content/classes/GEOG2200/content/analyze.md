@@ -39,8 +39,8 @@ We want to add our tree data to our Content area in the form of a feature servic
  
 3. **Navigate** to your TreeInventory_KingsPark.csv file and add it.  
 In the Dialogue Box that follows:  
-    1. _Title_: **SomethingMeaningful_yourinitials**  
-    2. _Tags_: **7200_yourinitials**   
+    1. _Title_: **TreeInventory_yourinitials**  
+    2. _Tags_: **2200_yourinitials**   
     3. **Check off** the option to _publish the file as a hosted layer_.  
     4. Double-check your field types and location fields: _Diameter at Breast Height_ should be a **double**, _Latitude_ and _Longitude_ set as the **location** fields.  
 ![AGOL workspace](img/analyze/step2b.PNG)<br>  
@@ -70,75 +70,70 @@ In the Dialogue Box that follows:
 
 5. **Save** a copy of the map to your personal content area by selecting the **Save As** option. Call it something meaningful and be sure to add your initials to the end of the filename.  
 ![AGOL workspace](img/analyze/step3e.PNG)<br>  
+
+6. Return to your **personal content** page.  
+
+
+## 4. Save copies of other workshop maps shared in **My Groups** to your personal content:  
+
+1. Click on **My Groups** in the blue Content navigation bar.  
+2. This brings up items that have been shared at the Group level, I have shared four (4) maps and one feature layer with you.  
+3. Save a copy of  _TreeDiameterMapKP_2200_ and _InspectionStatusMapKP_2200_ to your personal account  
+4. Open each map and select the **Open in Map Viewer** option on the right side of your screen.  
+![AGOL workspace](img/analyze/step4a.PNG)<br>
+   
+5. **Save** a copy of the map to your personal content area by selecting the **Save As** option. Add your initials to the end of the filename.  
+
+  ![AGOL workspace](img/analyze/step4b.PNG)<br>
+
  
- 
-## 4. Access your Map workspace as another way to create a **new map**:  
+## 5. **Open** your newly saved _TreeDiameter_ map to edit symbology:  
   
-1. Access the **Map** area by clicking on that option in the top navigation. This will open the last map you were working on.  
-![AGOL workspace](img/analyze/step4a.PNG)<br>  
+1. From your personal content list click click the map title and select the **Open in Map Viewer** option on the right side of your screen.  
+![AGOL workspace](img/analyze/step4a.PNG)<br>
 
-2. At the top of your screen to the left of your user name select the **New Map** option, then **Create New Map**. You now have an empty map.  
-  ![AGOL workspace](img/analyze/step4b.PNG)<br>  
- 
-3. Save your new map as _TreeDiameterMap_yourinitials_  
-4. To add our feature service to the map select the **add** option above the Table of Contents and then **Search for Layers**.  
-  ![AGOL workspace](img/analyze/step4c.PNG)<br>  
+2. Ensure you are in the **Content** area of your Table of Contents to change symbology. The third tile from the left (3 stacked shapes) is the option to **change styles**.  
+  ![AGOL workspace](img/analyze/step5a.PNG)<br>  
 
-5. Your search option will default to **My Content** where the feature service you created is saved. Click the **plus sign** in its bottom right corner to add to the map.  
-  ![AGOL workspace](img/analyze/step4d.PNG)<br>  
-
-6. **Save** your changes.  
-7. Return to the **Content** area of your Table of Contents to change symbology. The third tile from the left (3 stacked shapes) is the option to **change styles**.  
-  ![AGOL workspace](img/analyze/step4e.PNG)<br>  
-
-8. In the _Styles_ dialogue that opens:  
+3. In the _Styles_ dialogue that opens:  
     1. _Attribute_: **Diameter at Breast Height**  
     2. _Drawing Style_: **Counts and Amounts (size)**, then select **options**.  
-	  ![AGOL workspace](img/analyze/step4f.PNG)<br>  
+	  ![AGOL workspace](img/analyze/step5b.PNG)<br>  
 
-9. In the _Counts and Amounts_ dialogue that opens:  
-    1. _Symbols_: change the colour to **green**  
-    2. _Classify_: check **yes**, then select **Natural Breaks**.  
-    3. _Classes_: **5**  
-    4. _Round Classes_: **10**  
-    5. _Transparency_: Adjust as you want  
-	  ![AGOL workspace](img/analyze/step4g.PNG)<br>  
+4. In the _Counts and Amounts_ dialogue that opens:  
+    1. _Symbols_: change the colour to **green**.   
+    3. _Classify_: No need to check off, we just want to see the data points relative to one another.    
+    5. _Transparency_: Adjust as you want.  
+	  ![AGOL workspace](img/analyze/step5c.PNG)<br>  
 
-10. Select _OK_ and then _Done_. Don’t forget to save. Your workspace should look something like:  
-  ![AGOL workspace](img/analyze/step4h.PNG)<br>  
+5. Select _OK_ and then _Done_. Don’t forget to save. Your workspace should look something like:  
+  ![AGOL workspace](img/analyze/step5d.PNG)<br>  
+  
+
+## 6. **Open** your newly saved _InspectionStatusMap_ map to join external inspection data:  
+  
+1. From your personal content list click click the map title and select the **Open in Map Viewer** option on the right side of your screen.  
+![AGOL workspace](img/analyze/step4a.PNG)<br>
  
+2. You will see a table appearing at the bottom of your Table of Contents.  
+3. From the **Analysis** options above your Table of Contents, open the heading to **Summarize Data** and select the **Join Features** option.  
+![AGOL workspace](img/analyze/step6a.PNG)<br>  
 
-## 5. Create another **new map** on depicting inspection status by joining external data to your feature service.  
-
-1. Using the instructions from the previous step create a new map and add your feature service (Section 4, Steps 1-6).  
-2. Save this map as **InspectionStatusMap_yourinitials**.  
-3. To visualize our inspection status we need to do two things: Import the table and join it to our feature service.  
-4. Select the **Add** option above the Table of Contents, then **Add layer from file**.  
-  ![AGOL workspace](img/analyze/step5a.PNG)<br>  
- 
-5. Select the **InspectionStatus.csv** file from your local machine and click _Import_.  
-6. Our table does not have a locate field (lat, long etc) we just want to import it so we can join it to our Tree layer so select the **None, add as table** option and _Add layer_.  
-![AGOL workspace](img/analyze/step5b.PNG)<br>  
- 
-7. Your table should now appear at the bottom of your Table of Contents.  
-8. Save your changes.  
-9. From the **Analysis** options above your Table of Contents, open the heading to **Summarize Data** and select the **Join Features** option.  
-![AGOL workspace](img/analyze/step5c.PNG)<br>  
-
-10. In the _Join Wizard Dialogue_ select the following options. Note that most options and tools have a blue circle you can hover over for more information.  
+4. In the _Join Wizard Dialogue_ select the following options. Note that most options and tools have a blue circle you can hover over for more information.  
     1. _Target_: **TreeInventory**  
     2. _Join Layer_: **InspectionStatus** table  
     3. _Join Type_: **Fields** in a table where **TreeID** = **TreeID** 
     4. _Operation_: **1:1**  
     5. Name the file something meaningful including your initials.  
-![AGOL workspace](img/analyze/step5d.PNG)<br>  
+![AGOL workspace](img/analyze/step6b.PNG)<br>  
 
-11. Click the _Run Analysis_ option, wait for the data to join and be added to the map, then save your work.  
-12. Change the symbols for your new layer to visualize **Inspection Status** (open _symbology options_ for the layer in the Table of Contents and select _Inspection Status_).  
-13. What do you think about the default colours selected?  
-![AGOL workspace](img/analyze/step5e.PNG)<br>  
+5. Click the _Run Analysis_ option, wait for the data to join and be added to the map
+6. Don't forget to save your work.  
+7. Change the symbols for your new layer to visualize **Inspection Status** (open _symbology options_ for the layer in the Table of Contents and select _Inspection Status_).  
+8. What do you think about the default colours selected?  
+![AGOL workspace](img/analyze/step6c.PNG)<br>  
  
-14. Change the colours to something more appropriate for our message and save your work.  
+9. Change the colours to something more appropriate for our message and save your work.  
 
 
 That’s it! We now have the building blocks to create a StoryMap in the next section!  
