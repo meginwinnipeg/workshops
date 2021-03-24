@@ -19,7 +19,7 @@ In this step we will be creating three (3) different type of maps to support our
 
 - Heat map  
 - Proportional symbology  
-- Map bases on joined data  
+- Map based on joined data  
 
 ---
 
@@ -79,17 +79,17 @@ In the Dialogue Box that follows:
 1. Click on **My Groups** in the blue Content navigation bar.  
 2. This brings up items that have been shared at the Group level, I have shared four (4) maps and one feature layer with you.  
 3. Save a copy of  _TreeDiameterMapKP_2200_ and _InspectionStatusMapKP_2200_ to your personal account  
-4. Open each map and select the **Open in Map Viewer** option on the right side of your screen.  
-![AGOL workspace](img/analyze/step4a.PNG)<br>
+    1. Open each map and select the **Open in Map Viewer** option on the right side of your screen.  
+    ![AGOL workspace](img/analyze/step4a.PNG)<br>
    
-5. **Save** a copy of the map to your personal content area by selecting the **Save As** option. Add your initials to the end of the filename.  
+    2. **Save** a copy of the map to your personal content area by selecting the **Save As** option. Add your initials to the end of the filename.  
 
   ![AGOL workspace](img/analyze/step4b.PNG)<br>
 
  
 ## 5. **Open** your newly saved _TreeDiameter_ map to edit symbology:  
   
-1. From your personal content list click click the map title and select the **Open in Map Viewer** option on the right side of your screen.  
+1. From your personal content list click the map title and select the **Open in Map Viewer** option on the right side of your screen.  
 ![AGOL workspace](img/analyze/step4a.PNG)<br>
 
 2. Ensure you are in the **Content** area of your Table of Contents to change symbology. The third tile from the left (3 stacked shapes) is the option to **change styles**.  
@@ -112,7 +112,7 @@ In the Dialogue Box that follows:
 
 ## 6. **Open** your newly saved _InspectionStatusMap_ map to join external inspection data:  
   
-1. From your personal content list click click the map title and select the **Open in Map Viewer** option on the right side of your screen.  
+1. From your personal content list click the map title and select the **Open in Map Viewer** option on the right side of your screen.  
 ![AGOL workspace](img/analyze/step4a.PNG)<br>
  
 2. You will see a table appearing at the bottom of your Table of Contents.  
@@ -129,12 +129,13 @@ In the Dialogue Box that follows:
 
 5. Click the _Run Analysis_ option, wait for the data to join and be added to the map
 6. Don't forget to save your work.  
-7. Change the symbols for your new layer to visualize **Inspection Status** (open _symbology options_ for the layer in the Table of Contents and select _Inspection Status_).  
+7. Change the symbols for your new layer to visualize **Inspection Status** 
+    1. (open _symbology options_ for the layer in the Table of Contents and select _Inspection Status_).  
 8. What do you think about the default colours selected?  
 ![AGOL workspace](img/analyze/step6c.PNG)<br>  
  
 9. Change the colours to something more appropriate for our message and save your work.  
 
 
-That’s it! We now have the building blocks to create a StoryMap in the next section!  
+That’s it! We now have the building blocks to create a **StoryMap** in the next section!  
 
