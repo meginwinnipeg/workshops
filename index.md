@@ -33,8 +33,7 @@ If you run into any difficulties or have any questions contact me! I want you to
 | Feburary 10th: | [PowerBI - A Gentle Introduction to Data Dashboards](https://meginwinnipeg.github.io/workshops/content/handson/powerbi1/content/intropbi1.html) |
 | Feburary 24th: | [Infographics - An Introduction](https://meginwinnipeg.github.io/workshops/content/handson/piktochart/pik.html) |
 | March 10th: | [ArcGIS Spatial Analytics - Insights & Dashboards](https://meginwinnipeg.github.io/workshops/content/handson/esriDashboards/esridash.html) |
-| March 24th: | [Data Visualization - The Good, the Bad & the Ugly](https://meginwinnipeg.github.io/slides/dvgb_w2021.html) |
-|  |  |
+| March 24th: | [Data Visualization - The Good, the Bad & the Ugly](https://meginwinnipeg.github.io/slides/dvgb_w2021.html){:target="_blank"} (presentation) |
 
 
 *Sessions and Office hours run Wednesdays 12h-13h*
