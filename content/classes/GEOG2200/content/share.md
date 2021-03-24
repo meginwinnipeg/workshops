@@ -122,10 +122,11 @@ When we scroll to the bottom of the list of objects we can add to our page there
 ![AGOL workspace](img/share/step5d.PNG)<br>  
 
 10. Continue to populate your sidecar with the other maps you have created. There is a link to a video, and some other images that you can try adding to your sidecar/ text boxes as well.  
+11. Play around with other adding other elements to your StoryMap, feel free to go beyond the content/text I have provided you in the workshop folder.  
 
 
 ## 6. Publish and share  
-Once I have finished adding content and I am happy with my results, you can select the **Publish** option at the top of your screen. The builder will prompt you if any components of your StoryMap do not have the appropriate sharing settings to be displayed properly.<br>
+Once you have finished adding content and are happy with your results, you can select the **Publish** option at the top of your screen. The builder will prompt you if any components of your StoryMap do not have the appropriate sharing settings to be displayed properly.<br>
 
 1. Ensure all elements are shared with the GEOG2200_DW group.  
 ![AGOL workspace](img/share/step6a.PNG)<br>  
@@ -142,8 +143,8 @@ Once I have finished adding content and I am happy with my results, you can sele
 3. Update the previously highlighted sections as follows:  
     1. _Description_: Describe your project  
     2. _Terms of Use_: Let people know this is a student project for the GEOG 2200 course  
-    3. _Tags_:  **2200_Workshop**  
-   4. _Share_: Under group sharing ensure the **GEOG2200_DW** group is selected  
+    3. _Tags_:  **2200_Workshopfinal**  
+    4. _Share_: Under group sharing ensure the **GEOG2200_DW** group is selected  
 
 
 Congratulations! You made it through!  
