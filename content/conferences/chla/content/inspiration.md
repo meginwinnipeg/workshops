@@ -17,6 +17,7 @@ nav_order: 2
   <li><a href="https://eagereyes.org/">eagereyes</a> blog by Robert Kosara</li>
   <li><a href="http://flowingdata.com/">Flowing Data</a> blog by Nathan Yu</li>
   <li><a href="http://www.thefunctionalart.com/">The Functional Art</a> blog by Alberto Cairo</li>
+  <li><a href="https://graphics.wsj.com/">Graphics</a> Projects from The Wall Street Journal’s Graphics Team</li>
   <li><a href="https://www.goodreads.com/shelf/show/data-visualization">Info Viz reading list</a> Goodreads</li>
   <li><a href="https://www.informationisbeautifulawards.com/">Information is beautiful awards</a> awarded content from informationisbeautiful.net</li>
   <li><a href="https://lisacharlotterost.de/articles">lisacharlotterost.de</a> blog by Lisa Charlotte Rost</li>
@@ -25,14 +26,13 @@ nav_order: 2
   <li><a href="https://www.thisiscolossal.com/">thisiscolossal</a> art and design website</li>
   <li><a href="http://www.perceptualedge.com/blog/">Visual Business Intelligence</a> blog by Stephen Few</li>
   <li><a href="https://www.visualisingdata.com">Visualizing Data</a> blog by Andy Kirk</li>
-  <li><a href="https://graphics.wsj.com/">Graphics</a> Projects from The Wall Street Journal’s Graphics Team</li>
 </ul>
 
 <h4>Vendor Galleries</h4>
 <ul>
   <li><a href="https://mapgallery.esri.com/#/">ESRI</a></li>
   <li><a href="https://www.flickr.com/groups/qgis/pool/">QGIS</a></li>
-  <li><a href="https://public.tableau.com/en-us/gallery/?tab=viz-of-the-day&type=viz-of-the-day"></a>Tableau</li>
+  <li><a href="https://public.tableau.com/en-us/gallery/?tab=viz-of-the-day&type=viz-of-the-day">Tableau</a></li>
   <li><a href="https://venngage.com/gallery/">Venngage</a></li>
   <li><a href="https://www.visme.co/gallery/">Visme</a></li>
 </ul>
