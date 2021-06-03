@@ -8,7 +8,6 @@ nav_order: 1
 
 # Tools
 
-## Tools:  
 <h4>Accessibility</h4>
 
 <ul>
