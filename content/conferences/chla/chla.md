@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Capture our audience with visualization: CHLA 2021
+title: CHLA 2021  
 nav_order: 1
 parent: Conferences
 has_children: false
 has_toc: false
 ---
-# CHLA viz
+# Capture our audience with visualization 
 
 ## Objectives:
 
