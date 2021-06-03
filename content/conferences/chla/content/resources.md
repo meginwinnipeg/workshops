@@ -17,7 +17,9 @@ nav_order: 3
 
 <h4>Background</h4>
 <ul>
+	<li><a href="https://youtu.be/tbZ6xIx0dWU" target="_self">Backwards build (slides)</a>:  YouTube Video by Hal </li>
 	<li><a href="https://youtu.be/Iwpi1Lm6dFo" target="_self">How to Avoid Death by PowerPoint</a>:  a Ted Talk by David JP Phillips </li>
+	<li><a href="https://youtu.be/YEuK1ewNeLM" target="_self">Master slide creation</a>:  YouTube Video by Hal </li>
 </ul>
 
 <h4>Cognitive Load</h4>
