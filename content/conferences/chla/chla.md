@@ -23,3 +23,6 @@ In this session, participants will:
 - Download and install the desktop version of Tableau Public for your operating system. [Download Software](https://public.tableau.com/en-us/s/download){: .btn .btn-green }
 - Ensure you have access to the folder of workshop data and documentation that has been shared with you through Google Drive. [Access your Google Drive ](https://drive.google.com/drive/shared-with-me?ths=true){: .btn .btn-green }
 {: .prereq}
+
+## Assessment:
+We want your feedback, [let us know how we did](bit.ly/chlaviz_fb). Thank you!  

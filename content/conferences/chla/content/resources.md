@@ -27,6 +27,11 @@ nav_order: 3
 	<li><a href="https://www.instructionaldesign.org/theories/cognitive-load/" target="_self">Cognitive Load</a>:  Online Article </li>
 	<li><a href="https://youtu.be/Dc3_KBBilvA" target="_self">Consistency</a>:  YouTube Video </li>
 </ul>
+
+<h4>Slides</h4>
+<ul>
+	<li><a href="https://youtu.be/tbZ6xIx0dWU" target="_self">Presentation</a>:  slide deck from CE session. </li>
+</ul>
  
 <h4>Visual elements: White Space, Balance and Alignment</h4>
 <ul>
