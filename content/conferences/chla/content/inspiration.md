@@ -32,6 +32,7 @@ nav_order: 2
 <ul>
   <li><a href="https://mapgallery.esri.com/#/">ESRI</a></li>
   <li><a href="https://www.flickr.com/groups/qgis/pool/">QGIS</a></li>
+  <li><a href="https://slides.com/explore">slides.com</a></li>
   <li><a href="https://public.tableau.com/en-us/gallery/?tab=viz-of-the-day&type=viz-of-the-day">Tableau</a></li>
   <li><a href="https://venngage.com/gallery/">Venngage</a></li>
   <li><a href="https://www.visme.co/gallery/">Visme</a></li>
