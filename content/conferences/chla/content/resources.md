@@ -30,7 +30,7 @@ nav_order: 3
 
 <h4>Slides</h4>
 <ul>
-	<li><a href="https://youtu.be/tbZ6xIx0dWU" target="_self">Presentation</a>:  slide deck from CE session. </li>
+	<li><a href="https://github.com/meginwinnipeg/workshops/raw/main/content/conferences/chla/data/CEslides.pdf" target="_self">Presentation</a>:  slide deck from CE session. </li>
 </ul>
  
 <h4>Visual elements: White Space, Balance and Alignment</h4>
