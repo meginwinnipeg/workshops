@@ -25,4 +25,5 @@ In this session, participants will:
 {: .prereq}
 
 ## Assessment:
-We want your feedback, [let us know how we did](bit.ly/chlaviz_fb). Thank you!  
+We want your feedback, [let us know how we did](https://forms.office.com/r/WtMC4nX48j).  
+Thank you!  
