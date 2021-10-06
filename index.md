@@ -26,14 +26,15 @@ If you run into any difficulties or have any questions contact me! I want you to
 
 | Date | Session |
 |-|-|
-| November 10th: | [Sciences Grad Student Open House](https://meginwinnipeg.github.io/slides/sgsoh_w2020.html){:target="_blank"} (presentation) |
-| November 18th: | [Accessing Geospatial Data - Winnipeg & Manitoba](https://meginwinnipeg.github.io/slides/mod_w2020.html){:target="_blank"} (presentation) |
-| December 2nd:  | [Open Data - Manitoba Crop Inventory](https://meginwinnipeg.github.io/slides/aci_w2020.html){:target="_blank"} (presentation) |
-| January 20th: | [QGIS 1 - A Gentle Introduction to Open Source GIS Software](https://meginwinnipeg.github.io/workshops/content/handson/qgis-1/content/introductionq.html) |
-| Feburary 10th: | [PowerBI - A Gentle Introduction to Data Dashboards](https://meginwinnipeg.github.io/workshops/content/handson/powerbi1/content/intropbi1.html) |
-| Feburary 24th: | [Infographics - An Introduction](https://meginwinnipeg.github.io/workshops/content/handson/piktochart/pik.html) |
-| March 10th: | [ArcGIS Spatial Analytics - Insights & Dashboards](https://meginwinnipeg.github.io/workshops/content/handson/esriDashboards/esridash.html) |
-| March 24th: | [Data Visualization - The Good, the Bad & the Ugly](https://meginwinnipeg.github.io/slides/dvgb_w2021.html){:target="_blank"} (presentation) |
-
+| September 29th: | [Introduction to Data Visualization](https://meginwinnipeg.github.io/slides/sgsoh_w2020.html){:target="_blank"} (presentation) |
+| October 27th: | [Accessing Geospatial Data - Winnipeg & Manitoba] (presentation) |
+| November 10th: | [QGIS 1 - A Gentle Introduction to Open Source GIS Software] (workshop) |
+| December 1st | [ Introduction to data cleaning with OpenRefine and wordclouds] (workshop) |
+| January 12th: | [PowerBI - A Gentle Introduction to Data Dashboards] (workshop) |
+| January 26th:  | [Open Data - Manitoba Crop Inventory] (presentation) |
+| February 16th: | [Introduction to Git and GitHub] (workshop) |
+| March 2nd: | [Infographics - An Introduction] (workshop) |
+| March 16th: | [Data Visualization - The Good, the Bad & the Ugly] (presentation) |
+| April 6th: | [Network Visualization using VosViewer] (presentation) |
 
 *Sessions and Office hours run Wednesdays 12h-13h*
