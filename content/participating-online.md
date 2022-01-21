@@ -16,7 +16,7 @@ The toolbar provides limited methods to interact with the instructor or your pee
  
 
 ## Raise hand button
-Use the _Raise Hand_ button to indicate for me to slow down. Try and think of these sessions as a live YouTube video. Asking for assistance with specific technical issues will not be helpful to the broader audience.  
+Use the _Raise Hand_ button to indicate for me to slow down or if you have a question. It can be found under the _Reactions_ tab of the toolbar. Try and think of these sessions as a live YouTube video. Asking for assistance with specific technical issues will not be helpful to the broader audience.  
 
 ![Raise Hand button](img/raisehand.PNG)  
 
