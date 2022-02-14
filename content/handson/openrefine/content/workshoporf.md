@@ -42,7 +42,7 @@ No matter where your data comes from, OpenRefine won’t modify your original da
 <br>
 When you start OpenRefine, you’ll be taken to the Create Project screen. You’ll see on the left side of the screen that your options are to import data from your computer, the web, your clipboard, from a database or from Google Drive.  
 <br>
-If you supply two or more files for one project, the files’ rows will be loaded in the order that you specify, and OpenRefine will create a column at the beginning of the dataset with the source URL or file name in it to help you identify where each row came from. If the files have columns with identical names, the data will load in those columns; if not, the successive files will append all of their new columns to the end of the dataset.  
+If you supply two or more files for one project, the files’ rows will be loaded in the order that you specify, and OpenRefine will create a column at the beginning of the dataset with the source URL or file name in it to help you identify where each row came from. If the files have columns with identical names, the data will load in those columns; if not, the successive files will append all of their new columns to the end of the dataset.
 <br>  
 You cannot combine two datasets into one project by appending data within rows. You can, however, combine two projects later using functions.  
 
@@ -134,8 +134,9 @@ Before we started merging, there were 43 different values in the Province column
  
 The program does a great job of matching the correct values, but as with anything automated, you should go through and look at your data for any discrepancies. For example, Alberta still has 3 entries because the algorithm doesn’t know that _AB, Albeqrrta,_ and _Alberta_ all refer to the same thing.  
 At this point, you can either explore different clustering algorithms or merge these by hand using the edit option.  
+
 ## 7: **Join/ merge** columns
-This question in the survey asked respondents to select their top three candy choices from a list of 8. We want to merge these columns into one with each value separated by a special character. In this case a ‘\|’.  
+This question in the survey asked respondents to select their top three candy choices from a list of 8. We want to merge these columns into one with each value separated by a special character. In this case a '\|'.  
 Find the _Q6 | First Fav Candy_ column.
 1. Click the **down arrow** (1) and choose **Edit Column (2) -> Join columns (3)**  
 ![join columns](img/step7.PNG)
@@ -143,12 +144,11 @@ Find the _Q6 | First Fav Candy_ column.
  
 2. In the dialogue that opens enter the following:  
     1. Use the **checkboxes** to select the _Q6 (First, second and third fave candy)_ (4) columns  
-    2. Type the **‘|’** (5) as the **separator** in the first textbox
+    2. Type the **‘\|’** (5) as the **separator** in the first textbox
     3. Select the radio button to **create a new column**, call it **Q6: TOP 3 CANDIES** (6)
     4. Click **OK(7)** to join the columns
 ![Join dialogue](img/step7a.PNG)
 <br>
- 
 ![Join action](img/step7b.PNG)
 <br>
  
@@ -166,11 +166,8 @@ Find the _Q8:Geotag_ column.
 	4. Click **OK** (8) to move forward with splitting the column  
 ![split column error](img/step8b.PNG)
 <br>
-
 ![Split column dialogue](img/step8a.PNG)
 <br>
- 
-    
  
 You can see that one of the records didn’t split. You can see this is because there was no comma separating the numbers in the original entry.  
 2. Each new column is assigned a new name automatically. You can change the names by:
