@@ -191,8 +191,10 @@ Find the column titled _“Blank Column”_
   
 ## 10. **Advanced** OpenRefine Techniques
 Open Refine has its own language referred to as GREL (General Refine Expression language) for performing custom operations. This would be similar to functions in Microsoft Excel and was created to resemble JavaScript. IE. _reinterpret()_ function to change column encoding or _uniques()_ to return an array with duplicates removed.
+
 ## 11. **Export** your data set
 Remember, we aren’t making changes to your original dataset but to an OpenRefine project file. To export your cleaned data:  
+
 1. Click the **Export** (1) option at the top of the page
 2. Select **Comma-separated value (csv)** (2)
 ![export dataset](img/step11.PNG)
@@ -203,4 +205,4 @@ Congratulations! You made it through!
 Questions? Concerns?  
 <br>
 
-<small> Data: [Climate Summary Data (Environment Canada)](https://climate.weather.gc.ca/prods_servs/cdn_climate_summary_e.html), [Map of Canada (Wikimedia)](https://upload.wikimedia.org/wikipedia/commons/3/38/Canada_blank_map.svg)</small>  
+<small> Data: [Inspired by (UBC Candy Hierarchy Study)](https://www.scq.ubc.ca/wp-content/uploads/2017/10/candyhierarchysurvey2017.pdf)</small>  
