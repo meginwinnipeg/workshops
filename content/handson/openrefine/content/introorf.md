@@ -18,19 +18,17 @@ Watch the session on [YouTube](https://youtu.be/).
 
 ## Key points from slides:
 
-- _Data Visualization:_ Display complex information in a way that makes it easier for your end user to explore or understand what you have done.  
-- _Infographic:_ A collection of imagery, charts, and <strong>minimal text</strong> that gives an easy-to-understand overview of a topic or distills a theme.  
-- Breaking things down into the following four categories will help you select the appropriate graphic type for your data.
-	- Comparison  
-    - Composition  
-    - Distribution  
-    - Relationship  
-- Before starting project it is good to step back and consider:  
-	- your message  
-    - your audience  
-    - your data (requirements + structure)   
-- Font and colour convey personality, select appropriately and keep it simple.
-- Piktochart and Visme are online tools with a robust free tier.  
+- _Data Cleaning:_ Manually or programatically improving the quality of your data.  
+- Major issues addressed are:
+	- Inconsistencies  
+    - Formatting  
+    - Null Values  
+- The major benefits of having clean data includes:  
+	- More efficient research  
+    - Easier conversion  
+    - Secondary use   
+- Many different tools available to help you.  
+- OpenRefine is an open-source desktop solution for data cleaning. It straddles the line between manual and automated and is great for beginners and more advanced users alike.
 - Many visualization tools can be found linked from the [data visualization subject guide](https://libguides.lib.umanitoba.ca/viz).  
 
 
