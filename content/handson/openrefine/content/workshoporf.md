@@ -20,12 +20,14 @@ You can access all of your created projects by clicking on Open Project. Your pr
 
 ### **Naming projects**  
 You may have multiple projects from the same dataset, or multiple versions from sharing a project with another person. OpenRefine automatically generates a project name from the imported file, or “clipboard” when you use Clipboard importing. Project names don’t have to be unique, and OpenRefine will create many projects with the same name unless you intervene.  
+<br>
 You can edit a project's name when you create it or import it, and you can rename a project later by opening it and clicking on the project name at the top of the screen.  
 
 ### **Saving**
-OpenRefine saves all of your actions (everything you can see in the Undo/Redo panel). Autosaving happens by default every five minutes.   
+OpenRefine saves all of your actions (everything you can see in the Undo/Redo panel). Autosaving happens by default every five minutes.  
+<br>
 It doesn’t, however, save your facets, filters, or any kind of view you may have in place while you work. This includes the number of rows showing, and any sorting or column collapsing you may have done. A good rule of thumb is: if it’s not showing in Undo/Redo, you will lose it when you leave the project workspace.  
-
+<br>
 You can only save and share facets and filters, not any other type of view. To save current facets and filters, click Permalink. The project will reload with a different URL, which you can then copy and save elsewhere. This permalink will save both the facets and filters you’ve set, and the settings for each one (such as sorting by count rather than by name).  
 
 ### **Deleting projects**
@@ -37,11 +39,14 @@ Because OpenRefine only runs locally on your computer, you can’t have a projec
 ### **Create a project** 
 An OpenRefine project is started by importing in some existing data - OpenRefine doesn’t allow you to create a dataset from nothing.  
 No matter where your data comes from, OpenRefine won’t modify your original data source. It copies all the information from your input, creates its own project file, and stores it in your workspace directory.  
+<br>
 When you start OpenRefine, you’ll be taken to the Create Project screen. You’ll see on the left side of the screen that your options are to import data from your computer, the web, your clipboard, from a database or from Google Drive.  
-If you supply two or more files for one project, the files’ rows will be loaded in the order that you specify, and OpenRefine will create a column at the beginning of the dataset with the source URL or file name in it to help you identify where each row came from. If the files have columns with identical names, the data will load in those columns; if not, the successive files will append all of their new columns to the end of the dataset:  
+<br>
+If you supply two or more files for one project, the files’ rows will be loaded in the order that you specify, and OpenRefine will create a column at the beginning of the dataset with the source URL or file name in it to help you identify where each row came from. If the files have columns with identical names, the data will load in those columns; if not, the successive files will append all of their new columns to the end of the dataset.  
+<br>  
 You cannot combine two datasets into one project by appending data within rows. You can, however, combine two projects later using functions.  
 
-## 1. ** Import ** data to OpenRefine:  
+## 1. **Import** data to OpenRefine:  
 When you start OpenRefine, it opens in your web browser. Don’t worry, your data won’t be connected to the internet – it is all kept locally on your computer. The web browser is just the interface used to run the program.  
 Once you’ve launched the program, 
 1. Click **Create Project** (1)
@@ -130,7 +135,7 @@ Before we started merging, there were 43 different values in the Province column
 The program does a great job of matching the correct values, but as with anything automated, you should go through and look at your data for any discrepancies. For example, Alberta still has 3 entries because the algorithm doesn’t know that _AB, Albeqrrta,_ and _Alberta_ all refer to the same thing.  
 At this point, you can either explore different clustering algorithms or merge these by hand using the edit option.  
 ## 7: **Join/ merge** columns
-This question in the survey asked respondents to select their top three candy choices from a list of 8. We want to merge these columns into one with each value separated by a special character. In this case a ‘|’.  
+This question in the survey asked respondents to select their top three candy choices from a list of 8. We want to merge these columns into one with each value separated by a special character. In this case a ‘\|’.  
 Find the _Q6 | First Fav Candy_ column.
 1. Click the **down arrow** (1) and choose **Edit Column (2) -> Join columns (3)**  
 ![join columns](img/step7.PNG)
@@ -158,13 +163,14 @@ Find the _Q8:Geotag_ column.
     1. Split **by separator** (4)  
     2. Type a **comma** (5) into the text box as this is the divisor between the two fields.  
     3. Ensure **Guess cell type** (6) and **Remove this Column** (7)  
+	4. Click **OK** (8) to move forward with splitting the column  
+![split column error](img/step8b.PNG)
+<br>
 
 ![Split column dialogue](img/step8a.PNG)
 <br>
  
-    4. Click **OK** (8) to move forward with splitting the column  
-![split column error](img/step8b.PNG)
-<br>
+    
  
 You can see that one of the records didn’t split. You can see this is because there was no comma separating the numbers in the original entry.  
 2. Each new column is assigned a new name automatically. You can change the names by:
@@ -183,7 +189,7 @@ Find the column titled _“Blank Column”_
 ![remove column](img/step9.PNG)
 <br>
   
-## 10. Advanced OpenRefine Techniques
+## 10. **Advanced** OpenRefine Techniques
 Open Refine has its own language referred to as GREL (General Refine Expression language) for performing custom operations. This would be similar to functions in Microsoft Excel and was created to resemble JavaScript. IE. _reinterpret()_ function to change column encoding or _uniques()_ to return an array with duplicates removed.
 ## 11. **Export** your data set
 Remember, we aren’t making changes to your original dataset but to an OpenRefine project file. To export your cleaned data:  
