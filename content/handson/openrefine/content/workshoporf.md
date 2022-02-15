@@ -38,6 +38,7 @@ Because OpenRefine only runs locally on your computer, you can’t have a projec
 
 ### **Create a project** 
 An OpenRefine project is started by importing in some existing data - OpenRefine doesn’t allow you to create a dataset from nothing.  
+
 No matter where your data comes from, OpenRefine won’t modify your original data source. It copies all the information from your input, creates its own project file, and stores it in your workspace directory.  
 <br>
 When you start OpenRefine, you’ll be taken to the Create Project screen. You’ll see on the left side of the screen that your options are to import data from your computer, the web, your clipboard, from a database or from Google Drive.  
@@ -200,6 +201,13 @@ Remember, we aren’t making changes to your original dataset but to an OpenRefi
 Congratulations! You made it through!  
 
 Questions? Concerns?  
+<br><br>
+
+## **Bonus**
+The cleaned provinces column has been made available to you in the data folder for the workshop (_Exercise 3_). Try loading it into the following word cloud software to see what happens.  
+
+- [Voyant Tools](https://voyant-tools.org/)
+- [WordArt.com](https://wordart.com/create)
 <br>
 
 <small> Data: [Inspired by (UBC Candy Hierarchy Study)](https://www.scq.ubc.ca/wp-content/uploads/2017/10/candyhierarchysurvey2017.pdf)</small>  
