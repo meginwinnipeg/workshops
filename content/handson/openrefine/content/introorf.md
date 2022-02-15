@@ -11,10 +11,8 @@ nav_order: 1
 *Follow along and interact with the slides below if you want:*
 <br>
 
-<iframe src="https://umanitoba-my.sharepoint.com/personal/meg_miller_umanitoba_ca/_layouts/15/Doc.aspx?sourcedoc={758caf1d-a1d8-4eb5-adcf-ae790ba6c0db}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
 <iframe width="720" height="480" frameborder="0" marginheight="0" marginwidth="0" style="border:12px solid  #fcfcfc" src="https://umanitoba-my.sharepoint.com/personal/meg_miller_umanitoba_ca/_layouts/15/Doc.aspx?sourcedoc={758caf1d-a1d8-4eb5-adcf-ae790ba6c0db}&amp;action=embedview&amp;wdAr=1.7777777777777777"></iframe>
-![slide deck](img/slides.PNG)  
 
 Watch the session on [YouTube](https://youtu.be/).
 <hr>
@@ -32,5 +30,3 @@ Watch the session on [YouTube](https://youtu.be/).
     - Secondary use    
 - OpenRefine is an open-source desktop solution for data cleaning. It straddles the line between manual and automated and is great for beginners and more advanced users alike.    
 - Many visualization tools can be found linked from the [data visualization subject guide](https://libguides.lib.umanitoba.ca/viz).  
-
-
