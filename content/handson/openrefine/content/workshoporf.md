@@ -201,13 +201,13 @@ Remember, we aren’t making changes to your original dataset but to an OpenRefi
 Congratulations! You made it through!  
 
 Questions? Concerns?  
-<br><br>
+<br>
 
 ## **Bonus**
 The cleaned provinces column has been made available to you in the data folder for the workshop (_Exercise 3_). Try loading it into the following word cloud software to see what happens.  
 
 - [Voyant Tools](https://voyant-tools.org/)
 - [WordArt.com](https://wordart.com/create)
-<br>
+<br><br>
 
 <small> Data: [Inspired by (UBC Candy Hierarchy Study)](https://www.scq.ubc.ca/wp-content/uploads/2017/10/candyhierarchysurvey2017.pdf)</small>  
