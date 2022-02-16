@@ -155,7 +155,7 @@ Find the _Q6 | First Fav Candy_ column.
  
 
 ## 8: **Split** column and **rename** fields
-We can see the _Geotag_ column has both Latitude and longitude in the same column separated by a column. To visualize this data in a GIS, these need to be separate fields.   
+We can see the _Geotag_ column has both Latitude and Longitude in the same column separated by a comma. To visualize this data in a GIS, these need to be separate fields.   
 Find the _Q8:Geotag_ column.
 1. Click the **down arrow** (1) and choose Edit Column (2) -> Split into several columns (3) 
 ![split columns](img/step8.PNG)
@@ -165,9 +165,9 @@ Find the _Q8:Geotag_ column.
     2. Type a **comma** (5) into the text box as this is the divisor between the two fields.  
     3. Ensure **Guess cell type** (6) and **Remove this Column** (7)  
 	4. Click **OK** (8) to move forward with splitting the column  
-![split column error](img/step8b.PNG)
+![split column error](img/step8a.PNG)
 <br>
-![Split column dialogue](img/step8a.PNG)
+![Split column dialogue](img/step8b.PNG)
 <br>
  
 You can see that one of the records didn’t split. You can see this is because there was no comma separating the numbers in the original entry.  
