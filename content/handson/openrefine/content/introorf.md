@@ -12,7 +12,6 @@ nav_order: 1
 <br>
 
 [<img src="img/slides.PNG">](img/openrefineSlides.pdf)  
-![slides]("img/slides.PNG")  
 
 Watch the session on [YouTube](https://youtu.be/).
 <hr>
