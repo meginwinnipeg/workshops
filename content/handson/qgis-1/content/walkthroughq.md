@@ -59,8 +59,8 @@ Try using the pan (hand) and zoom (magnifying glasses) to move around the map.
 2. Click the plus sign at the bottom of the dialogue to create a new Join.   
 2. In the wizard, ensure that:  
 	1. **Join Layer:** _coviddata_  
-	2. **Join field:** _Country Re_  
-	3. **Target Field:** _NAME EN_  
+	2. **Join field:** _iso_code_  
+	3. **Target Field:** _ISO A3 EH_  
 	4. Check off the option to cache join layer in virtual memory  
 	5. Click **OK**  
 	![QGIS create join dialogue](img/qjoindialogue.PNG)  
@@ -70,7 +70,7 @@ Try using the pan (hand) and zoom (magnifying glasses) to move around the map.
 ## 7. Create a Choropleth  
 1. Right click on _Countries_ and select **Properties \>** ![paintbrush icon](img/symbologyicon.png) **(paintbrush)** to change the symbology  
 2. **Symbology type** : _Graduated_ (from the dropdown)  
-3. **Column** : Confirmed  
+3. **Column** : covid data Percpop infected 
 4. **Colour ramp** : Anything light to dark  
 5. **Mode** : Natural Breaks (Jenks)  
 6. **Classes** : 5
@@ -80,7 +80,7 @@ Try using the pan (hand) and zoom (magnifying glasses) to move around the map.
 9. Click Apply + OK  
 <br>
 
-## 8. The countries with joined data are now symbolized according to number of confirmed cases.  
+## 8. The countries with joined data are now symbolized according to the percentage of the population that has been infected.  
 ![Finished map](img/qfinalproduct.png)  
 <br>
 
