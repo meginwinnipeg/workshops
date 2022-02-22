@@ -1,7 +1,7 @@
 ---
 layout: default
 title: QGIS 1
-nav_order: 4
+nav_order: 5
 parent: Workshops
 has_children: true
 has_toc: false
