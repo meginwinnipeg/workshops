@@ -51,7 +51,7 @@ Numbers 1-4 illustrate the locations of the following elements:
 <br>
 
 ## 4. **Name** your item:  
-In the top left corner of the page there is a **textbox** for you to name your file. I’ve named mine _January_. Name yours whatever you would like.  
+In the top left corner of the page there is a **textbox** for you to name your file. I’ve named mine _FebruaryWeather_. Name yours whatever you would like.  
 	![Name item  text box](img/step4.PNG)  
 <br>
 
@@ -103,7 +103,7 @@ We don’t want to overwhelm the user, but we do want to create something visual
  
 2. **Drag and drop** the Title block onto your workspace  
 Copy and paste the following text into the block that has appeared in your workspace:  
-_Where would you rather spend January?  
+_Where would you rather spend February?  
 Winnipeg or Toronto_  
 3. You can select text within the block and change its properties using the text properties menu that appears.  
 I am going to:  
@@ -150,8 +150,8 @@ We are going to add a bar chart visualizing total precipitation to our graphic.
   </tr>
   <tr>
     <td>Precipitation (mm)</td>
-    <td>5.4</td>
-    <td>25.1</td>
+    <td>23.7</td>
+    <td>20.4</td>
   </tr>
   </table> 
 
@@ -197,7 +197,7 @@ The built in options in are sometimes very limited, so finding work abounds is i
 3. Copy and paste the following text into each of those blocks that has appeared in your workspace:  
   _Do you like the cold?  
   The lowest monthly minimums were…  
-  -28.1°C vs -12.2°C_  
+  -31.8°C vs -20.0°C_  
 4. Select the text within each block and change it's properties using the **text properties menu** that appears.  
 ![text properties toolbar](img/step13b.PNG)  
   _Line 1: Roboto Condensed 23  
