@@ -10,7 +10,7 @@ nav_order: 2
 
 ---
 
-<kbd><img style="border:12px solid  #fcfcfc" src="img/workshop.PNG"></kbd>
+<kbd><img style="border:8px solid  #fcfcfc" src="img/workshop.PNG"></kbd>
 
 ---
 
@@ -54,7 +54,7 @@ This is our dashboard of visualizations. It is possible to interact with the gra
     3. Using your mouse **click and drag** to select all the text, then select the **align centre** option from the properties box to change the justification.  
 	![justify text menu](img/expla2.PNG)  
 3. Your workspace should now look something like this:  
-	![Explanatory Text Workspace](img/explafin.PNG) 
+<img src="img/explafin.PNG" alt="Explanatory text Workspace" style="border:8px solid  #fcfcfc">  
 <br>
 
 ## 5. **Tree Map** (tab 3) - Edit a field name for display purposes.  
@@ -79,7 +79,7 @@ I have already created the container for you, all that needs to be done is to po
     3. Now **drag and drop** the _Day_Night_ field from the Fields panel to the **Values** property of the Visualizations panel. It should auto-load as a count.  
 	![Load data dialogue](img/pie1.PNG)  
 3. Your workspace should now look something like this:  
-	![Pie Workspace](img/piefin.PNG) 
+<img src="img/piefin.PNG" alt="Pie Workspace" style="border:8px solid  #fcfcfc">  
 <br>
 
 ## 7. **Outliers** (tab 5) – Turn off slider, edit title, add labels.
@@ -95,7 +95,7 @@ While the zoom slider on the y-axis does help us to contend with the high volume
 6. Open the **Title** dropdown and edit the _Title_ to remove the reference to the slider.  
 	![Data labels options](img/outlier3.PNG)  
 7. Your workspace should now look something like this:  
-	![Outliers Workspace](img/outlierfin.PNG)   
+ <img src="img/outlierfin.PNG" alt="Outliers Workspace" style="border:8px solid  #fcfcfc">  
 <br>
 
 ## 8. **Map** (tabs 6 & 7)– Adjust base map, convert a report to a tool tip. 
@@ -113,8 +113,8 @@ We want our dashboard to look like a cohesive whole with the data being the prim
 	4. Open the **Page size** dropdown and change the type from **‘Letter’** to **‘Tooltip’**.  
 	![Page size options](img/map2.PNG)  
 	The workspace should have snapped to your content size.  
-5. Now when you return to the _Map / UX_ tab at the bottom of your screen, when you **mouse-over** a data point it should look something like:  
-	![Map Workspace](img/mapfin.PNG) 
+5. Now when you return to the _Map / UX_ tab at the bottom of your screen, when you **mouse-over** a data point it should look something like: 
+ <img src="img/mapfin.PNG" alt="Map Workspace" style="border:8px solid  #fcfcfc">  
 <br>
 
 ## 9. **Final Report** (tab 8) – Proof your work (& change a filter size)
@@ -125,7 +125,7 @@ You’ve finally done it, your project is complete! But wait, it’s time to giv
 	![Filter options dialogue](img/final1.PNG)  
 4. Press **enter** to save your change.  
 5. Your workspace should now look something like:  
- <img src="img/finalfin.PNG" alt="Final Report Workspace" style="border:12px solid  #fcfcfc"> 
+ <img src="img/finalfin.PNG" alt="Final Report Workspace" style="border:8px solid  #fcfcfc"> 
 
 <br>
 
