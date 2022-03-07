@@ -125,7 +125,8 @@ You’ve finally done it, your project is complete! But wait, it’s time to giv
 	![Filter options dialogue](img/final1.PNG)  
 4. Press **enter** to save your change.  
 5. Your workspace should now look something like:  
-	![Final Report Workspace](img/finalfin.PNG)   
+ <img src="img/finalfin.PNG" alt="Final Report Workspace" style="border:12px solid  #fcfcfc"> 
+
 <br>
 
 Congratulations! You made it through!  
