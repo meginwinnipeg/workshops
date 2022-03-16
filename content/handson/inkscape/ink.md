@@ -6,7 +6,7 @@ parent: Workshops
 has_children: true
 has_toc: false
 ---
-# Introduction to Inkscape
+# Introduction to Inkscape  
 
 ## Objectives:
 
