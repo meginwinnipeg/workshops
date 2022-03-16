@@ -6,7 +6,7 @@ parent: Workshops
 has_children: true
 has_toc: false
 ---
-# Introduction to data cleaning with OpenRefine
+# Introduction to Inkscape
 
 ## Objectives:
 
