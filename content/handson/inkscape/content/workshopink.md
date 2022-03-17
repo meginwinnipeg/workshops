@@ -14,7 +14,7 @@ nav_order: 2
 
 ---
 
-## **Basic actions**  
+### **Basic actions**  
 
 
 ## 1. **Open** the Common Tasks file  
@@ -24,8 +24,9 @@ nav_order: 2
 ## 2. **Explore** the interface  
 ![inkscape exercise](img/step2.PNG)  
 
-Inkscape is a very keyboard heavy program. The help menu or Google can help you navigate.  
-The vertical toolbar on the left shows Inkscape's **drawing and editing tools**. Depending on your screen resolution, the **Commands bar** with general command buttons, such as _Save_ and _Print_, can be found either in the top part of the window, right below the menu, or on the right side of the window, in between the scroll bar and the Snap Controls bar. 
+Inkscape is a very keyboard heavy program. The help menu or Google can help you navigate.   
+<br>
+The vertical toolbar on the left shows Inkscape's **drawing and editing tools**. Depending on your screen resolution, the **Commands bar** with general command buttons, such as _Save_ and _Print_, can be found either in the top part of the window, right below the menu, or on the right side of the window, in between the scroll bar and the Snap Controls bar.  
 Above the white **Canvas**, is the **Tool Controls bar** with controls that are specific to each tool. The **status bar** at the bottom of the window will display useful hints and messages as you work.  
 Similar to GIS software, information is organized into layers and sublayers via the layers panel ![layers icon](img/step2b.PNG) that can be found on the right side of the page. The **layers dialog** is an easy way to keep track of items on your canvas, but you cannot drill down to find individual objects.  
 ![layers panel](img/step2c.PNG)  
@@ -131,7 +132,7 @@ My box looked something like:
 ## 5 minute break
 
 
-# Map Exercise  
+# 4. Map Exercise  
  
 ![inkscape exercise 2](img/mapstep.PNG)  
 
@@ -217,12 +218,14 @@ Once your map is how you want it, you will need to export as an image so it can 
 ![export dialogue](img/map9.PNG)  
  
 (A rule of thumb, 300DPI resolution for print, 150DPI for web)  
+<br>
 
  
 Congratulations! You made it through!  
+<br>
 
 Questions? Concerns?  
 <br>
 
 
-<small> Data: [(OpenStreetMap)](https://www.openstreetmap.org/), [(Manitoba Land Inventory)](https://mli2.gov.mb.ca/), [(Meteoblue Climate)](https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/pinawa-provincial-park_canada_6104825)</small>  
+<small> Data: [OpenStreetMap](https://www.openstreetmap.org/), [Manitoba Land Inventory](https://mli2.gov.mb.ca/), [Meteoblue Climate](https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/pinawa-provincial-park_canada_6104825)</small>  
