@@ -11,21 +11,18 @@ nav_order: 1
 *Follow along and interact with the slides below if you want:*
 <br>
 
-[<img src="img/slides.PNG">](img/openrefineSlides.pdf)  
+<iframe width="720" height="480" frameborder="0" marginheight="0" marginwidth="0" style="border:12px solid  #fcfcfc" src="https://meginwinnipeg.github.io/slides/ink_w2022.html"></iframe>
 
 
 <hr>
 
 ## Key points from slides:
-
-- _Data Cleaning:_ Manually or programatically improving the quality of your data.    
-- Major issues addressed are:
-	- Inconsistencies  
-    - Formatting  
-    - Null Values    
-- The major benefits of having clean data includes:  
-	- More efficient research  
-    - Easier conversion  
-    - Secondary use    
-- OpenRefine is an open-source desktop solution for data cleaning. It straddles the line between manual and automated and is great for beginners and more advanced users alike.    
+   
+- Many options for graphics software, open source/ proprietary equivalents are: 
+	- Inkscape > Adobe Illustrator  
+    - GIMP > Adobe Photoshop  
+    - Scribus > Adobe InDesign    
+- When exporting from QGIS main things to remember are:  
+	- SVG or PDF format  
+    - Prepare your labels        
 - Many visualization tools can be found linked from the [data visualization subject guide](https://libguides.lib.umanitoba.ca/viz).  
