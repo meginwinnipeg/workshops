@@ -43,18 +43,21 @@ This can be helpful if you are trying to figure out why your object is acting th
     1. The **Zoom tool** ![zoom icon](img/step3.PNG) (in the toolbar on left) lets you to zoom into an area by dragging around it.  
     2. You can click in the zoom entry field (in the bottom right region of the document window, labelled “Z”), type a precise zoom value in %, and press enter.  
     3. Use the ‘-‘or ‘+’ keys to zoom in and out  
-3. The most used tool is the **Selector**. Click the topmost button (with the arrow) on the toolbar ![select icon](img/step3b.PNG) to activate it. In activating an object eight arrow-shaped handles appear around the object. ![handle icon](img/step3c.PNG)  Now you can: 
+3. The most used tool is the **Selector**. Click the topmost button (with the arrow) on the toolbar ![select icon](img/step3b.PNG) to activate it. In activating an object eight arrow-shaped handles appear around the object. ![handle icon](img/step3c.PNG)<br>  
+Now you can: 
     - **Move** the object by dragging it.  
     - **Scale** the object by dragging any handle  
-With a second click the handles change. ![rotate icon](img/step3d.PNG) Now you can:  
-    - **Rotate** the object by dragging the corner handles.  
+With a second click the handles change. ![rotate icon](img/step3d.PNG)<br>  
+Now you can:  
+    - **Rotate** the object by dragging the corner handles.
+<br>	
 While using the Selector, you can also use the numeric entry fields in the **Tool Controls bar** (above the canvas) to set exact values for coordinates (X and Y) and size (W and H) of the selection. 
 
 
 ### **Task 1:** Stroke and fill, and drawing new shapes  
 The simplest way to colour an object is select it and click a swatch in the palette below the canvas, _right clicking_ the swatch allows you to select if you want to use the color for the outline or fill.  
 ![fill menu](img/task1.PNG)  
-The advanced option is to use the **Fill and Stroke dialog** ![fill icon](img/task1b.PNG) (Found on the toolbar on the right side of the page0. Here you can set the fill, stroke colour and stroke style for an object.  
+The advanced option is to use the **Fill and Stroke dialog** ![fill icon](img/task1b.PNG) (Found on the toolbar on the right side of the page). Here you can set the fill, stroke colour and stroke style for an object.  
 ![fill dialogue](img/task1c.PNG)  
 
 1. **Select** the star and use either method to change the fill as instructed.  
@@ -149,6 +152,7 @@ My box looked something like:
 
 2. Click once on the purple circle under the title block to **select** it.  
 3. Use the **delete key** on your keyboard to remove the object.  
+<br>
 Your page should now look something like:  
 ![map 2 final](img/map3b.PNG)  
  
@@ -162,6 +166,7 @@ Once the text is selected you can use the Text dialogue ![text icon](img/map4.PN
 
 3. The _Summary Info bubble_ is looking quite crowded, we could make the font smaller, but if we step back, we can see that there is duplicated information between other bubbles and what appears here.  
     1. **Select** the text you want to remove and use the delete key to remove it.  
+<br>
 This leaves me with something like:  
 ![summary info bubble](img/map4c.PNG)  
  
@@ -212,7 +217,7 @@ Mine looks something like:
 I have provided you with a file of a potential ‘final’ you can look at for inspiration, or you can go your own way.   
 ![map final](img/map8.PNG)  
  
-##9. **Export** as .png  
+## 9. **Export** as .png  
 Once your map is how you want it, you will need to export as an image so it can be used in other applications.  
 1. File > **Export PNG Image**  
 ![export dialogue](img/map9.PNG)  
