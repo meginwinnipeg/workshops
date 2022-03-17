@@ -24,13 +24,13 @@ nav_order: 2
 ## 2. **Explore** the interface  
 ![inkscape exercise](img/step2.PNG)  
 
- **Inkscape is a very keyboard heavy program. The help menu or Google can help you navigate.  
+Inkscape is a very keyboard heavy program. The help menu or Google can help you navigate.  
 The vertical toolbar on the left shows Inkscape's **drawing and editing tools**. Depending on your screen resolution, the **Commands bar** with general command buttons, such as _Save_ and _Print_, can be found either in the top part of the window, right below the menu, or on the right side of the window, in between the scroll bar and the Snap Controls bar. 
 Above the white **Canvas**, is the **Tool Controls bar** with controls that are specific to each tool. The **status bar** at the bottom of the window will display useful hints and messages as you work.  
 Similar to GIS software, information is organized into layers and sublayers via the layers panel ![layers icon](img/step2b.PNG) that can be found on the right side of the page. The **layers dialog** is an easy way to keep track of items on your canvas, but you cannot drill down to find individual objects.  
 ![layers panel](img/step2c.PNG)  
 
-The XML Editor ![xml icon](img/step2d.PNG) and CSS selector ![css icon](img/step2e.PNG) are where you will find information on individual objects (referred to as nodes)  
+The **XML Editor** ![xml icon](img/step2d.PNG) and **CSS selector** ![css icon](img/step2e.PNG) are where you will find information on individual objects (referred to as nodes)  
 ![Xml and CSS dialogues](img/step2f.PNG)  
    
 This can be helpful if you are trying to figure out why your object is acting the way it is. Today’s session will not be focusing on this.  
@@ -119,7 +119,7 @@ Your shape should now look like:
  
 ### **Task 8:** Filter an object  
 In production mapping **filtering** would be done outside of the vector editing tool using something like Photoshop or GIMP. But for simple effects, or one-off maps using the filters in Inkscape. Here we are going to blur the edge of a box so that it fades more into its surroundings.  
-1. Using the selection arrow select the **green rectangle**.  
+1. Using the selection arrow **select** the green rectangle.  
 2. Click the **Filter menu** (top of the page) and explore the options available.  
 ![filter menu](img/task8.PNG)  
  
