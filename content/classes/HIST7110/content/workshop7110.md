@@ -18,8 +18,7 @@ Today we will be exploring the ArcGIS Online interface by:
 1. Finding data that is available  
     - Living Atlas  
 2. Integrating a CSV file  
-3. Editing a popup for clarity  
-4. Changing symbology  
+3. Adjusting dataset parameters 
 5. Discussing export options  
 
 # Exploration  
@@ -93,11 +92,9 @@ Numbers 1-4 illustrate the locations of the following elements:
 5. Click on the **Open in Map Viewer** option.  
 ![AGOL workspace](img/create/step3c.PNG)<br>  
  
-
 Your screen should now look something like:  
 ![AGOL workspace](img/create/step3d.PNG)<br>  
  
-
 6. **Save** your map by clicking the  **Save As** option above the map. Your map is now saved to your personal content area.  
 ![AGOL workspace](img/create/step3e.PNG)<br>  
  
@@ -121,22 +118,22 @@ Your map should now look something like:
 
    
 ## 5. **Explore** the AGOL interface.  
-1. Numbers 1-4 illustrate the locations of the following elements:  
-    1. **Tool** options    
-    2. **Actions** (allows add new content to the map, change your base map, conduct simple analyses)  
-    3. **Table of Contents** (properties options for individual layers such as: attributes, symbology and pop-up configuration)  
-    4. **Your map** workspace    
+Numbers 1-4 illustrate the locations of the following elements:  
+  1. **Tool** options    
+  2. **Actions** (allows add new content to the map, change your base map, conduct simple analyses)  
+  3. **Table of Contents** (properties options for individual layers such as: attributes, symbology and pop-up configuration)  
+  4. **Your map** workspace    
 	![AGOL workspace](img/create/step5a.PNG)<br> 
 	  
-2. Numbers 5-12 illustrate the purpose of the icons found in the Table of Contents:  
-    5. **Legend**     
-    6. **Attribute table** (information about each data point displayed as a table)  
-    7. **Symbology** (change the appearance of feature)   
-    8. **Filter** (show a subset of your data)  
-    9. **Cluster** (group features to reduce map clutter)  
-    10. **Perform analysis** (analyze this specific layer)  
-    11. **More options** (zoom, transparency, pop-ups, labels…)  
-	![AGOL workspace](img/create/step5a.PNG)<br>  
+Numbers 5-12 illustrate the purpose of the icons found in the Table of Contents:  
+  5. **Legend**     
+  6. **Attribute table** (information about each data point displayed as a table)  
+  7. **Symbology** (change the appearance of feature)   
+  8. **Filter** (show a subset of your data)  
+  9. **Cluster** (group features to reduce map clutter)  
+  10. **Perform analysis** (analyze this specific layer)  
+  11. **More options** (zoom, transparency, pop-ups, labels…)  
+	![AGOL workspace](img/create/step5b.PNG)<br>  
  
 
  3. **Save** your additions by clicking the **Save** option.  
@@ -144,9 +141,9 @@ Your map should now look something like:
 ## 6. **Share** your map  
 There are many ways you can share your work with the world so they can explore your work.  
 1. Click the **Share**  ![AGOL workspace](img/create/step6a.PNG) button above the map and explore the options available to you.  
-    - Share map with a group (1) or via link (2)  
-    - Embed Map in a website (3)  
-    - Create a stand-alone application (4)  
+    - Share map with a **group** (1) or via **link**(2)  
+    - **Embed** Map in a website (3)  
+    - Create a stand-alone **application** (4)  
 ![AGOL workspace](img/create/step6b.PNG)   
 
 <br>
