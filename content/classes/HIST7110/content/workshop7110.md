@@ -92,10 +92,10 @@ Numbers 1-4 illustrate the locations of the following elements:
 5. Click on the **Open in Map Viewer** option.  
 ![AGOL workspace](img/create/step3c.PNG)<br>  
  
-Your screen should now look something like:  
+6. Your screen should now look something like:  
 ![AGOL workspace](img/create/step3d.PNG)<br>  
  
-6. **Save** your map by clicking the  **Save As** option above the map. Your map is now saved to your personal content area.  
+7. **Save** your map by clicking the  **Save As** option above the map. Your map is now saved to your personal content area.  
 ![AGOL workspace](img/create/step3e.PNG)<br>  
  
 ## 4. **Add data** that has been shared with you through a **Group**:  
@@ -105,9 +105,7 @@ Your screen should now look something like:
  
 2. Ensure the **My Groups** option is selected from the dropdown  
 ![AGOL workspace](img/create/step4b.PNG)<br>  
-
- 
- This brings up items that have been shared at the Group level, I have shared one feature layer with you.  
+  This brings up items that have been shared at the Group level, I have shared one feature layer with you.  
 3. Click on the **Forgotten Breweries of Toronto** layer that has been shared with you.  
 ![AGOL workspace](img/create/step4c.PNG)<br>  
   
@@ -117,7 +115,7 @@ Your map should now look something like:
 ![AGOL workspace](img/create/step4d.PNG)<br>  
 
    
-## 5. **Explore** the AGOL interface.  
+## 5. **Explore** the workspace.  
 Numbers 1-4 illustrate the locations of the following elements:  
   1. **Tool** options    
   2. **Actions** (allows add new content to the map, change your base map, conduct simple analyses)  
@@ -126,17 +124,17 @@ Numbers 1-4 illustrate the locations of the following elements:
 	![AGOL workspace](img/create/step5a.PNG)<br> 
 	  
 Numbers 5-12 illustrate the purpose of the icons found in the Table of Contents:  
-  5. **Legend**     
-  6. **Attribute table** (information about each data point displayed as a table)  
-  7. **Symbology** (change the appearance of feature)   
-  8. **Filter** (show a subset of your data)  
-  9. **Cluster** (group features to reduce map clutter)  
-  10. **Perform analysis** (analyze this specific layer)  
-  11. **More options** (zoom, transparency, pop-ups, labels…)  
+- 5. **Legend**     
+- 6. **Attribute table** (information about each data point displayed as a table)  
+- 7. **Symbology** (change the appearance of feature)   
+- 8. **Filter** (show a subset of your data)  
+- 9. **Cluster** (group features to reduce map clutter)  
+- 10. **Perform analysis** (analyze this specific layer)  
+- 11. **More options** (zoom, transparency, pop-ups, labels…)  
 	![AGOL workspace](img/create/step5b.PNG)<br>  
  
 
- 3. **Save** your additions by clicking the **Save** option.  
+**Save** your additions by clicking the **Save** option.  
 
 ## 6. **Share** your map  
 There are many ways you can share your work with the world so they can explore your work.  
@@ -155,5 +153,5 @@ Questions? Concerns?
 
 <br><br>
 
-<small> Data: [Inspired by ("Lost Breweries of Toronto, 1800-1989, Marcel Fortin, 2018")](https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi%3A10.5683%2FSP2%2FZ7K8DZ&version=&q=&fileTypeGroupFacet=&fileAccess=&fileSortField=size)</small>  
+<small> Data: Lost Breweries of Toronto 1800-1989: Marcel Fortin, 2018)](https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi%3A10.5683%2FSP2%2FZ7K8DZ&version=&q=&fileTypeGroupFacet=&fileAccess=&fileSortField=size)</small>  
 
