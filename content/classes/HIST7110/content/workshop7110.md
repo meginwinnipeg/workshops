@@ -124,13 +124,13 @@ Numbers 1-4 illustrate the locations of the following elements:
 	![AGOL workspace](img/create/step5a.PNG)<br> 
 	  
 Numbers 5-12 illustrate the purpose of the icons found in the Table of Contents:  
-- 5. **Legend**     
-- 6. **Attribute table** (information about each data point displayed as a table)  
-- 7. **Symbology** (change the appearance of feature)   
-- 8. **Filter** (show a subset of your data)  
-- 9. **Cluster** (group features to reduce map clutter)  
-- 10. **Perform analysis** (analyze this specific layer)  
-- 11. **More options** (zoom, transparency, pop-ups, labels…)  
+- 5 **Legend**     
+- 6 **Attribute table** (information about each data point displayed as a table)  
+- 7 **Symbology** (change the appearance of feature)   
+- 8 **Filter** (show a subset of your data)  
+- 9 **Cluster** (group features to reduce map clutter)  
+- 10 **Perform analysis** (analyze this specific layer)  
+- 11 **More options** (zoom, transparency, pop-ups, labels…)  
 	![AGOL workspace](img/create/step5b.PNG)<br>  
  
 
@@ -151,7 +151,6 @@ Congratulations! You made it through!
 Questions? Concerns?  
 <br>
 
-<br><br>
 
-<small> Data: Lost Breweries of Toronto 1800-1989: Marcel Fortin, 2018)](https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi%3A10.5683%2FSP2%2FZ7K8DZ&version=&q=&fileTypeGroupFacet=&fileAccess=&fileSortField=size)</small>  
+<small> Data: [Lost Breweries of Toronto 1800-1989: Marcel Fortin, 2018](https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi%3A10.5683%2FSP2%2FZ7K8DZ&version=&q=&fileTypeGroupFacet=&fileAccess=&fileSortField=size)</small>  
 
