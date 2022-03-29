@@ -47,7 +47,6 @@ In the series of dialogue boxes that follow:
 	3. Ensure the **location type** matches the selected location fields.  
 	![AGOL workspace](img/analyze/step2e.PNG)<br>  
 	4. _Title_: **TreeInventory_yourinitials**, _Tags_: **2200_yourinitials**   
-    3. **Check off** the option to _publish the file as a hosted layer_.  
      ![AGOL workspace](img/analyze/step2f.PNG)<br>  
 
 4. Click the _Save_ button, and wait while your service publishes.  
