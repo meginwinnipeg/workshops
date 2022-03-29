@@ -107,5 +107,7 @@ We will be reusing this map later in a StoryMap. How your map looks here is how 
 3. Your map should now look something like:  
 ![AGOL workspace](img/integrate/step7b.PNG)<br>
 
-4. We will now move over to the **Analysis** section to make more maps.  
+4. **Save** your edits.  
+
+5. We will now move over to the **Analysis** section to make more maps.  
  
