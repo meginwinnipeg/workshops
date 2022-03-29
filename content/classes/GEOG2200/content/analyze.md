@@ -30,24 +30,29 @@ In this step we will be creating three (3) different type of maps to support our
 ![AGOL workspace](img/analyze/step1a.PNG)<br>  
 
  
-## 2. **Add Item** to create a feature service from a .csv file:  
+## 2. **New Item** to create a feature service from a .csv file:  
 We want to add our tree data to our Content area in the form of a feature service so that we can publish content with it.    
 
-1. Select the **Add Item** option from the top left of your content area.  
-2. From the options that appear we want to select the **From your computer** option to select to .csv file from your downloaded data.  
-![AGOL workspace](img/analyze/step2a.PNG)<br>  
+1. Select the **New Item** option from the top left of your content area.  
+![AGOL workspace](img/analyze/step2a.PNG)<br>
+2. From the options that appear we want to select the **From your device** option to select to .csv file from your downloaded data.  
+![AGOL workspace](img/analyze/step2b.PNG)<br>  
  
 3. **Navigate** to your TreeInventory_KingsPark.csv file and add it.  
-In the Dialogue Box that follows:  
-    1. _Title_: **TreeInventory_yourinitials**  
-    2. _Tags_: **2200_yourinitials**   
+In the series of dialogue boxes that follow:  
+    1. Select the optiom to create a **hosted feature layer** from the .csv.  
+	![AGOL workspace](img/analyze/step2c.PNG)<br>   
+	2. Double-check your field types and location fields: _Diameter at Breast Height_ should be a **double**, _Latitude_ and _Longitude_ set as the **double** fields.
+	![AGOL workspace](img/analyze/step2d.PNG)<br>  
+	3. Ensure the **location type** matches the selected location fields.  
+	![AGOL workspace](img/analyze/step2e.PNG)<br>  
+	4. _Title_: **TreeInventory_yourinitials**, _Tags_: **2200_yourinitials**   
     3. **Check off** the option to _publish the file as a hosted layer_.  
-    4. Double-check your field types and location fields: _Diameter at Breast Height_ should be a **double**, _Latitude_ and _Longitude_ set as the **location** fields.  
-![AGOL workspace](img/analyze/step2b.PNG)<br>  
+     ![AGOL workspace](img/analyze/step2f.PNG)<br>  
 
-4. Click the _Add Item_ button, and wait while your service publishes.  
+4. Click the _Save_ button, and wait while your service publishes.  
 5. You should now have your own **feature service** to use that looks something like:  
-![AGOL workspace](img/analyze/step2c.PNG)<br>  
+![AGOL workspace](img/analyze/step2g.PNG)<br>  
 
  
 ## 3. Create a **heat map** do show distribution.  
