@@ -58,8 +58,8 @@ Numbers 1-4 describe them.
 ![AGOL workspace](img/share/step2a.PNG)<br>  
 
 2. On your own:  
-    1. Add one of the images provided to you in the workshop data as a **cover image** (3)  
-    2. Adjust the **Design** (4) to see how the look of your workspace changes.  
+    1. Add one of the images provided to you in the workshop data as a **cover image**   
+    2. Adjust the **Design** to see how the look of your workspace changes.  
     3. Add a creative **title/subtitle** to catch the attention of your audience.  
 3. I selected to use a _Full_ cover and the _Summit_ theme for simplicity.  
 ![AGOL workspace](img/share/step2b.PNG)<br>  
@@ -112,7 +112,7 @@ When we scroll to the bottom of the list of objects we can add to our page there
 4. I know that I will have a text box floating on the left side of my page, so I will pan and zoom my map to position it something like:  
 ![AGOL workspace](img/share/step5b.PNG)<br>  
  
-5. Select the gear option at the top of the properties bar on the left side of your screen, here you can control how the user interacts with your map.  
+5. Select the gear option at the top of your map to display map properties, here you can control how the user interacts with your map.  
 6. In my case I want to allow for map navigation (scrolling and panning) and also show the legend, so I have toggled these options _on_.  
 ![AGOL workspace](img/share/step5c.PNG)<br>  
  
@@ -130,7 +130,6 @@ Once you have finished adding content and are happy with your results, you can s
 
 1. Ensure all elements are shared with the GEOG2200_DW group.  
 ![AGOL workspace](img/share/step6a.PNG)<br>  
-![AGOL workspace](img/share/step6b.PNG)<br>  
   
 **Note** It is up to you to know the permissions level on the data/ media you have embedded in your StoryMap and not break copyright.
 
@@ -143,7 +142,7 @@ Once you have finished adding content and are happy with your results, you can s
 3. Update the previously highlighted sections as follows:  
     1. _Description_: Describe your project  
     2. _Terms of Use_: Let people know this is a student project for the GEOG 2200 course  
-    3. _Tags_:  **2200_Workshopfinal**  
+    3. _Tags_:  **2200_Workshop2022**  
     4. _Share_: Under group sharing ensure the **GEOG2200_DW** group is selected  
 
 
