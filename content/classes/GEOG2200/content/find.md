@@ -23,11 +23,8 @@ This includes:
 
 ## 1. **Access** your workspace:  
 1. Navigate to UM's ArcGIS Online Portal [https://univmb.maps.arcgis.com](https://univmb.maps.arcgis.com)  
-2. Log-in by clicking on the blue button for accounts created after December 1 2020.
-![AGOL workspace](img/find/step1a.PNG)<br>
- 
-
-2. The Home page is your Landing Page.
+2. Log-in by entering your UM email and password.  
+3. The Home page is your Landing Page.
 ![AGOL workspace](img/find/step1b.PNG)<br>
  
 
