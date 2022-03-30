@@ -147,6 +147,17 @@ Once you have finished adding content and are happy with your results, you can s
 
 
 Congratulations! You made it through!  
+<br>
+
+## For your **assignment**:
+1. **Complete** the walk-through.
+2. Select **3 / 5** actions listed below and add them each as separate panels to your StoryMap.  
+    1. Make 3 changes to the **template file**. In a text panel describe what changes you made and why.  
+    2. If you are in Winnipeg go to King's Park and **take a selfie** with a specific tree from the database. Include this photo and describe why you chose this tree. 
+	If you aren't in Winnipeg, chose a tree in your local area.  
+    3. **Create another map** using the Tree layer, and add it and some descriptive text to your story.  
+    4. Add an **animation** or **action** to one of the maps and describe how it adds to the story.  
+    5. Another **element** of your choosing, with descriptive text.  
 
 Questions? Concerns?  
 <br>
