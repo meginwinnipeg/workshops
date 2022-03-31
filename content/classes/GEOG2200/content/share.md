@@ -150,14 +150,15 @@ Congratulations! You made it through!
 <br>
 
 ## For your **assignment**:
-1. **Complete** the walk-through.
+1. **Complete** the walk-through by adding all maps created to your StoryMap with some descriptive text.
 2. Select **3 / 5** actions listed below and add them each as separate panels to your StoryMap.  
     1. Make 3 changes to the **StoryMap Design**. In a text panel describe what changes you made and why.  
-    2. If you are in Winnipeg go to King's Park and **take a selfie** with a specific tree from the database. Include this photo and describe why you chose this tree. 
+    2. If you are in Winnipeg go to King's Park and **take a selfie** with a specific tree from the database. Add this photo to the StoryMap and describe why you chose this tree. 
 	If you aren't in Winnipeg, chose a tree in your local area.  
-    3. **Create another map** using the Tree layer, and add it and some descriptive text to your story.  
-    4. Add an **animation** or **action** to one of the maps and describe how it adds to the story.  
-    5. Another **element** of your choosing, with descriptive text.  
+    3. **Create another map** using the Tree layer, and another layer of your choosing and add it and some descriptive text to your story.  
+    4. Add an **animation** or **action** to one of the maps and describe how it adds to the story (eg. video, audio, swipe, timeline, bookmark zoom).  
+    5. Another **object** of your choosing, with descriptive text.  
+3. Ensure you have **shared** and **tagged** your StoryMap appropriately so it can be found and marked.  
 
 Questions? Concerns?  
 <br>
