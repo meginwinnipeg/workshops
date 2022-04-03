@@ -1,7 +1,7 @@
 ---
 layout: default
-title: GIS for Historians
-parent: HIST7110
+title: GIS for Education
+parent: EDUA7850
 grand_parent: Classes
 nav_order: 1
 ---

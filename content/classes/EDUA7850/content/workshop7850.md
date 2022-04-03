@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ArcGIS Online Exercise
-parent: HIST7110
+parent: EDUA7850
 grand_parent: Classes
 nav_order: 2
 ---
