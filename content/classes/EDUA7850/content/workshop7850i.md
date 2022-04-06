@@ -123,6 +123,26 @@ If we explore the Attribute Tables of both DA files by clicking on the ![attribu
    
 5. Don't forget to save your work.  
 
+## 5. **Symbolize** map based on census attributes  
+You now have a layer of data with geography and census data associated with it, to bring out patterns in the data we can explore symbology options.  
+1. Hover over the _Join_ layer you created in your Table of Contents. The third tile from the left (3 stacked shapes) is the option to **change styles**.  
+![agol home](img/explore/step5a.PNG)  
+ 
+2. In the Styles dialogue that opens: 
+    - _Attribute_: **UnempRate**  
+    - _Drawing Style_: **Counts and Amounts** (colour), then select **Options**.  
+![agol home](img/explore/step5b.PNG)  
+ 
+3. In the **Counts and Amounts** dialogue that opens:  
+    1. _Symbols_: change the colour.  
+    2. _Classify_: Check off and explore classification options  
+    3. _Transparency_: Adjust as you want.  
+![agol home](img/explore/step5c.PNG)  
+
+![agol home](img/explore/step5d.PNG)  
+ 
+4. Select _OK_ and then _Done_. Don’t forget to save.
+
 
 ## 6. **Share** your map  
 There are many ways you can share your work with the world so they can explore your work.  
