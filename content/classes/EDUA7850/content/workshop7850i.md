@@ -89,17 +89,17 @@ In the series of dialogue boxes that follow:
 2. Select the **Add** option from the top left of your page and select the option to **Search for Layers** to add the table you just created in your workspace.
   ![AGOL workspace](img/explore/step3i.PNG)<br>
  
-2. From the options that appear we want to **select** to the table you just created to add it to the map.  
+3. From the options that appear we want to **select** to the table you just created to add it to the map.  
 ![AGOL workspace](img/explore/step3j.PNG)<br>  
   
-3. **Return** to your Table of Contents
-4. The import wizard will want to know if your table has any spatial reference (Latitude/Longitude fields). Select the option for _None_, and then add the layer.
+4. **Return** to your Table of Contents
+5. The import wizard will want to know if your table has any spatial reference (Latitude/Longitude fields). Select the option for _None_, and then add the layer.
 ![AGOL workspace](img/explore/step3c.PNG)<br>  
-5. Now there should be three items in your Table of Contents:
+6. Now there should be three items in your Table of Contents:
 - Dissemination Area polygons
 - Topographic base map
 - Table of labour statistics
-6. **Save** your changes
+7. **Save** your changes
 
  
 ## 4. **Join** the data from the table to the census geography file.  
