@@ -132,12 +132,12 @@ Numbers 1-4 illustrate the locations of the following elements:
 ![agol home](img/create/step5a.PNG)  
 
 Numbers 5-12 illustrate the purpose of the icons found in the Table of Contents:
-- 5 **Legend**
-- 6 **Attribute table** (information about each data point displayed as a table)
-- 7 **Symbology** (change the appearance of feature)
-- 8 **Filter** (show a subset of your data)
-- 9 **Perform analysis** (analyze this specific layer)
-- 10 **More options** (zoom, transparency, pop-ups, labels…)  
+- 5 - **Legend**
+- 6 - **Attribute table** (information about each data point displayed as a table)
+- 7 - **Symbology** (change the appearance of feature)
+- 8 - **Filter** (show a subset of your data)
+- 9 - **Perform analysis** (analyze this specific layer)
+- 10  **More options** (zoom, transparency, pop-ups, labels…)  
 ![agol home](img/create/step5b.PNG)  
  
 
