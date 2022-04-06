@@ -1,140 +1,93 @@
 ---
 layout: default
-title: ArcGIS Online Exercise
+title: ArcGIS Online - Intermediate
 parent: EDUA7850
 grand_parent: Classes
-nav_order: 2
+nav_order: 3
 ---
 
-# ArcGIS Online Exercise – Toronto's Lost Breweries
+# ArcGIS Online Exercise – Census Geography and Winnipeg Schools
 
 ---
-<kbd><img style="border:12px solid  #fcfcfc" src="img/workshop.PNG"></kbd>
+<kbd><img style="border:12px solid  #fcfcfc" src="img/workshop2.PNG"></kbd>
 
 
 ---
 ## 0. **Housekeeping**:  
-Today we will be exploring the ArcGIS Online interface by:  
-1. Finding data that is available  
-    - Living Atlas  
-2. Integrating a CSV file  
-3. Adjusting dataset parameters 
-5. Discussing export options  
+This session we will be:  
+1. Creating a map from scratch  
+2. Discussing census geographies
+3. Joining census data to spatial data 
+4. Exploring symbology and analysis options 
 
-# Exploration  
-## 1. **Access** your workspace:  
-1. Navigate to UM's ArcGIS Online Portal [https://univmb.maps.arcgis.com](https://univmb.maps.arcgis.com)  
-2. Log-in by entering your UM email and password.  
-3. The Home page is your Landing Page.  
-![AGOL workspace](img/explore/step1.PNG)<br>  
+# Exploration 
+
+## 1. Access your **Map** workspace to create your own map from scratch:  
  
-## 2. **Explore** AGOL Interface:  
-Numbers 1-3 illustrate the locations of the following elements:  
-
-1. **Account** (includes link to training materials)  
-2. **Tools** (all of the different ESRI Apps available to you)  
-3. **Options** (pages for different purposes (your content, maps, etc.)  
-
-	![AGOL workspace](img/explore/step2.PNG)<br>  
-
-
-## 3. **Explore** Training options:  
-1. **Click** on your username in the top right corner of the screen.  
-2. Select the **Training** option half way down the list.  
-![AGOL workspace](img/explore/step3a.PNG)<br>  
-   
-3. At the top of the page select the **Catalog** option, then the **Course Catalog**  
+1. Navigate to UM's ArcGIS Online Portal (https://univmb.maps.arcgis.com) and ensure you are signed in.  
+2. Access the **Map** area by clicking on that option in the top navigation.  
+![AGOL workspace](img/explore/step1a.PNG)<br>  
+ 
+ 
+## 2. **Add** data from your local machine:  
+We want to add some data we have downloaded to our empty map.    
+1. Select the **Add** option from the top left of your page and select the option to add the layer from a file.
+  ![AGOL workspace](img/explore/step2a.PNG)<br>
+ 
+2. From the options that appear we want to **Browse** to the data folder you have downloaded to select to select the zipped census dissemination area shapefile (WpgDA2016).  
+![AGOL workspace](img/explore/step2b.PNG)<br>  
+  
+3. Click **Import Layer** and wait for the service to be created.
+4. The import wizard will want you to adjust your **Symbology** to display the data.  
+In the series of dialogue boxes that follow:  
+    1. Select the option to **show location only**
+	![AGOL workspace](img/explore/step2c.PNG)<br>   
+ 
+	2. Click on the **Options** button to change the colour or transparency of the Dissemination Areas if you wish.
+	3. Click the blue **Done** button at the bottom of your Table of Contents to finish the import.  
+2. Save your new map by clicking the **Save** button above the workspace. Give it a meaningful name.
+3. Your screen should now look something like:  
+![AGOL workspace](img/explore/step2d.PNG)<br>  
+ 
+ 
+## 3. Add a **table** of census data to the map.  
+1. Select the **Add** option from the top left of your page and select the option to add the layer from a file.
+  ![AGOL workspace](img/explore/step3a.PNG)<br>
+ 
+2. From the options that appear we want to **Browse** to the data folder you have downloaded to select to select the .csv file that contains labour data (WpgDALabour).  
 ![AGOL workspace](img/explore/step3b.PNG)<br>  
- 
-4. Take a bit of time to browse through the training options available to you.  
-5. Return to the UM AGOL Home page.  
-
-## 4. **Explore** available tools:  
-1. **Click** on the waffle button that is to the left of your username in the top right of the screen to see the tools that are available.  
-2. Today’s session will be focusing on **ArcGIS Online** (also linked in the top navigation of your Home page).  
-![AGOL workspace](img/explore/step4a.PNG)<br>  
-
-## 5. **Explore** AGOL Home options:  
-Numbers 1-2 illustrate the most useful navigation options of the Landing Page:  
-
-1. **Map** (where to go to create a new map in AGOL)  
-2. **Content** (where all of your data, objects and organizational content is stored)  
-	![AGOL workspace](img/explore/step5.PNG)<br>  
-	
----
-
-
-# Creation  
-## 1. Access your **Content** workspace:  
-1. Access the **Content** area by clicking on that option in the top navigation.  
-![AGOL workspace](img/create/step1a.PNG)<br>  
-
-## 2. **Explore** the Content Panel:  
-Numbers 1-4 illustrate the locations of the following elements:  
-
-1. **Personal content** (includes all data and objects you have created)  
-2. **Filters** (allows you to easily limit the things that show up in your content area)  
-3. **Create New** (one of many ways to create/ add content to your workspace)  
-4. **Available content** (items that have been shared to you through groups, University of Manitoba or ESRI’s Living Atlas.)  
-	![AGOL workspace](img/create/step2.PNG)<br>  
   
-## 3. View **Living Atlas** data options:  
-1. Click on **Living Atlas** in the blue Content navigation bar.  
-2. This brings up data that has been made available to ESRI users. All content here is available for reuse.  
-![AGOL workspace](img/create/step3a.PNG)<br>  
+3. Click **Import Layer**.
+4. The import wizard will want to know if your table has any spatial reference (Latitude/Longitude fields). Select the option for _None_, and then add the layer.
+![AGOL workspace](img/explore/step3c.PNG)<br>  
+ 
+5. Now there should be three items in your Table of Contents:
+- Dissemination Area polygons
+- Topographic base map
+- Table of labour statistics
+6. **Save** your changes
+
+## 4. **Join** the data from the table to the census geography file.  
+If we explore the Attribute Tables of both DA files by clicking on the   ![attribute table icon](img/explore/step4a.PNG) icon, we can see the disconnect between the two files.
+1. From the **Analysis** options above your Table of Contents, open the heading to **Summarize Data** and select the **Join Features** option.  
+![AGOL workspace](img/explore/step4b.PNG)<br>  
  
 
-3. Using the search box search for _1858 Boulton_ , click the title to see more details about the file.  
+4. In the _Join Wizard Dialogue_ select the following options. Note that most options and tools have a blue circle you can hover over for more information.  
+    1. _Target_: **WpgDA2016**  
+    2. _Join Layer_: **WpgDALabour** table  
+    3a. _Type_: **Choose the fields to match**
+    3b. _Target_: **DAUID** , _Join_: **DAUID**  
+    4. _Operation_: **one to one**  
+    5. Name the file something meaningful including your initials.  
+![AGOL workspace](img/explore/step4c.PNG)<br>  
+ 
+5. Click the _Run Analysis_ option, wait for the data to join and be added to the map
+6. Check the attribute table of your newly created layer. Now you should be able to symbolize based on census information.
+![AGOL workspace](img/explore/step4d.PNG)<br>
    
-4. Now we can see a _Description_ and the _Terms of Use_ for the file, as well as options to explore the data further.  
-  ![AGOL workspace](img/create/step3b.PNG)<br>  
-  
-5. Click on the **Open in Map Viewer** option.  
-![AGOL workspace](img/create/step3c.PNG)<br>  
- 
-6. Your screen should now look something like:  
-![AGOL workspace](img/create/step3d.PNG)<br>  
- 
-7. **Save** your map by clicking the  **Save As** option above the map. Your map is now saved to your personal content area.  
-![AGOL workspace](img/create/step3e.PNG)<br>  
- 
-## 4. **Add data** that has been shared with you through a **Group**:  
+7. Don't forget to save your work.  
 
-1. Click on the **Add** data option above your map. Select the _Search for layers_ option.  
-![AGOL workspace](img/create/step4a.PNG)<br>  
- 
-2. Ensure the **My Groups** option is selected from the dropdown  
-![AGOL workspace](img/create/step4b.PNG)<br>  
-  This brings up items that have been shared at the Group level, I have shared one feature layer with you.  
-3. Click on the **Forgotten Breweries of Toronto** layer that has been shared with you.  
-![AGOL workspace](img/create/step4c.PNG)<br>  
-  
-  
-4. **Add item to map** using the plus sign in the bottom right corner of the item.  
-Your map should now look something like:  
-![AGOL workspace](img/create/step4d.PNG)<br>  
-
-   
-## 5. **Explore** the workspace.  
-Numbers 1-4 illustrate the locations of the following elements:  
-  1. **Tool** options    
-  2. **Actions** (allows add new content to the map, change your base map, conduct simple analyses)  
-  3. **Table of Contents** (properties options for individual layers such as: attributes, symbology and pop-up configuration)  
-  4. **Your map** workspace    
-	![AGOL workspace](img/create/step5a.PNG)<br> 
-	  
-Numbers 5-12 illustrate the purpose of the icons found in the Table of Contents:  
-- 5  **Legend**     
-- 6  **Attribute table** (information about each data point displayed as a table)  
-- 7  **Symbology** (change the appearance of feature)   
-- 8  **Filter** (show a subset of your data)  
-- 9  **Cluster** (group features to reduce map clutter)  
-- 10  **Perform analysis** (analyze this specific layer)  
-- 11  **More options** (zoom, transparency, pop-ups, labels…)  
-	![AGOL workspace](img/create/step5b.PNG)<br>  
- 
-
-**Save** your additions by clicking the **Save** option.  
 
 ## 6. **Share** your map  
 There are many ways you can share your work with the world so they can explore your work.  
@@ -152,5 +105,5 @@ Questions? Concerns?
 <br>
 
 
-<small> Data: [Lost Breweries of Toronto 1800-1989: Marcel Fortin, 2018](https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi%3A10.5683%2FSP2%2FZ7K8DZ&version=&q=&fileTypeGroupFacet=&fileAccess=&fileSortField=size)</small>  
+<small> Data: [Statistics Canada, 2016](https://www12.statcan.gc.ca/census-recensement/2011/geo/bound-limit/bound-limit-2016-eng.cfm)</small>  
 
