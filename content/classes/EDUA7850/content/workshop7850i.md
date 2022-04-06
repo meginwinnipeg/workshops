@@ -83,23 +83,16 @@ In the series of dialogue boxes that follow:
 6. Return to your **personal** content area.
 
 ## 3b. Add your **table** of census data to the map.  
-1. From your personal content list click the map title and select the **Open in Map Viewer** option on the right side of your screen.
+1. From your personal content list click the map title and select the **Open in Map Viewer** option on the right side of your screen.  
 ![AGOL workspace](img/explore/step3h.PNG)<br>  
  
-2. Select the **Add** option from the top left of your page and select the option to **Search for Layers** to add the table you just created in your workspace.
+2. Select the **Add** option from the top left of your page and select the option to **Search for Layers** to add the table you just created in your workspace.  
   ![AGOL workspace](img/explore/step3i.PNG)<br>
  
 3. From the options that appear we want to **select** to the table you just created to add it to the map.  
 ![AGOL workspace](img/explore/step3j.PNG)<br>  
   
 4. **Return** to your Table of Contents
-5. The import wizard will want to know if your table has any spatial reference (Latitude/Longitude fields). Select the option for _None_, and then add the layer.
-![AGOL workspace](img/explore/step3c.PNG)<br>  
-6. Now there should be three items in your Table of Contents:
-- Dissemination Area polygons
-- Topographic base map
-- Table of labour statistics
-7. **Save** your changes
 
  
 ## 4. **Join** the data from the table to the census geography file.  
@@ -137,20 +130,16 @@ You now have a layer of data with geography and census data associated with it, 
     1. _Symbols_: change the colour.  
     2. _Classify_: Check off and explore classification options  
     3. _Transparency_: Adjust as you want.  
-![agol home](img/explore/step5c.PNG)  
-
-![agol home](img/explore/step5d.PNG)  
+    ![agol home](img/explore/step5c.PNG)<br>  
+    ![agol home](img/explore/step5d.PNG)  
  
 4. Select _OK_ and then _Done_. Don’t forget to save.
 
-
-## 6. **Share** your map  
-There are many ways you can share your work with the world so they can explore your work.  
-1. Click the **Share**  ![AGOL workspace](img/create/step6a.PNG) button above the map and explore the options available to you.  
-    - Share map with a **group** (1) or via **link**(2)  
-    - **Embed** Map in a website (3)  
-    - Create a stand-alone **application** (4)  
-![AGOL workspace](img/create/step6b.PNG)   
+## 6. On your own.
+1. I have also shared the **WpgDAPopIncome** layer with you. Using the skills you have learned add it to your map.
+2. **Symbolize** based on _LICO_- are there any considerations you should take when doing this?
+3. Try adding the _schools_ or _school division_ boundary to the map.
+4. Explore the **Analysis** options available, do any look interesting? Try them out!
 
 <br>
  
