@@ -31,7 +31,7 @@ This session we will be:
  
 ## 2. **Add** data from your local machine:  
 We want to add some data we have downloaded to our empty map.    
-1. Select the **Add** option from the top left of your page and select the option to add the layer from a file.
+1. Select the **Add** option from the top left of your page and select the option to add the layer from a file.  
   ![AGOL workspace](img/explore/step2a.PNG)<br>
  
 2. From the options that appear we want to **Browse** to the data folder you have downloaded to select to select the zipped census dissemination area shapefile (WpgDA2016).  
@@ -40,7 +40,7 @@ We want to add some data we have downloaded to our empty map.
 3. Click **Import Layer** and wait for the service to be created.
 4. The import wizard will want you to adjust your **Symbology** to display the data.  
 In the series of dialogue boxes that follow:  
-    1. Select the option to **show location only**
+    1. Select the option to **show location only**  
 	![AGOL workspace](img/explore/step2c.PNG)<br>   
  
 	2. Click on the **Options** button to change the colour or transparency of the Dissemination Areas if you wish.
@@ -51,14 +51,14 @@ In the series of dialogue boxes that follow:
  
  
 ## 3. Add a **table** of census data to the map.  
-1. Select the **Add** option from the top left of your page and select the option to add the layer from a file.
+1. Select the **Add** option from the top left of your page and select the option to add the layer from a file.  
   ![AGOL workspace](img/explore/step3a.PNG)<br>
  
-2. From the options that appear we want to **Browse** to the data folder you have downloaded to select to select the .csv file that contains labour data (WpgDALabour).  
+2. From the options that appear we want to **Browse** to the data folder you have downloaded to select to select the .csv file that contains labour data (WpgDALabour).   
 ![AGOL workspace](img/explore/step3b.PNG)<br>  
   
 3. Click **Import Layer**.
-4. The import wizard will want to know if your table has any spatial reference (Latitude/Longitude fields). Select the option for _None_, and then add the layer.
+4. The import wizard will want to know if your table has any spatial reference (Latitude/Longitude fields). Select the option for _None_, and then add the layer.  
 ![AGOL workspace](img/explore/step3c.PNG)<br>  
  
 5. Now there should be three items in your Table of Contents:
@@ -68,7 +68,7 @@ In the series of dialogue boxes that follow:
 6. **Save** your changes
 
 ## 4. **Join** the data from the table to the census geography file.  
-If we explore the Attribute Tables of both DA files by clicking on the   ![attribute table icon](img/explore/step4a.PNG) icon, we can see the disconnect between the two files.
+If we explore the Attribute Tables of both DA files by clicking on the ![attribute table icon](img/explore/step4a.PNG) icon, we can see the disconnect between the two files.
 1. From the **Analysis** options above your Table of Contents, open the heading to **Summarize Data** and select the **Join Features** option.  
 ![AGOL workspace](img/explore/step4b.PNG)<br>  
  
@@ -83,7 +83,7 @@ If we explore the Attribute Tables of both DA files by clicking on the   ![attri
 ![AGOL workspace](img/explore/step4c.PNG)<br>  
  
 5. Click the _Run Analysis_ option, wait for the data to join and be added to the map
-6. Check the attribute table of your newly created layer. Now you should be able to symbolize based on census information.
+6. Check the attribute table of your newly created layer. Now you should be able to symbolize based on census information.  
 ![AGOL workspace](img/explore/step4d.PNG)<br>
    
 7. Don't forget to save your work.  
