@@ -12,6 +12,7 @@ nav_order: 1
 <br>
 
 <iframe width="720" height="480" frameborder="0" marginheight="0" marginwidth="0" style="border:12px solid  #fcfcfc" src="https://meginwinnipeg.github.io/slides/edua_7850.html"></iframe>
+<iframe width="720" height="480" frameborder="0" marginheight="0" marginwidth="0" style="border:12px solid  #fcfcfc" src="https://meginwinnipeg.github.io/slides/find_w2022.html"></iframe>
 
 Watch the session on [YouTube](https://youtu.be/).
 <hr>
