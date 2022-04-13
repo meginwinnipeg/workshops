@@ -7,7 +7,7 @@ nav_order: 5
 ---
 
 # Sharing your story as a whole using StoryMaps
-## (Basic)
+<small>(Basic)</small>
 
 ---
 <iframe width="720" height="480" frameborder="0" marginheight="0" marginwidth="0" style="border:12px solid  #fcfcfc" src="https://meginwinnipeg.github.io/slides/storytelling.html"></iframe>

@@ -7,7 +7,7 @@ nav_order: 3
 ---
 
 # ArcGIS Online Exercise – Census Geography and Winnipeg Schools
-## (Intermediate)
+<small>(Intermediate)</small>
 
 ---
 <kbd><img style="border:12px solid  #fcfcfc" src="img/workshop2.PNG"></kbd>

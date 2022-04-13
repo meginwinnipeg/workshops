@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 # ArcGIS Online Exercise – Winnipeg School Divisions
-## (Basic)
+<small>(Basic)</small>
 
 ---
 <kbd><img style="border:12px solid  #fcfcfc" src="img/workshop.PNG"></kbd>
