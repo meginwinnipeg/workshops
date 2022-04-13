@@ -111,7 +111,7 @@ When we scroll to the bottom of the list of objects we can add to our page there
  
 ## 5. Add a **map** to your sidecar.  
 1. Click the **Add media** button at the top of the window (1) and then select the **map** option.  
-2. Your available ArcGIS Online maps appear as options to select. I am going to add my _Inspection Status_ map.   
+2. Your available ArcGIS Online maps appear as options to select. I am going to add my _Employment Status_ map.   
 3. After adding my map, the dialogue changes to a map preview:  
 ![AGOL workspace](img/share/step5a.PNG)<br>  
 
@@ -123,12 +123,12 @@ When we scroll to the bottom of the list of objects we can add to our page there
 ![AGOL workspace](img/share/step5c.PNG)<br>  
  
 7. Click _Place Map_ in the bottom right corner of your screen to finish adding your map.  
-8. I will also add **context text** to the textbox by clicking the green plus sign and selecting the **text** option. I am copy + pasting the _The Project_ text from the workshop text document.  
+8. I will also add **context text** to the textbox by clicking the green plus sign and selecting the **text** option. Add some more filler text from a Lorem Ipsum generator.  
 9. Slide 1 of my sidecar now looks something like:  
 ![AGOL workspace](img/share/step5d.PNG)<br>  
 
-10. Continue to populate your sidecar with the other maps you have created. There is a link to a video, and some other images that you can try adding to your sidecar/ text boxes as well.  
-11. Play around with other adding other elements to your StoryMap, feel free to go beyond the content/text I have provided you in the workshop folder.  
+10. Continue to populate your sidecar with the other maps you have created. Try adding a link to a video or some images to your sidecar text boxes as well.  
+11. Play around with other adding other elements to your StoryMap.  
 
 
 ## 6. Publish and share  
