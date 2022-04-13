@@ -142,6 +142,14 @@ You now have a layer of data with geography and census data associated with it, 
 3. Try adding the _schools_ or _school division_ boundary to the map.
 4. Explore the **Analysis** options available, do any look interesting? Try them out!
 
+## 7. **Share** your map  
+There are many ways you can share your work with the world so they can explore your work.  
+1. Click the **Share**  ![AGOL workspace](img/explore/step7a.PNG) button above the map and explore the options available to you.  
+    - Share map with a **group** (1) or via **link**(2)  
+    - **Embed** Map in a website (3)  
+    - Create a stand-alone **application** (4)  
+![AGOL workspace](img/explore/step7b.PNG) 
+
 <br>
  
 Congratulations! You made it through!  
