@@ -18,15 +18,14 @@ nav_order: 5
 ## 0. **Step Back**:  
 While we have had the purpose of creating a StoryMap in the back of our minds while we were creating our maps, let’s step back take stock of what we have, and make a concrete plan.  
 
-Our Scenario:  
-_You have been hired as the GIS intern in the Public Works Department at the City of Winnipeg. The arborists have been doing a lot of work in King’s Park and entering information into their new tree inventory system. Your job is to create some materials for the public so they can see how their tax dollars are being used._  
 
 What do we have?  
-- Map of Trees by Genus  
-- Heat Map of Tree Distribution  
-- Map of trees by Trunk Diameter  
-- Map of Tree Inspection Status  
-- Workshop folder that includes: images of trees and park elements, a locator map for the park, some text to copy and paste, data csv files.  
+- Layer of schools + populations  
+- Layer of school divisions 
+- Layer of census data by Dissemination area  
+- Map of schools by population 
+- Map of Winnipeg DAs by unemployment rates. 
+- Other content you collected on your own. 
 
 Map out your idea:  
 ![AGOL workspace](img/share/step0.PNG)<br>
@@ -35,8 +34,11 @@ Map out your idea:
 ---
 
 ## 1. Access the **StoryMap**:  
-1. Navigate or use the waffle button on your Home screen to get to the StoryMaps landing page (https://storymaps.arcgis.com/stories) and ensure you are signed in.  
-2. The landing page has the same elements as ArcGIS Online, but organized in a different way.  
+1. Log-in to the [GISHub](https://univmb.maps.arcgis.com/)  
+
+2. Navigate or use the waffle button on your Home screen to get to the StoryMaps landing page (https://storymaps.arcgis.com/stories) and ensure you are signed in.   
+
+3. The landing page has the same elements as ArcGIS Online, but organized in a different way.  
 Numbers 1-4 describe them.  
     1. Account settings  
     2. Create a new story  
@@ -44,8 +46,9 @@ Numbers 1-4 describe them.
     4. Training materials  
 ![AGOL workspace](img/share/step1a.PNG)<br>  
 
-3. Select the **New Story** button to start a new story from scratch. Your Story will save automatically as you work.  
-4. Your screen should look something like:  
+4. Select the **New Story** button to start a new story from scratch. Your Story will save automatically as you work.  
+ 
+5. Your screen should look something like:  
 ![AGOL workspace](img/share/step1b.PNG)<br>  
 
  
@@ -59,7 +62,7 @@ Numbers 1-4 describe them.
 ![AGOL workspace](img/share/step2a.PNG)<br>  
 
 2. On your own:  
-    1. Add one of the images provided to you in the workshop data as a **cover image**   
+    1. Decide what you want to use as a **cover image**  and load it.     
     2. Adjust the **Design** to see how the look of your workspace changes.  
     3. Add a creative **title/subtitle** to catch the attention of your audience.  
 3. I selected to use a _Full_ cover and the _Summit_ theme for simplicity.  
@@ -77,15 +80,17 @@ Numbers 1-4 describe them.
 ![AGOL workspace](img/share/step3a.PNG)<br>  
  
 3. In the plan I made, I said I was going to add a text box with a locator map to the left (you can always reorder the rows later).  
-    1. Select the **Image** option and upload the _locator map_ image from the workshop content that was made available to you.  
-    2. Once the image is loaded you will see the image **options** by hovering over its top.  
-    3. I am going to select the **float** option so that I can add park text next to it.  
+    1. Select the **Map** option. You can add a map you have created using ArcGIS Online, or add an Express Map to create one on the fly.
+	2. Click the **Express Map** ![AGOL workspace](img/share/step3ab.PNG) option in the top right corner of your screen.  
+	3. Zoom the map to the appropriate level to create a locator map for the city of Winnipeg to help people get their bearings. Click **Done** once you are satisfied.  
+	![AGOL workspace](img/share/step3abc.PNG)
+    4. Once the **Map** is added you will see the **options** by hovering over its top.  
+    5. I am going to select the **float** option so that I can add descriptive text next to it.  
     ![AGOL workspace](img/share/step3b.PNG)<br>  
-
-    4. Next I will add my **Text** by clicking the _green plus sign_ that appears on the top right corner of my newly added image. Hovering over each element provides a description.  
+    6. Next I will add my **Text** by clicking the _green plus sign_ that appears on the top right corner of my newly added map. Hovering over each element provides a description.  
 ![AGOL workspace](img/share/step3c.PNG)<br>  
  
-    5. Copy and paste the Park text from the word document provided in the workshop content. You can see that you can format text as headers, lists and add hyperlinks.  
+    5. Copy and paste some text from a Lorem Ipsum generator. You can see that you can format text as headers, lists and add hyperlinks.  
 4. Step back and assess. In my case, my block looks like:  
 ![AGOL workspace](img/share/step3d.PNG)<br>  
 
@@ -129,37 +134,26 @@ When we scroll to the bottom of the list of objects we can add to our page there
 ## 6. Publish and share  
 Once you have finished adding content and are happy with your results, you can select the **Publish** option at the top of your screen. The builder will prompt you if any components of your StoryMap do not have the appropriate sharing settings to be displayed properly.<br>
 
-1. Ensure all elements are shared with the GEOG2200_DW group.  
+1. Ensure all elements are shared with the class group (EDUA7850).  
 ![AGOL workspace](img/share/step6a.PNG)<br>  
   
 **Note** It is up to you to know the permissions level on the data/ media you have embedded in your StoryMap and not break copyright.
 
 
-## 7. Update **metadata** and ensure you have properly **shared** to submit your file to Dr. Walker for grading.
+## 7. Update **metadata** and ensure you have properly **shared** to submit your file to Dr. Yoon.
 1. Navigate to the **content** area of your workspace.  
 2. Select your StoryMap to open up the item description page.  
 ![AGOL workspace](img/share/step7a.PNG)<br>  
  
 3. Update the previously highlighted sections as follows:  
     1. _Description_: Describe your project  
-    2. _Terms of Use_: Let people know this is a student project for the GEOG 2200 course  
-    3. _Tags_:  **2200_Workshop2022**  
-    4. _Share_: Under group sharing ensure the **GEOG2200_DW** group is selected  
+    2. _Terms of Use_: Let people know this is a student project for the EDUA7850 course  
+    3. _Tags_:  **7850_Final**  
+    4. _Share_: Under group sharing ensure the **EDUA7850** group is selected  
 
 
 Congratulations! You made it through!  
 <br>
-
-## For your **assignment**:
-1. **Complete** the walk-through by adding all maps created to your StoryMap with some descriptive text.
-2. Select **3 / 5** actions listed below and add them each as separate panels to your StoryMap.  
-    1. Make 3 changes to the **StoryMap Design**. In a text panel describe what changes you made and why.  
-    2. If you are in Winnipeg go to King's Park and **take a selfie** with a specific tree from the database. Add this photo to the StoryMap and describe why you chose this tree. 
-	If you aren't in Winnipeg, chose a tree in your local area.  
-    3. **Create another map** using the Tree layer, and another layer of your choosing and add it and some descriptive text to your story.  
-    4. Add an **animation** or **action** to one of the maps and describe how it adds to the story (eg. video, audio, swipe, timeline, bookmark zoom).  
-    5. Another **object** of your choosing, with descriptive text.  
-3. Ensure you have **shared** and **tagged** your StoryMap appropriately so it can be found and marked.  
 
 Questions? Concerns?  
 <br>
