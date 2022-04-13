@@ -1,12 +1,13 @@
 ---
 layout: default
-title: ArcGIS Online - Intermediate
+title: Exercise 2 - Intermediate
 parent: EDUA7850
 grand_parent: Classes
 nav_order: 3
 ---
 
 # ArcGIS Online Exercise – Census Geography and Winnipeg Schools
+## (Intermediate)
 
 ---
 <kbd><img style="border:12px solid  #fcfcfc" src="img/workshop2.PNG"></kbd>

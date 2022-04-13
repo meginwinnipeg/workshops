@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Share
+title: Exercise 3 - Sharing
 parent: EDUA7850
 grand_parent: Classes
 nav_order: 5
 ---
 
 # Sharing your story as a whole using StoryMaps
+## (Basic)
 
 ---
 <iframe width="720" height="480" frameborder="0" marginheight="0" marginwidth="0" style="border:12px solid  #fcfcfc" src="https://meginwinnipeg.github.io/slides/storytelling.html"></iframe>

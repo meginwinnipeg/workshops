@@ -1,12 +1,13 @@
 ---
 layout: default
-title: ArcGIS Online Exercise - Basic
+title: Exercise 1 - Basic
 parent: EDUA7850
 grand_parent: Classes
 nav_order: 2
 ---
 
 # ArcGIS Online Exercise – Winnipeg School Divisions
+## (Basic)
 
 ---
 <kbd><img style="border:12px solid  #fcfcfc" src="img/workshop.PNG"></kbd>
