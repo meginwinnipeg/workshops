@@ -65,7 +65,7 @@ Numbers 1-4 describe them.
     1. Decide what you want to use as a **cover image**  and load it.     
     2. Adjust the **Design** to see how the look of your workspace changes.  
     3. Add a creative **title/subtitle** to catch the attention of your audience.  
-3. I selected to use a _Full_ cover and the _Summit_ theme for simplicity.  
+3. I selected to use a _Full_ cover and the _Ridgeline_ theme for simplicity.  
 ![AGOL workspace](img/share/step2b.PNG)<br>  
 
 4. This is where I would usually step back and assess the font and colour choices of my theme in relation to the project:  
@@ -134,13 +134,13 @@ When we scroll to the bottom of the list of objects we can add to our page there
 ## 6. Publish and share  
 Once you have finished adding content and are happy with your results, you can select the **Publish** option at the top of your screen. The builder will prompt you if any components of your StoryMap do not have the appropriate sharing settings to be displayed properly.<br>
 
-1. Ensure all elements are shared with the class group (EDUA7850).  
+1. Ensure all elements are shared with the class group **(EDUA7850)**  
 ![AGOL workspace](img/share/step6a.PNG)<br>  
   
 **Note** It is up to you to know the permissions level on the data/ media you have embedded in your StoryMap and not break copyright.
 
 
-## 7. Update **metadata** and ensure you have properly **shared** to submit your file to Dr. Yoon.
+## 7. Update **metadata** and ensure you have properly **shared** to submit your file.  
 1. Navigate to the **content** area of your workspace.  
 2. Select your StoryMap to open up the item description page.  
 ![AGOL workspace](img/share/step7a.PNG)<br>  
