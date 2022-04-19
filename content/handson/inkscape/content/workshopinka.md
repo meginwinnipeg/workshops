@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Inkscape Exercise- Basic
+title: Exercise 1- Basic
 parent: Inkscape
 grand_parent: Workshops
 nav_order: 2
 ---
 
-# Inkscape exercise – Tips for map layout editing
+# Inkscape exercise – Common workflows
 <small>Basic</small>
 
 ---
-<kbd><img style="border:12px solid  #fcfcfc" src="img/workshop.PNG"></kbd>
+<kbd><img style="border:12px solid  #fcfcfc" src="img/step1.PNG"></kbd>
 
 
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Inkscape Exercise- Intermediate
+title: Exercise 2- Intermediate
 parent: Inkscape
 grand_parent: Workshops
 nav_order: 3
