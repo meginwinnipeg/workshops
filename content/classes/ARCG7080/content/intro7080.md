@@ -1,7 +1,7 @@
 ---
 layout: default
-title: GIS for Historians
-parent: HIST7110
+title: Research Viz for ARCG7080
+parent: ARCG7080
 grand_parent: Classes
 nav_order: 1
 ---
