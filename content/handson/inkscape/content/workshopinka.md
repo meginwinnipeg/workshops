@@ -15,8 +15,6 @@ nav_order: 2
 
 ---
 
-### **Basic actions**  
-
 
 ## 1. **Open** the Common Tasks file  
 1. Launch Inkscape on your computer  

@@ -14,10 +14,7 @@ nav_order: 3
 
 
 ---
-
-#  Map Exercise  
  
-![inkscape exercise 2](img/mapstep.PNG)  
 
 ## 1. **Open** the map file  
 1.  File > Open > _PinawaMap.svg_  
