@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Introduction to Inkscape
-parent: Inkscape
-grand_parent: Workshops
+title: Introduction to Inkscape 
+parent: NRI7160
+grand_parent: Classes
 nav_order: 1
 ---
 
-# Introduction to Inkscape
+# Introduction to Inkscape for NRI7160
 
 *Follow along and interact with the slides below if you want:*
 <br>
