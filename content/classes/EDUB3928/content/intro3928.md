@@ -18,11 +18,14 @@ Watch the session on [YouTube](https://youtu.be/).
 
 ## Key points from slides:
 
-- GIS is any system used to analyze, capture or work with geospatial data and can ingest three main types of data: tabular, vector and raster.  
-- Different tools within the software are only able to work with specific data types.  
-- Popular processes undertaken by historians conducting GIS work include:  
-    - Digitization of historical maps/images  
-    - Reconstruction of features from the past  
-    - Georeferencing microdata  
-- ArcGIS Online is a proprietary tool that is great for entry level users.    
+- _Data Visualization_: Display complex information in a way that makes it easier for your end user to explore or understand what you have done.  
+- Breaking things down into the following four categories will help you select the appropriate graphic type for your data.  
+   - Comparison  
+   - Composition  
+   - Distribution  
+   - Relationship  
+- Following best practices in visualization creation will help us not mislead our audience;  
+  - Unconscious perceptions & colour  
+  - Cognitive load  
+  - Clarity    
 - Many visualization tools can be found linked from the [data visualization subject guide](https://libguides.lib.umanitoba.ca/viz).  
