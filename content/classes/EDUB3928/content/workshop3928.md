@@ -142,28 +142,30 @@ Numbers 5-12 illustrate the purpose of the icons found in the Table of Contents:
 ![agol home](img/create/step5b.PNG)  
  
 
-## 6. Change **symbology styles** to reveal an invisible pattern in the schools data
+## 6. Change **symbology styles** to reveal staffing patterns in the schools data
 1. Ensure you are in the **Content** area of your Table of Contents to change symbology. The third tile from the left (3 stacked shapes) is the option to **change styles**.  
 ![agol home](img/create/step6a.PNG)  
  
 
 2. In the Styles dialogue that opens: 
     - Attribute: **Total**
-    - Drawing Style: **Counts and Amounts** (size or colour), then select **Options**.  
+    - Drawing Style: **Counts and Amounts** (colour), then select **Options**.  
 ![agol home](img/create/step6b.PNG)  
  
 3. In the **Counts and Amounts** dialogue that opens: 
-    1. _Symbols:_ change the colour.
-    2. _Classify:_ No need to check off, we just want to see the data points relative to one another.
-    3. _Transparency:_ Adjust as you want.  
+    1. _Divided by:_ Teachercou.
+	2. _Theme:_ Above and Below.
+	3. _Symbols:_ click ramp to change the colour.
+    4. _Classify:_ No need to check off, we just want to see the data points relative to one another.
+    5. _Transparency:_ Adjust as you want.  
 ![agol home](img/create/step6c.PNG)  
  
 4. Select **OK** and then **Done**. Don’t forget to **save**. Your workspace should look something like:  
 ![agol home](img/create/step6d.PNG)  
 
 5. Try changing the **symbology**:
-    - School division layer so it is less aggressive, can you figure out how to add labels? 
-    - Show a different attribute than population on the schools layer.
+    - School division layer so it is less aggressive  
+	- Can you figure out how to change the basemap?  
 
 
 <br>
