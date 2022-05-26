@@ -1,7 +1,7 @@
 ---
 layout: default
 title: AGOL Exercise
-parent: EDUB3928
+parent: EDUB3528
 grand_parent: Classes
 nav_order: 2
 ---
