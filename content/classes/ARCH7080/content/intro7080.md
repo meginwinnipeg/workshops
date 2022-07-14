@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Research Viz for ARCG7080
-parent: ARCG7080
+parent: ARCH7080
 grand_parent: Classes
 nav_order: 1
 ---
 
-# Research Visualization for ARCG7080
+# Research Visualization for ARCH7080
 
 *Follow along and interact with the slides below if you want:*
 <br>
 
-<iframe width="720" height="480" frameborder="0" marginheight="0" marginwidth="0" style="border:12px solid  #fcfcfc" src="https://meginwinnipeg.github.io/slides/arcg7080.html"></iframe>
+<iframe width="720" height="480" frameborder="0" marginheight="0" marginwidth="0" style="border:12px solid  #fcfcfc" src="https://meginwinnipeg.github.io/slides/arch7080.html"></iframe>
 
 Watch the session on [YouTube](https://youtu.be/).
 <hr>
