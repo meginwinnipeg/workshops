@@ -22,16 +22,15 @@ If you run into any difficulties or have any questions contact me! I want you to
 {: .note}
 
 
-### Winter Sessions
+### Fall Sessions
 
 | Date | Session |
 |-|-|
-| January 19th:  | Open Data - Manitoba Crop Inventory (presentation) |
-| January 26th: | PowerBI - A Gentle Introduction to Data Dashboards (workshop) |
-| February 16th: | Introduction to data cleaning with OpenRefine and wordclouds (workshop) |
-| February 23rd: | QGIS 1 - A Gentle Introduction to Open Source GIS Software (workshop) |
-| March 2nd: | Infographics - An Introduction (workshop) |
-| March 16th: | Data Visualization - The Good, the Bad & the Ugly (presentation) |
-| April 6th: | Network Visualization using VosViewer (presentation) |
+| September 21st:  | Introduction to Data Visualization (presentation) |
+| October 5th: | Introduction to GIS with ArcGIS Online (workshop) |
+| October 20th: | Introduction to data cleaning with OpenRefine and wordclouds (workshop) |
+| November 1st: | Digital Object Management (workshop) |
+| November 16th: | QGIS 1 - A Gentle Introduction to Open Source GIS Software (workshop) |
 
-*Sessions and Office hours run Wednesdays 12h-13h*
+
+
