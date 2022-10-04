@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ArcGIS Online Exercise
-parent: AGOL
+parent: ArcGIS Online
 grand_parent: Workshops
 nav_order: 2
 ---

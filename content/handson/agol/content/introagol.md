@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introduction to ArcGIS Online
-parent: AGOL
+parent: ArcGIS Online
 grand_parent: Workshops
 nav_order: 1
 ---

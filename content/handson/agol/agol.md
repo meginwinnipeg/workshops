@@ -1,12 +1,12 @@
 ---
 layout: default
-title: AGOL
+title: ArcGIS Online
 nav_order: 0.5
 parent: Workshops
 has_children: true
 has_toc: false
 ---
-# Introduction to GIS with ArcGIS Online
+# Introduction to GIS using ArcGIS Online
 
 ## Objectives:
 
