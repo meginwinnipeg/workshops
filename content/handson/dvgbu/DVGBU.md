@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data Visualization: Good, Bad & Ugly 
+title: Data Visualization Good...
 nav_order: 0.75
 parent: Workshops
 has_children: false
