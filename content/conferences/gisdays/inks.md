@@ -20,7 +20,7 @@ By the end of this workshop participants will:
 
 ## Before the session:
 - Download and install Inkscape 1.1.2 onto your computer. [Take me there!](https://inkscape.org/release/inkscape-1.1.2/){: .btn .btn-green }
-- Download the data and extract the compressed files into your **Downloads** folder. [Download Data](https://github.com/meginwinnipeg/workshops/raw/main/content/conferences/inkscape/data/inkscapeData.zip){: .btn .btn-green }
+- Download the data and extract the compressed files into your **Downloads** folder. [Download Data](https://github.com/meginwinnipeg/workshops/raw/main/content/conferences/gisdays/data/inkscapeData.zip){: .btn .btn-green }
 {: .prereq}
 
 
