@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Introduction to Inkscape
-parent: Inkscape
-grand_parent: Workshops
+parent: GIS Days 2022
+grand_parent: Conferences
 nav_order: 1
 ---
 
@@ -11,7 +11,7 @@ nav_order: 1
 *Follow along and interact with the slides below if you want:*
 <br>
 
-<iframe width="720" height="480" frameborder="0" marginheight="0" marginwidth="0" style="border:12px solid  #fcfcfc" src="https://meginwinnipeg.github.io/slides/ink_w2022.html"></iframe>
+<iframe width="720" height="480" frameborder="0" marginheight="0" marginwidth="0" style="border:12px solid  #fcfcfc" src="https://meginwinnipeg.github.io/slides/ink_gisdays.html"></iframe>
 
 
 <hr>

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Exercise 1- Basic
-parent: Inkscape
-grand_parent: Workshops
+parent: GIS Days 2022
+grand_parent: Conferences
 nav_order: 2
 ---
 

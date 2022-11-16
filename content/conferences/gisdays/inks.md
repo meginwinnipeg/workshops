@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Inkscape
+title: GIS Days 2022
 nav_order: 0.5
 parent: Conferences
 has_children: true
