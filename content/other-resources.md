@@ -6,7 +6,7 @@ nav_order: 5
 # Other Resources
 ## Library 
 Here are some links to UML resources you may find useful:
--  [GIS Subject Guide](https://libguides.lib.umanitoba.ca/GISResources)
+-  [GIS & Geovisualization Subject Guide](https://libguides.lib.umanitoba.ca/geoviz)
 -  [Data Visualization Subject Guide](https://libguides.lib.umanitoba.ca/viz)
 -  [Data & Statistics Subject Guide](https://libguides.lib.umanitoba.ca/data)
 
