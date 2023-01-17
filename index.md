@@ -22,15 +22,14 @@ If you run into any difficulties or have any questions contact me! I want you to
 {: .note}
 
 
-### Fall Sessions
+### Winter Sessions
 
 | Date | Session |
 |-|-|
-| September 21st:  | Introduction to Data Visualization (presentation) |
-| October 5th: | Introduction to GIS with ArcGIS Online (workshop) |
-| October 20th: | Introduction to data cleaning with OpenRefine and wordclouds (workshop) |
-| November 1st: | Digital Object Management (workshop) |
-| November 16th: | QGIS 1 - A Gentle Introduction to Open Source GIS Software (workshop) |
-
-
-
+| January 25th:  | Finding Supplementary Data for GIS (presentation) |
+| February 1st: | Introduction to Data Cleaning with OpenRefine (workshop) |
+| February 8th: | ArcGIS Online 2: Integrating Datasets (workshop) |
+| February 23rd: | Beyond the Article: What you should know when creating digital research outputs (presentation) |
+| March 1st: | Infographics- An Introduction (workshop) |
+| March 15th: | PowerBI: A Gentle Introduction to Data Dashboards (workshop) |
+| March 29th: | Network Visualization using Kumu- A Gentle Introduction (workshop) |
