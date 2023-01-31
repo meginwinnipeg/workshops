@@ -204,8 +204,22 @@ Additionally, this is where the option to **show/ hide a label** in cells to see
 ![show null](img/step9c.PNG)
 <br>
   
-## 10. **Advanced** OpenRefine Techniques
-Open Refine has its own language referred to as GREL (General Refine Expression language) for performing custom operations. This would be similar to functions in Microsoft Excel and was created to resemble JavaScript. IE. _reinterpret()_ function to change column encoding or _uniques()_ to return an array with duplicates removed.
+## 10. **Advanced** OpenRefine Techniques: 
+###  GREL
+OpenRefine has its own language referred to as **GREL** (General Refine Expression language) for performing custom operations. This would be similar to functions in Microsoft Excel and was created to resemble JavaScript. IE. _reinterpret()_ function to change column encoding or _uniques()_ to return an array with duplicates removed.  
+
+### Nulls
+Sometimes you will want to delete an entire column (use caution).  
+Find the column titled _“Blank Column”_  
+
+![facet by null](img/step10.PNG)
+<br>
+
+1.  Select **dropdown arrow** beside the header (1) in the column you wish to manipulate.  
+2.  **Facet (2) -> Customized Facets (3) -> Facet by null (4)**  
+
+This allows us to select all rows that have a null value in the Q7 field. Once we have isolated these records, we can either work with them as a batch or independently using other transformations before turning the facet off and returning to the complete dataset.  
+
 
 ## 11. **Export** your data set
 Remember, we aren’t making changes to your original dataset but to an OpenRefine project file. To export your cleaned data:  
