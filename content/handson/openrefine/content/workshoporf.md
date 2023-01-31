@@ -178,7 +178,8 @@ You can see that one of the records didn’t split. You can see this is because 
 ![rename column](img/step8c.PNG)
 <br>
   
-## 9. **Deleting** a column
+## 9. Column management  
+### **Deleting** a column  
 Sometimes you will want to delete an entire column (use caution).  
 Find the column titled _“Blank Column”_  
 1. Clicking the **dropdown arrow** (1) by the column name
@@ -187,7 +188,7 @@ Find the column titled _“Blank Column”_
 ![remove column](img/step9.PNG)
 <br>
 
-**Hiding** a column  
+### **Hiding** a column  
 1.  Select **dropdown arrow** beside the header (4) in any column you wish to hide  
 2.  **View** (5) -> **Collapse this column** (6)  
 
@@ -204,13 +205,12 @@ Additionally, this is where the option to **show/ hide a label** in cells to see
 ![show null](img/step9c.PNG)
 <br>
   
-## 10. **Advanced** OpenRefine Techniques: 
-###  GREL
+## 10. **Advanced** OpenRefine Techniques:  
+###  GREL  
 OpenRefine has its own language referred to as **GREL** (General Refine Expression language) for performing custom operations. This would be similar to functions in Microsoft Excel and was created to resemble JavaScript. IE. _reinterpret()_ function to change column encoding or _uniques()_ to return an array with duplicates removed.  
 
-### Nulls
-Sometimes you will want to delete an entire column (use caution).  
-Find the column titled _“Blank Column”_  
+### Nulls  
+Say you realize after you have imported your data that you forgot to assign a _null_ value to empty cells, or you realize you want to find all cells without values to be able to work with them. The easiest way to do this is through the **Facets**.  
 
 ![facet by null](img/step10.PNG)
 <br>
