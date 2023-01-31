@@ -186,6 +186,23 @@ Find the column titled _“Blank Column”_
 
 ![remove column](img/step9.PNG)
 <br>
+
+**Hiding** a column  
+1.  Select **dropdown arrow** beside the header (4) in any column you wish to hide  
+2.  **View** (5) -> **Collapse this column** (6)  
+
+![hide column](img/step9a.PNG)
+<br>
+
+_Note:_ To **unhide** or expand your columns click the drop-down arrow beside the header in the first column (All) (7). It gives you the option to expand your columns (8). 
+
+![expand column](img/step9b.PNG)
+<br>
+
+Additionally, this is where the option to **show/ hide a label** in cells to see if they are truly _null_. (9)
+
+![show null](img/step9c.PNG)
+<br>
   
 ## 10. **Advanced** OpenRefine Techniques
 Open Refine has its own language referred to as GREL (General Refine Expression language) for performing custom operations. This would be similar to functions in Microsoft Excel and was created to resemble JavaScript. IE. _reinterpret()_ function to change column encoding or _uniques()_ to return an array with duplicates removed.
