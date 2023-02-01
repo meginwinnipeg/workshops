@@ -20,7 +20,7 @@ By the end of this workshop participants will:
 - Clean and export a tabular datasets to visualize in word cloud software   
 
 ## Before the session:
-- Download and install OpenRefine 3.5.2 onto your computer. [Take me there!](https://openrefine.org/download.html){: .btn .btn-green }
+- Download and install OpenRefine 3.6.2 onto your computer. [Take me there!](https://openrefine.org/download.html){: .btn .btn-green }
 - Download the data and extract the compressed files into your **Downloads** folder. [Download Data](https://github.com/meginwinnipeg/workshops/raw/main/content/handson/openrefine/data/openrefineData.zip){: .btn .btn-green }
 {: .prereq}
 

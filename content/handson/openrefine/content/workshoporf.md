@@ -189,13 +189,13 @@ Find the column titled _“Blank Column”_
 <br>
 
 ### **Hiding** a column  
-1.  Select **dropdown arrow** beside the header (4) in any column you wish to hide  
+1.  Select **dropdown arrow** beside the header (4) in any column you wish to hide,  
 2.  **View** (5) -> **Collapse this column** (6)  
 
 ![hide column](img/step9a.PNG)
 <br>
 
-_Note:_ To **unhide** or expand your columns click the drop-down arrow beside the header in the first column (All) (7). It gives you the option to expand your columns (8). 
+_Note:_ Hiding and unhiding columns does not show up in the undo/ redo panel. To **unhide** or expand your columns click the drop-down arrow beside the header in the first column (All) (7). It gives you the option to expand your columns (8).   
 
 ![expand column](img/step9b.PNG)
 <br>
