@@ -12,7 +12,6 @@ has_toc: false
 
 This hands-on session provides an overview of GIS, how it can be used in research. Participants will learn about best practices and guidelines for conducting their own research. Learners will get a hands on opportunity to explore the UML instance of ArcGIS Online and interact with a project.  
 
-Participants will: 
 ### BASIC  
 - Gain an overview of GIS as applied to research visualization  
 - Discover resources to support research   

@@ -105,8 +105,7 @@ If we explore the Attribute Tables of both DA files by clicking on the ![attribu
 2. In the _Join Wizard Dialogue_ select the following options. Note that most options and tools have a blue circle you can hover over for more information.  
     1. _Target_: **WpgDA2016**  
     2. _Join Layer_: **WpgDALabour** table  
-    3a. _Type_: **Choose the fields to match**
-    3b. _Target_: **DAUID** , _Join_: **DAUID**  
+    3. a) _Type_: **Choose the fields to match**, b) _Target_: **DAUID** , _Join_: **DAUID**  
     4. _Operation_: **one to one**  
     5. Name the file something meaningful including your initials.  
 ![AGOL workspace](img/int/step4c.PNG)<br>  
