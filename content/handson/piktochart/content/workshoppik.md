@@ -31,6 +31,12 @@ In this case:
 2. The dashboard page is your landing page.  
 <br>
 
+### NOTE:
+As of March 1 Piktochart updated their interface, to make use of the interface depicted in this tutorial ensure you click the **Classic Editor** option when selecting a template.
+
+![Select Classic template](img/step1.PNG)  
+<br>
+
 ## 2. **Create** a new item:  
 1. Click on the option to create a **new item**. 
 2. Select the **infographic** option
