@@ -30,9 +30,8 @@ In this case:
 1. Log-in to your free Piktochart account (https://create.piktochart.com/)  
 2. The dashboard page is your landing page.  
 <br>
-
 ### NOTE:  
-As of March 1 Piktochart updated their interface, to make use of the interface depicted in this tutorial ensure you click the **Classic Editor** option when selecting a template.  
+As of March 1 Piktochart updated their interface, to make use of the interface depicted in this tutorial ensure you click the **Classic Editor** option when selecting a template and ignore step 2.  
 
 ![Select Classic template](img/step1.PNG)  
 <br>
