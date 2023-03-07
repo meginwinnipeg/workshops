@@ -23,3 +23,7 @@ Watch the session on [YouTube](https://youtu.be/).
 	- Subpoint1 
     - Subpoint2 
 -  Many visualization tools can be found linked from the [data visualization subject guide](https://libguides.lib.umanitoba.ca/viz).  
+
+[<img src="img/chartEx.PNG">](img/powerpointSlides.pdf) 
+
+Workshop content.
