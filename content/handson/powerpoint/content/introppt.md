@@ -18,12 +18,11 @@ Watch the session on [YouTube](https://youtu.be/).
 
 ## Key points from slides:
 
--  Point1    
--  Point 2
-	- Subpoint1 
-    - Subpoint2 
+-  Less is More  
+    -  Don’t overwhelm with volume of words  
+	-  Don't blind people with science; keep it simple  
+-  High contrast – use high contrast between text and background   
+-  Humans are easily overwhelmed by too much information. When deciding how to organize:   
+	- Maximum of 6 points per slide  
+    - 3-5 data classes per visual  
 -  Many visualization tools can be found linked from the [data visualization subject guide](https://libguides.lib.umanitoba.ca/viz).  
-
-[<img src="img/chartEx.PNG">](img/powerpointSlides.pdf) 
-
-Workshop content.
