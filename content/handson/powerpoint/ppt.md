@@ -22,7 +22,7 @@ By the end of this workshop participants will:
 
 
 ## Before the session:
-- Download the data and extract the compressed files into your **Downloads** folder. [Download Data](https://github.com/meginwinnipeg/workshops/raw/main/content/handson/powerpoint/data/powerpointData.zip){: .btn .btn-green }
+- Download the data and extract the compressed files into your **Downloads** folder. [Download Data](https://github.com/meginwinnipeg/workshops/raw/main/content/handson/powerpoint/data/pptData.zip){: .btn .btn-green }
 {: .prereq}
 
 
