@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction to OpenRefine
+title: Effective Presentations Slides
 parent: Effective Presentations
 grand_parent: Workshops
 nav_order: 1
@@ -11,7 +11,7 @@ nav_order: 1
 *Follow along and interact with the slides below if you want:*
 <br>
 
-[<img src="img/slides.PNG">](img/openrefineSlides.pdf)  
+[<img src="img/slides.PNG">](img/powerpointSlides.pdf)  
 
 Watch the session on [YouTube](https://youtu.be/).
 <hr>
