@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Effective Presentations Slides
+title: Slides
 parent: Effective Presentations
 grand_parent: Workshops
 nav_order: 1
