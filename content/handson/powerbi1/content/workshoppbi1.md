@@ -10,7 +10,7 @@ nav_order: 2
 
 ---
 
-<kbd><img style="border:8px solid  #fcfcfc" src="img/workshop.PNG"></kbd>
+<kbd><img src="img/workshop.PNG"></kbd>
 
 ---
 
@@ -22,7 +22,7 @@ nav_order: 2
 ## 2. Explore the PowerBI Interface:  
 Numbers 1-5 illustrate the locations of the following elements: 
 1. **Menus** and **tools**  
-2. **Fields** (specific pieces of information about a record- this is your data)  
+2. **Data** (specific pieces of information about a record- this is your data)  
 3. **Visualizations** (where you select what type of chart you will use, the fields that will populate it and how it will look)  
 4. **Filters** (where you can limit results by only selecting from records that match a certain criteria)  
 5. **Workspace**
@@ -73,10 +73,10 @@ Often our data headers will not be in plain language for our audience or formatt
 ## 6. **Pie** (tab 4)- Add data to a new visualization.  
 I have already created the container for you, all that needs to be done is to populate the graph.  
 1. Left click once on the chart to activate it  
-2. To populate the graphic select the following options from the _Fields_ and _Visualizations_ Panels:  
-	1. In the **Fields Panel**, ensure you have the _SciHub_Publishers_ dataset activated  
+2. To populate the graphic select the following options from the _Data_ and _Visualizations_ Panels:  
+	1. In the **Data Panel**, ensure you have the _SciHub_Publishers_ dataset activated  
 	2. Click the **checkbox** beside the _Day_Night_ field to link it to the chart.   
-    3. Now **drag and drop** the _Day_Night_ field from the Fields panel to the **Values** property of the Visualizations panel. It should auto-load as a count.  
+    3. Now **drag and drop** the _Day_Night_ field from the Data panel to the **Legend** and **Values** property of the Visualizations panel. It should auto-load as a count.  
 	![Load data dialogue](img/pie1.PNG)  
 3. Your workspace should now look something like this:  
 <img src="img/piefin.PNG" alt="Pie Workspace" style="border:8px solid  #fcfcfc">  
@@ -90,10 +90,10 @@ While the zoom slider on the y-axis does help us to contend with the high volume
 3. Toggle the **Zoom slider** option from the **'on'** to the **'off'** position  
 	![Zoom slider toggle](img/outlier2.PNG)  
 4. Toggle the **Data labels** slider option from the **'off'** to the **'on'** position, we now have labels, but not meaningful ones.  
-5. Open the **Data Labels** dropdown by clicking on the arrow and change the **Display Units** from **‘auto’** to **‘none’**.  
-	![Data labels options](img/outlier4.PNG)  
-6. Open the **Title** dropdown and edit the _Title_ to remove the reference to the slider.  
+5. Open the **Data Labels** dropdown by clicking on the arrow and change the **Display Units** from **‘auto’** or **'thousands'** to **‘none’**.  
 	![Data labels options](img/outlier3.PNG)  
+6. Open the **Title** dropdown (found under the **General** tab) and edit the _Title_ to remove the reference to the slider.  
+	![Data labels options](img/outlier4.PNG)  
 7. Your workspace should now look something like this:  
  <img src="img/outlierfin.PNG" alt="Outliers Workspace" style="border:8px solid  #fcfcfc">  
 <br>
