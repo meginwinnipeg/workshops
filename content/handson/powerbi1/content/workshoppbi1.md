@@ -109,9 +109,9 @@ We want our dashboard to look like a cohesive whole with the data being the prim
 	1. Open the **City Summary tooltip tab** at the bottom of the page, you can see that the page size is much larger than the content.  
 	2. Left click once in the whitespace of the workspace to select,   
     3. In the _Visualization_ panel ensure the **format** option is selected,  
-	![Visualization panel, format option](img/maptooltip.PNG)  
+	![Visualization panel, format option] (img/map2.PNG) 
 	4. Open the **Canvas settings** dropdown and change the type from **‘Letter’** to **‘Tooltip’**.  
-	![Page size options](img/map2.PNG)  
+	![Page size options](img/maptooltip.PNG)  
 	The workspace should have snapped to your content size.  
 5. Now when you return to the _Map / UX_ tab at the bottom of your screen, when you **mouse-over** a data point it should look something like: 
  <img src="img/mapfin.PNG" alt="Map Workspace" style="border:8px solid  #fcfcfc">  
