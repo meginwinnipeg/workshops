@@ -133,8 +133,30 @@ Once you have finished adding content and are happy with your results, you can s
   
 **Note** It is up to you to know the permissions level on the data/ media you have embedded in your StoryMap and not break copyright.
 
+Congratulations! You made it through!  
+<br>
 
-## 7. Update **metadata** and ensure you have properly **shared** to submit your file to Dr. Walker for grading.
+## ASSIGNMENT:
+
+Now that you have completed the walk-through using Kings Park data, apply the following concepts to the **Kildonan Park** dataset found in the shared ArcGIS Online folder, then create a StoryMap using the four Kildonan Park maps created.  
+### MAPS: 
+1.	A map that categorizes the data by **botanical name**, format the **pop-ups** for clarity;    
+2.	A map that symbolizes trees by **diameter of trunk** (either using colour or proportional symbology);  
+3.	A **heat map** that depicts the concentration of trees in the park;   
+4.	A map on a **theme of your choice** that incorporates another data layer you have downloaded from the [**City of Winnipeg’s open data portal**](https://data.winnipeg.ca/browse) or the Library's GIS Hub.  
+
+### STORYMAP:
+Your StoryMap should include:  
+1. **Title**;  
+2. **Descriptive text** for each map and piece of media;  
+3. Your four **maps**;  
+4. **Media** (Created by visiting the Park)  
+    a.  One embedded video  
+    b.  At least one embedded image  
+5. **References** for the data, images and video if necessary. 
+
+### SUBMITTING
+Update **metadata** and ensure you have properly **shared** to submit your file to Dr. Walker for grading.
 1. Navigate to the **content** area of your workspace.  
 2. Select your StoryMap to open up the item description page.  
 ![AGOL workspace](img/share/step7a.PNG)<br>  
@@ -142,23 +164,9 @@ Once you have finished adding content and are happy with your results, you can s
 3. Update the previously highlighted sections as follows:  
     1. _Description_: Describe your project  
     2. _Terms of Use_: Let people know this is a student project for the GEOG 2200 course  
-    3. _Tags_:  **2200_Workshop2022**  
+    3. _Tags_:  **GEOG2200_2023**  
     4. _Share_: Under group sharing ensure the **GEOG2200_DW** group is selected  
-
-
-Congratulations! You made it through!  
-<br>
-
-## For your **assignment**:
-1. **Complete** the walk-through by adding all maps created to your StoryMap with some descriptive text.
-2. Select **3 / 5** actions listed below and add them each as separate panels to your StoryMap.  
-    1. Make 3 changes to the **StoryMap Design**. In a text panel describe what changes you made and why.  
-    2. If you are in Winnipeg go to King's Park and **take a selfie** with a specific tree from the database. Add this photo to the StoryMap and describe why you chose this tree. 
-	If you aren't in Winnipeg, chose a tree in your local area.  
-    3. **Create another map** using the Tree layer, and another layer of your choosing and add it and some descriptive text to your story.  
-    4. Add an **animation** or **action** to one of the maps and describe how it adds to the story (eg. video, audio, swipe, timeline, bookmark zoom).  
-    5. Another **object** of your choosing, with descriptive text.  
-3. Ensure you have **shared** and **tagged** your StoryMap appropriately so it can be found and marked.  
+ 
 
 Questions? Concerns?  
 <br>
