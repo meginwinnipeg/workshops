@@ -151,8 +151,8 @@ Your StoryMap should include:
 2. **Descriptive text** for each map and piece of media;  
 3. Your four **maps**;  
 4. **Media** (Created by visiting the Park)  
-    a.  One embedded video  
-    b.  At least one embedded image  
+    1.  One embedded video  
+    2.  At least one embedded image  
 5. **References** for the data, images and video if necessary. 
 
 ### SUBMITTING
