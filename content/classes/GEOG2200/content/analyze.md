@@ -82,7 +82,7 @@ In the series of dialogue boxes that follow:
 
 1. Click on **My Groups** in the blue Content navigation bar.  
 2. This brings up items that have been shared at the Group level, I have shared four (4) maps and one feature layer with you.  
-3. Save a copy of  _TreeDiameterMapKP_2200_ and _InspectionStatusMapKP_2200_ to your personal account  
+3. Save a copy of  _TreeDiameterMapKP_demo_ and _InspectionStatusMapKP_demo_ to your personal account  
     1. Open each map and select the **Open in Map Viewer** option on the right side of your screen.  
     ![AGOL workspace](img/analyze/step4a.PNG)<br>
    
