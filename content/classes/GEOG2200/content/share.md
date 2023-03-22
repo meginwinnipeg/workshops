@@ -165,7 +165,7 @@ Update **metadata** and ensure you have properly **shared** to submit your file 
     1. _Description_: Describe your project  
     2. _Terms of Use_: Let people know this is a student project for the GEOG 2200 course  
     3. _Tags_:  **GEOG2200_2023**  
-    4. _Share_: Under group sharing ensure the **GEOG2200_DW** group is selected  
+    4. _Share_: Under group sharing ensure the **GEOG2200** group is selected  
  
 
 Questions? Concerns?  
