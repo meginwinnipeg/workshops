@@ -128,7 +128,7 @@ When we scroll to the bottom of the list of objects we can add to our page there
 ## 6. Publish and share  
 Once you have finished adding content and are happy with your results, you can select the **Publish** option at the top of your screen. The builder will prompt you if any components of your StoryMap do not have the appropriate sharing settings to be displayed properly.<br>
 
-1. Ensure all elements are shared with the GEOG2200_DW group.  
+1. Ensure all elements are shared with the GEOG2200 group.  
 ![AGOL workspace](img/share/step6a.PNG)<br>  
   
 **Note** It is up to you to know the permissions level on the data/ media you have embedded in your StoryMap and not break copyright.
