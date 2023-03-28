@@ -16,20 +16,21 @@ nav_order: 2
 
 ## 0. **Step back**:  
 Before diving in, we need to take a moment:  
-- Consider your data and what relationships you're trying to visualize.  
-- Select the appropriate tool.  
-- Clean and structure your data.  
+- Consider your **data** and what **relationships** you're trying to visualize.  
+- Select the **appropriate** tool.  
+- **Clean** and structure your data.  
 - Open the **Help**  document for your tool.  
 
 We have two .csv files in our data folder- one for _nodes_ (people) and one for _edges_ (relationships). While some tools will allow you to combine these files into one or use proprietary file types, best practice is to keep these elements **separate** and in a **plain text** format.  
 <br>
 
 ## 1. **Access** your workspace:  
-1. Log-in to your free Piktochart account (https://create.piktochart.com/)  
+1. Log-in to your free Kumu account [https://kumu.io/dashboard](https://kumu.io/dashboard)  
 2. The dashboard page is your landing page.  
-<br>
-### NOTE:  
-As of March 1 Piktochart updated their interface, to make use of the interface depicted in this tutorial ensure you click the **Classic Editor** option when selecting a template and ignore step 2.  
+3. Numbers 1-3 illustrate the locations of the following elements:  
+    1. Kumu **support**  
+    2. **User menus** (access workspaces, dashboard, account)  
+    3. **Project listing** (options individual projects and workspaces)  
 
 ![Select Classic template](img/step1.PNG)  
 <br>
