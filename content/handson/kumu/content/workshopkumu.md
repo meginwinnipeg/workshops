@@ -9,7 +9,7 @@ nav_order: 2
 # Kumu exercise – visualizing a simple network
 
 ---
-<kbd><img style="border:12px solid  #fcfcfc" src="img/workshop.PNG"></kbd>
+<kbd><img style="border:12px solid  #fcfcfc" src="img/kumuworkshop.PNG"></kbd>
 
 
 ---
