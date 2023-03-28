@@ -28,7 +28,7 @@ We have two .csv files in our data folder- one for _nodes_ (people) and one for 
 1. Log-in to your free Kumu account [https://kumu.io/dashboard](https://kumu.io/dashboard)  
 2. The dashboard page is your landing page.  
 3. Letters a-c illustrate the locations of the following elements:  
-    1. Kumu **support**  
+    1. Kumu **support** options  
     2. **User menus** (access workspaces, dashboard, account)  
     3. **Project listing** (options individual projects and workspaces)  
 
