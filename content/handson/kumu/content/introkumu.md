@@ -19,7 +19,7 @@ Watch the session on [YouTube](https://youtu.be/).
 ## Key points from slides:
 
 - _Data Visualization:_ Display complex information in a way that makes it easier for your end user to explore or understand what you have done.  
-- _Network Visualization:_ Displays complex relationships through an arrangement nodes and edges and can be categorized as physical or logical. A network can be also be represented using a mathematical notation with roots in graph theory. 
+- _Network Visualization:_ Displays complex relationships through an arrangement nodes and edges and can be categorized as physical or logical. A network can be also be represented through mathematical notation with roots in graph theory. 
 - Data is structured as nodes and edges with attributes of directionality, weight etc.  
 - Before starting project it is good to step back and consider:  
 	- your message  
