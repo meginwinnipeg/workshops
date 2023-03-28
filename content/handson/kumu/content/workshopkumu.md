@@ -35,24 +35,38 @@ We have two .csv files in our data folder- one for _nodes_ (people) and one for 
 ![Select Classic template](img/step1.PNG)  
 <br>
 
-## 2. **Create** a new item:  
-1. Click on the option to create a **new item**. 
-2. Select the **infographic** option
-3. We will use the **blank template**
-
+## 2. Create a **new project** workspace:  
+1. Click on the option to create a **new project** from the top of the page. 
+2. Fill out the **project metadata** fields to give your project a _name_ and _description_.  
+3. Click the blue button at the bottom of the wizard to proceed to then next screen
+**NOTE** - Free accounts are public.
+ 
 ![Create new item](img/step2.PNG)  
 <br>
- 
-## 3. **Explore** Piktochart Workspace:  
-Numbers 1-4 illustrate the locations of the following elements:  
+4. Letters a-d illustrate the locations of the following elements:  
+    1. **Map name** (one project can have multiple maps).   
+    2. Select the **Stakeholder** template (equivalent to social network).  
+    3. Elements (nodes and edges) will be **fixed** in location to start.
+    4. Connections (edges) are **undirected** (in our data set)  
+Then click the **Get Started** button
 
-1. Piktochart **options**  
-2. **Objects** (to create a new elements)  
-3. **Properties** (options for each of the specific objects)
-4. **Workspace** (where you build your visual)  
-
-	![Piktochart workspace](img/step3.PNG)  
+	![Kumu workspace](img/step2b.PNG)  
 <br>
+
+ 
+## 3. **Explore** Kumu Workspace:  
+Numbers 1-7 illustrate the locations of the following elements:  
+1. Kumu ** project space navigation**  (change view, delete project etc.)  
+2. **Map space navigation** (to zoom in and out of your map)  
+3. **Settings** (access to element properties for visualizing)  
+4. Map **actions** (quick actions, metrics, data table, export and share)  
+5. **Data** (draw nodes and edges or import from a file)  
+6. Element **overview** (attributes for whatever is selected in the map)  
+7. **Map space** (where your map will live)  
+
+	![Kumu workspace](img/step3.PNG)  
+<br>
+
 
 ## 4. **Name** your item:  
 In the top left corner of the page there is a **textbox** for you to name your file. I’ve named mine _FebruaryWeather_. Name yours whatever you would like.  
