@@ -131,14 +131,27 @@ In the Settings panel:
 <br>
 
 
-## 7. **Upload** an image.  
-We are going to use a map of Canada as a background image to provide some visual interest and ground the audience.  
-1. Select the **Uploads** option from the list of tools  
-2. **Browse** to your data folder and select the map image to upload.  
- ![upload image dialogue](img/step7.PNG)  
- 
-3.	Once the image has uploaded, **drag and drop** it into your workspace  
+## 7. Calculate a **metric** to unlock proportional symbols.  
+Our current data did not come in with any degree data in the table. To be able to symbolize the nodes with proportional symbology depending on their degree of connectedness we need to calculate this metric.  
+1. Select the **metrics** option from the list of tools at the bottom of the screen, and then **social network analysis**  
+  
+	![upload image dialogue](img/step7.PNG)  
 <br>
+2. In the dialogue that opens select the **Degree** option from the dropdown, and click the **Discover the connectors** button.  
+A table will appear below the button that displays the degree values for each of our characters.
+ 
+	![degree dialogue](img/step7b.PNG)  
+<br>
+ 3. Now when we return to the **Style: Size** drop-down at the top of the **settings** panel we have the option to symbolize. 
+4. Select **degree** from the drop-down and adjust the sizes as you see fit.  
+ 
+	![style dialogue](img/step7c.PNG) 
+<br> 
+5. Your network map should now look something like:
+ 
+ 	![final image](img/step7d.PNG)
+<br>
+
 
 ## 8. **Scale** the image to act as a background.  
 We are going to scale this image up and set it so that it acts as a background.  
