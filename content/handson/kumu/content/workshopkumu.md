@@ -110,14 +110,26 @@ In our nodes file, we had a field for ‘Loyalty’ (_Montague, Capulet or None_
 	![Change workspace size dialogue](img/step5c.PNG)
  <br>
 
-## 6. Set **background**.  
-Stark white and black are hard on the eyes, so we will start by setting the background colour to a light grey.  
-1. Select the **Background** option from the list of tools  
-2. Under the **Background Colours heading**, select light grey by clicking on the paint bucket (or type Hex code #e5e5e5 into the box).  
-  ![Change workspace background dialogue](img/step6.PNG) 
-3. Your workspace should look something like:
-  ![workspace step 6](img/step6a.PNG)	
+## 6. Set **rules** to decorate edges.  
+Next we want to pull out the types of relationships that are found in the data- namely _who is related_, which is captured in the _edges_ data table and symbolize them with a dashed line.  
+In the Settings panel:  
+1. Select the **Decorate Connections** option from the list of rules (at the bottom of the panel).  
+   
+	![decorate connection](img/step6.PNG)  
 <br>
+2. In the **dialogue box that opens**, fill it out as follows:  
+    1. _Decorate custom selection_  
+    2. _Connection Type_ is _Family members_  
+    3. Click the **change style** box and select the **Dashed** option  
+    4. Type the label _Family members_ in the Legend text box  
+    5. Click the blue **Done** button to close the wizard  
+ 
+    ![connection decoration dialogue](img/step6b.PNG)  
+3. Your network map should now look something like:  
+ 
+    ![workspace step 6](img/step6c.PNG)	
+<br>
+
 
 ## 7. **Upload** an image.  
 We are going to use a map of Canada as a background image to provide some visual interest and ground the audience.  
