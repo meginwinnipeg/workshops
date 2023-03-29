@@ -95,13 +95,20 @@ Numbers 1-7 illustrate the locations of the following elements:
 	![Load data box](img/step4f.PNG)  
 <br>
 
-## 5. Change **workspace size**.  
-We want our workspace to be smaller and in landscape orientation.  
-1. Click the **gear** next to the workspace to open the properties menu  
-2. Change the **height** to be _500px_  
-
+## 5. Adjust node **styles** of the map to draw out themes.  
+In our nodes file, we had a field for ‘Loyalty’ (_Montague, Capulet or None_).  
+1. Click the **options** button on the right side of the map to open the **settings panel**.  
+ 
 	![Change workspace size dialogue](img/step5.PNG) 
 <br>
+2. Change the **height** to be _500px_  
+ 
+	![Change workspace size dialogue](img/step5b.PNG) 
+<br>
+3. Your map should now look something like:
+ 
+	![Change workspace size dialogue](img/step5c.PNG)
+ <br>
 
 ## 6. Set **background**.  
 Stark white and black are hard on the eyes, so we will start by setting the background colour to a light grey.  
