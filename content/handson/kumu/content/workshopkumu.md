@@ -153,132 +153,13 @@ A table will appear below the button that displays the degree values for each of
 <br>
 
 
-## 8. **Scale** the image to act as a background.  
-We are going to scale this image up and set it so that it acts as a background.  
-1. Left click the image once to **select** it  
-2. So that it doesn’t skew, hold down the shift key and drag and of the handles that appear along the edge to increase the size to be roughly the width of the page  
-3. The top and bottom of the map are cut off, but that’s ok. We just need to make sure the positions for Toronto and Winnipeg are visible  
-4. In the **image properties toolbar** that appears while the image is selected  
-    1. Change the **opacity** of the image to make it less dominant, by clicking the checkerboard  
-    2. Then click the **lock** so that the image doesn’t accidentally get selected and shift, we will be placing other elements on top of it.  
-	![image settings dialogue](img/step8a.PNG) 
+## 8. Make final adjustments and **export** networks map.  
+You’ve taken some time to adjust colour, placement and line weights, and your map is exactly how you want it for publication.  
+1. Select the **Export** option from the list of tools at the bottom of the screen, and then the **format** you need.  
  
-5.	Your workspace should now look something like:  
-
-	![workspace step 8](img/step8b.PNG)   
+	![final image](img/step8.PNG)
 <br>
-
-## 9. Add a Title/ Subtitle/ Surround **text**.  
-We don’t want to overwhelm the user, but we do want to create something visually interesting. A good way to think about it is to select one ornamental text for titles/ emphasis and one plain one for everything else. I selected Oswald and Roboto Condensed, but you can select whatever you want.  
-1. Select the **Text** option from the list of tools  
-![text properties dialogue](img/step9a.PNG)
- 
-2. **Drag and drop** the Title block onto your workspace  
-Copy and paste the following text into the block that has appeared in your workspace:  
-_Where would you rather spend February?  
-Winnipeg or Toronto_  
-3. You can select text within the block and change its properties using the text properties menu that appears.  
-I am going to:  
-    1. _Bold_ the first line of the Title,  
-    2. _Right justify_ for visual interest  
-    3. Apply a _different colour_ to each city name  
-	![text toolbar options](img/step9b.PNG)
-4. Your workspace should look something like:  
-![workspace step 9](img/step9c.PNG)
- <br>
-
-## 10. Add some **graphics**
-We are going to add some icons to the image and carry our colour scheme through the infographic with (in my case) blue being used to represent Winnipeg, and Orange for Toronto.  
-1. Select the **Graphics** option from the list of tools.  
-2. To add a **marker icon** select the Shapes & Icons option and search the word _marker_. 
-![graphics properties dialogue](img/step10a.PNG)
- 
-3. **Select** any of the black (mono) options available and **drag and drop** it onto the workspace.  
-4. Hold down the **shift key** to keep proportions and drag the handles to resize (once something is in the workspace you can copy + paste it to duplicate).  
-5. Add a second marker to the map  
-6. Drag one the markers to the vague locations of Winnipeg and Toronto on the map  
-7. Select each marker and use the graphic toolbar to **change their colours** by clicking on the paint can icon:  
-![graphics colour options](img/step10b.PNG)
- 
-8.	Your workspace should look something like:
-![workspace step 10](img/step10c.PNG)
-   
-<br>
-
-## 11. Add a **chart**
-We are going to add a bar chart visualizing total precipitation to our graphic.  
-1. Select the **Tools** option from the list to tools  
-2. Add the **Chart** option by clicking on it once:  
-	![add tools dialogue](img/step11a.PNG)
- 
-3. In the Chart dialogue box that opens  
-    1. Select the first chart option on the left for **vertical bars**  
-    2. **Delete** the sample data and paste in the following:  
-  <table style="width:60%">
-  <tr>
-    <th></th>
-    <th>Winnipeg</th>
-    <th>Toronto</th>
-  </tr>
-  <tr>
-    <td>Precipitation (mm)</td>
-    <td>23.7</td>
-    <td>20.4</td>
-  </tr>
-  </table> 
-
-4. To edit the chart properties click the **gear** in the top right corner of the dialogue box.  
-    a. For a **title** we can add:  
-	_The total precipitation for the month was..._   
-    b. To change the bar colours to match our colour theme select: **Individual color setting**, and select your city colours to represent their respective values by clicking on the colour swatches.  
-	![chart properties dialogue](img/step11b.PNG)
- 
-5. Click **Insert Chart** in the top right corner  
-6. With the chart selected use the handles to shift and resize it to sit over top of the Maritime provinces with the entire title visible.  
-7. Your workspace should look something like:  
-	![workspace step 11](img/step11c.PNG)
-<br>
-	
-## 12. Reduce visual clutter  
-You can see that the image in the background is competing with our text. To deal with this we will use some semi-transparent boxes.  
-1. Select the **Graphics tool** from the left side of the screen  
-2. Under the **Shapes & Icons** options select the _square_  
-  ![graphics tools](img/step12a.PNG)  
-3. Resize the square so that it is slightly larger than your chart.  
-4. Use the image graphic toolbar to:  
-    1. Change the **colour** to _light grey_  
-    2. **Transparency** to _80%_  
-    3. **Arrange** option to _send backward_ behind the chart and in front of the map  
-	![image properites tools](img/step12b.PNG)
-5. It should look something like:  
-	![workspace step 12](img/step12c.PNG)  
- 
-6. Copy and paste this box **two times** to create a background for our title, as well as our descriptive text.  
-    1. Resize and position one behind the **title**  
-    2. Resize and position the other over the western territories and provinces,  
-7. Your workspace should look something like:  
-	![workspace step 12](img/step12d.PNG)  
-<br>  
-
-## 13. Add decorative descriptive **text**  
-The built in options in are sometimes very limited, so finding work abounds is important. Here we will use three separate blocks of _Body text_ to add some visual interest to our descriptive text.  
-	![decorative text sample](img/step13a.PNG)  
- 
-1. Select the **Text** option from the list of tools  
-2. Drag and drop three **Body Text blocks** onto your workspace  
-3. Copy and paste the following text into each of those blocks that has appeared in your workspace:  
-  _Do you like the cold?  
-  The lowest monthly minimums were…  
-  -31.8°C vs -20.0°C_  
-4. Select the text within each block and change it's properties using the **text properties menu** that appears.  
-![text properties toolbar](img/step13b.PNG)  
-  _Line 1: Roboto Condensed 23  
-  Line 2: Roboto Condensed 16  
-  Line 3: Oswald, Bold, 30, colours to match the cities_  
-	
-5.  I added a bit more descriptive text: a title for the graph, and the data source  
-![workspace step 13](img/step13c.PNG)
-<br>
+2. The **Embed** option to the right of Export allows you to copy code snippet and include the live interactive network map in a website.
 
 
 Congratulations! You made it through!  
