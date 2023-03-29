@@ -32,23 +32,23 @@ We have two .csv files in our data folder- one for _nodes_ (people) and one for 
     2. **User menus** (access workspaces, dashboard, account)  
     3. **Project listing** (options individual projects and workspaces)  
 
-![Select Classic template](img/step1.PNG)  
+	![Select Classic template](img/step1.PNG)  
 <br>
 
 ## 2. Create a **new project** workspace:  
 1. Click on the option to create a **new project** from the top of the page. 
 2. Fill out the **project metadata** fields to give your project a _name_ and _description_.  
-3. Click the blue button at the bottom of the wizard to proceed to then next screen
-**NOTE** - Free accounts are public.
+3. Click the blue button at the bottom of the wizard to proceed to then next screen.  
+**NOTE** - Free accounts are public.  
  
-![Create new item](img/step2.PNG)  
-<br>
+	![Create new item](img/step2.PNG)  
+
 4. Letters a-d illustrate the locations of the following elements:  
     1. **Map name** (one project can have multiple maps).   
     2. Select the **Stakeholder** template (equivalent to social network).  
-    3. Elements (nodes and edges) will be **fixed** in location to start.
+    3. Elements (nodes and edges) will be **fixed** in location to start.  
     4. Connections (edges) are **undirected** (in our data set)  
-Then click the **Get Started** button
+Then click the **Get Started** button  
 
 	![Kumu workspace](img/step2b.PNG)  
 <br>
@@ -85,8 +85,8 @@ Numbers 1-7 illustrate the locations of the following elements:
 <br>
 6. Your map should look something like:  
 	![Load data box](img/step4d.PNG)  
-7. Repeat **steps 1-5** with your _edges_RJ.csv_ file. 
-**Note**- In step 5 ensure you do **not** click the checkbox to overwrite existing data. This will remove your _nodes_ data from the map.
+7. Repeat **steps 1-5** with your _edges_RJ.csv_ file.  
+**Note**- In step 5 ensure you do **not** click the checkbox to overwrite existing data. This will remove your _nodes_ data from the map.  
  
 	![Load data box](img/step4e.PNG)  
 <br>
@@ -101,7 +101,7 @@ In our nodes file, we had a field for ‘Loyalty’ (_Montague, Capulet or None_
  
 	![Change workspace size dialogue](img/step5.PNG) 
 <br>
-2. Change the **height** to be _500px_  
+2. Change the **Color by** field to _Loyalty_  and select a colour palette of your choice.  
  
 	![Change workspace size dialogue](img/step5b.PNG) 
 <br>
@@ -119,9 +119,9 @@ In the Settings panel:
 <br>
 2. In the **dialogue box that opens**, fill it out as follows:  
     1. _Decorate custom selection_  
-    2. _Connection Type_ is _Family members_  
+    2. **Connection Type** is _Family members_  
     3. Click the **change style** box and select the **Dashed** option  
-    4. Type the label _Family members_ in the Legend text box  
+    4. Type the label _Family members_ in the **Legend** text box  
     5. Click the blue **Done** button to close the wizard  
  
     ![connection decoration dialogue](img/step6b.PNG)  
@@ -153,7 +153,7 @@ A table will appear below the button that displays the degree values for each of
 <br>
 
 
-## 8. Make final adjustments and **export** networks map.  
+## 8. Make final adjustments and **export** network map.  
 You’ve taken some time to adjust colour, placement and line weights, and your map is exactly how you want it for publication.  
 1. Select the **Export** option from the list of tools at the bottom of the screen, and then the **format** you need.  
  
