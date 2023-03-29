@@ -54,13 +54,13 @@ Then click the **Get Started** button
 <br>
 
  
-## 3. **Explore** Kumu Workspace:  
+## 3. **Explore** Kumu workspace:  
 Numbers 1-7 illustrate the locations of the following elements:  
-1. Kumu ** project space navigation**  (change view, delete project etc.)  
+1. Kumu **project space navigation**  (change view, delete project etc.)  
 2. **Map space navigation** (to zoom in and out of your map)  
 3. **Settings** (access to element properties for visualizing)  
 4. Map **actions** (quick actions, metrics, data table, export and share)  
-5. **Data** (draw nodes and edges or import from a file)  
+5. Add **Data** (draw nodes and edges or import from a file)  
 6. Element **overview** (attributes for whatever is selected in the map)  
 7. **Map space** (where your map will live)  
 
@@ -68,9 +68,31 @@ Numbers 1-7 illustrate the locations of the following elements:
 <br>
 
 
-## 4. **Name** your item:  
-In the top left corner of the page there is a **textbox** for you to name your file. I’ve named mine _FebruaryWeather_. Name yours whatever you would like.  
-	![Name item  text box](img/step4.PNG)  
+## 4. **Import** your nodes and edges data:  
+1. Click the **green plus sign** at the bottom of the page and select the **import** option to load your data into the map.
+  
+	![Load data box](img/step4.PNG)  
+<br>
+2. In the dialogue that follows in the **csv** import, browse to your _nodes_RJ.csv_ file.
+3. Click the blue **import button** to proceed to the next screen.
+ 
+	![Load data box](img/step4b.PNG)  
+<br>
+4. A **preview** of your data appears. Double-check to make sure the fields are showing up as you expect. 
+5. Click the green **Save import** button at the bottom of your screen if all looks well.
+ 
+	![Load data box](img/step4c.PNG)  
+<br>
+6. Your map should look something like:  
+	![Load data box](img/step4d.PNG)  
+7. Repeat **steps 1-5** with your _edges_RJ.csv_ file. 
+**Note**- In step 5 ensure you do **not** click the checkbox to overwrite existing data. This will remove your _nodes_ data from the map.
+ 
+	![Load data box](img/step4e.PNG)  
+<br>
+8. Your map should look something like:
+ 
+	![Load data box](img/step4f.PNG)  
 <br>
 
 ## 5. Change **workspace size**.  
