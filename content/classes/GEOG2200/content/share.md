@@ -138,7 +138,7 @@ Congratulations! You made it through!
 
 ## ASSIGNMENT:
 
-Now that you have completed the walk-through using Kings Park data, apply the following concepts to the **Kildonan Park** dataset found in the shared ArcGIS Online folder, then create a StoryMap using the four Kildonan Park maps created.  
+Now that you have completed the walk-through using Kings Park data, apply the concepts you have learned to the **St. Vital Park** dataset found in the shared ArcGIS Online folder, then create a StoryMap using the four St. Vital Park maps created.  
 ### MAPS: 
 1.	A map that categorizes the data by **botanical name**, format the **pop-ups** for clarity;    
 2.	A map that symbolizes trees by **diameter of trunk** (either using colour or proportional symbology);  
@@ -150,7 +150,7 @@ Your StoryMap should include:
 1. **Title**;  
 2. **Descriptive text** for each map and piece of media;  
 3. Your four **maps**;  
-4. **Media** (Created by visiting the Park)  
+4. **Media** (Created by visiting the Park or searching on the internet)  
     1.  One embedded video  
     2.  At least one embedded image  
 5. **References** for the data, images and video if necessary. 
@@ -164,7 +164,7 @@ Update **metadata** and ensure you have properly **shared** to submit your file 
 3. Update the previously highlighted sections as follows:  
     1. _Description_: Describe your project  
     2. _Terms of Use_: Let people know this is a student project for the GEOG 2200 course  
-    3. _Tags_:  **GEOG2200_2023**  
+    3. _Tags_:  **GEOG2200_2024**  
     4. _Share_: Under group sharing ensure the **GEOG2200** group is selected  
  
 
