@@ -59,7 +59,7 @@ Create a sketch of your map in the space provided to help you visualize how all 
 ![Draw Map](img/step2a.PNG)
 <br>
 
-## 3. Assess your skill level and brain space. (Do you want an easy win, or a challenge?) **Gather** your supplies accordingly:  
+## 3. **Gather** your supplies: Assess your skill level and brain space (do you want an easy win, or a challenge?).   
 1. Different _materials_ are easier to work with than others. 
 * For example: floofy yarn will be annoying to thread, and can break, whereas cotton embroidery thread will be more straightforward to manage.  
 ![Materials](img/step3a.PNG)  
@@ -79,7 +79,6 @@ This step can be frustrating if your glasses prescription isn’t up to date or 
 2. Poke it through the eye of the needle
 3. Pull the needle 1/3 of the way down the thread 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/CcedHcmPR7U" title="How to thread needle? Hand embroidery guide for beginners." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-![Needle threading](img/step5.PNG)
 <br>
 If you need support, there are two needle threading tools available or ask a neighbour (trim the wet end of your thread off to be polite).  
   
@@ -87,7 +86,6 @@ If you need support, there are two needle threading tools available or ask a nei
 We don’t want our thread to fall out of our map background once we start sewing, so we will tie a knot close to the bottom of the tail (long end).  
 1. Tie a knot at the opposite end of the thread from the needle, leaving around a 1cm tail. An overhand knot is a popular choice here.  
 <iframe width="400" height="225" src="https://www.youtube.com/embed/6l9q6vJ3IIs?list=PLnbijZ6dbxUanE4w0NLmk6lJkUx_icp2w" title="Starting knot | How to do &#39;&#39;beginning knot&#39;&#39; for Hand embroidery | basics guide for beginners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-![Knotting](img/step6.PNG)
 <br>
  
 ## 7: **Embroider** a line.  
@@ -97,16 +95,9 @@ At this stage, some people like to use a thumbtack to poke holes along the line 
 <br>
 
 1. Select one of stitch types from below to use to depict the line (or any other stitch you are familiar with).  
-<iframe width="489" height="870" src="https://www.youtube.com/embed/BqKKOYRs1iE" title="6 Basic Embroidery Stitches" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="489" height="870" src="https://www.youtube.com/embed/BqKKOYRs1iE" title="6 Basic Embroidery Stitches" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
-![Stitch beginner](img/step7b.PNG)  
-<br>
-![Stitch intermediate](img/step7c.PNG)  
-<br>
-![Stitch advanced](img/step7d.PNG)  
-<br>
-
-2. Stitch along the line. 
+2. Stitch along the line.  
 ![Stitch advanced](img/step7e.PNG)  
 <br>
 
@@ -118,8 +109,6 @@ So that our work does not unravel, we need to finish the line.
 1. Tie off your sewing by using one of the techniques depicted below. 
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/D9Bk4aQUDFU?list=PLnbijZ6dbxUaIa7E2LuWBJuC5k1-IHW5y" title="How to do End knot/ Finishing knot in hand embroidery | Beginners guide basics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-![Tie off](img/step8.PNG)
 <br>
  
 ## 9. Attaching **buttons** to depict location.  
