@@ -46,13 +46,13 @@ Encompasses research activities and data organization & management across key ph
 Think of what we are doing today as the foundation of how you will approach a mapping project using GIS technology. Remember that the software is just another tool, just as a needle and thread are tools.  
 <br>
 
-## 1. **Plan** what our overarching project will look like:  
+## 1. **Plan** what our overarching **project** will look like:  
 To do this, we need to list our topic, our audience, what tools we have access to, the data or inputs available, any constraints and basic management strategy.  <br>
 Take some time to list these out now on the worksheet provided as you entered the room. It is also available from the Project page of this workshop for download.  
 ![Plan Project](img/step1.PNG)
 <br>
  
-## 2. **Plan** what your map will look like:
+## 2. **Plan** what your **map** will look like:
 Using the next section (visual encoding) of the worksheet provided, list the themes you would like to depict, and how you will do this. For the purposes of this session, we will be visualizing two locations, and the trajectory between them.  
 ![Plan Map](img/step2.PNG)
 <br>
@@ -96,10 +96,10 @@ At this stage, some people like to use a thumbtack to poke holes along the line 
 <br>
 
 1. Select one of stitch types from below to use to depict the line (or any other stitch you are familiar with).  
-<iframe width="489" height="870" src="https://www.youtube.com/embed/BqKKOYRs1iE" title="6 Basic Embroidery Stitches" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+<iframe width="245" height="435" src="https://www.youtube.com/embed/BqKKOYRs1iE" title="6 Basic Embroidery Stitches" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 2. Stitch along the line.  
-![Stitch advanced](img/step7e.PNG)  
+![Stitch line](img/step7e.PNG)  
 <br>
 
 3. If you realize you want to make a change, you will need to unthread your needle and pull out your stitches.  
@@ -156,4 +156,4 @@ Questions? Concerns?
 <br>
 
 
-<small> Sources: Definitions (Data Physicalization) [(1)](https://doi.org/10.1007/978-3-319-27648-9_94-1), (Critical Making)[(2)](https://doi.org/10.37514/TPC-B.2022.1725.2.12), [(3)](http://opendesignnow.org/index.html%3Fp=434.html), (Visual Encoding) [(2)](https://doi.org/10.1016/j.neucom.2023.126287), [(5)](https://www.interaction-design.org/literature/topics/gestalt-principles), (Research Lifecycle) [(6)](https://umanitoba.ca/libraries/research-lifecycle-um), YouTube Creators- [(Crafts by Geesh)](https://www.youtube.com/@CraftsbyGeesh), [(HandiWorks)](https://www.youtube.com/@HandiWorks)</small>
+<small> Sources: Definitions (Data Physicalization) [(1)](https://doi.org/10.1007/978-3-319-27648-9_94-1), (Critical Making)[(2)](https://doi.org/10.37514/TPC-B.2022.1725.2.12), [(3)](http://opendesignnow.org/index.html%3Fp=434.html), (Visual Encoding) [(4)](https://doi.org/10.1016/j.neucom.2023.126287), [(5)](https://www.interaction-design.org/literature/topics/gestalt-principles), (Research Lifecycle) [(6)](https://umanitoba.ca/libraries/research-lifecycle-um), YouTube Creators- [Crafts by Geesh](https://www.youtube.com/@CraftsbyGeesh), [HandiWorks](https://www.youtube.com/@HandiWorks)</small>
