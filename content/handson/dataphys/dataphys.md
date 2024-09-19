@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Map Foundations
-nav_order: 2.25
+nav_order: 7
 parent: Workshops
 has_children: true
 has_toc: false

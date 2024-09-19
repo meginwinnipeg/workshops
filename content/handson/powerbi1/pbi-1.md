@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PowerBI 1
-nav_order: 4
+nav_order: 10
 parent: Workshops
 has_children: true
 has_toc: false

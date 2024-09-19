@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data Visualization Good...
-nav_order: 0.75
+nav_order: 2
 parent: Workshops
 has_children: false
 has_toc: false

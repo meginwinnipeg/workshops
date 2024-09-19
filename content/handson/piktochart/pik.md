@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Piktochart
-nav_order: 3
+nav_order: 9
 parent: Workshops
 has_children: true
 has_toc: false

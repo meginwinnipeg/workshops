@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kumu Exercise
+title: Mapping Exercise
 parent: Map Foundations
 grand_parent: Workshops
 nav_order: 2

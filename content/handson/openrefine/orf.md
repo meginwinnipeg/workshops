@@ -1,7 +1,7 @@
 ---
 layout: default
 title: OpenRefine
-nav_order: 2
+nav_order: 8
 parent: Workshops
 has_children: true
 has_toc: false

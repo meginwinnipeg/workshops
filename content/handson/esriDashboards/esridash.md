@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ESRI Dashboards
-nav_order: 1
+nav_order: 4
 parent: Workshops
 has_children: true
 has_toc: false

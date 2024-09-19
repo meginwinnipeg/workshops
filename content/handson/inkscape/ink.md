@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Inkscape
-nav_order: 2
+nav_order: 5
 parent: Workshops
 has_children: true
 has_toc: false

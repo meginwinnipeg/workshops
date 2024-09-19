@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Effective Presentations
-nav_order: 0.85
+nav_order: 3
 parent: Workshops
 has_children: true
 has_toc: false
