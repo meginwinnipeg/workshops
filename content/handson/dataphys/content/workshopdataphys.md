@@ -23,15 +23,12 @@ Some map ideas could be:
 ## 0. **Key Concepts**:  
 ### **Data Physicalization**  
 Research area that studies the use of physical artifacts to convey data (1).   
-<br>
-Samples:
-Data phys wiki, Instagram
+Samples:[Data physicalization Wiki](http://dataphys.org/wiki/), Instagram  
 
 ### **Critical Making**  
 A practice that unites critical thinking and hands-on experiments to encourage learning by doing (2). A reconnection of two modes of engagement with the world that are typically held separate: critical thinking, traditionally understood as conceptually and linguistically based, and physical ‘making’, goal-based material work (3).
 <br>
-Considerations:
-Sustainability, Accessibility, 
+Considerations: Sustainability, Accessibility... 
 
 ### **Visual Encoding**
 Mapping inputs to visual cues. In data visualization/ mapping, this means constructing our data to be represented by visual elements like size, colour, length and placement (4). Consideration should be taken here to incorporate the Gestalt Principles. These are principles/laws of human perception that describe how humans group similar elements, recognize patterns and simplify complex images when we perceive objects (5). 
