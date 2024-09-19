@@ -6,7 +6,7 @@ grand_parent: Workshops
 nav_order: 2
 ---
 
-# From There to Here – Making a meaningful map without a computer
+# From there to here – Making a meaningful map without a computer
 
 ---
 <kbd><img style="border:12px solid  #fcfcfc" src="img/workshop.PNG"></kbd>
@@ -16,10 +16,11 @@ Some map ideas could be:
 * The literal distance between your home and here.
 * The degree of challenge it’s taken to get here.
 * How linear your path has been to get to this point in your life.
-* Any other meanings this phrase can have for you.
+* Any other meanings this phrase can have for you.  
+
 ---
 
-## 0. **Housekeeping (Key Concepts)**:  
+## 0. **Key Concepts**:  
 ### **Data Physicalization**  
 Definition of data physicalization  
 <br>
@@ -33,25 +34,25 @@ Considerations:
 Sustainability, Accessibility, 
 
 ### **Visual Encoding**
-Definition of visual encoding
+Definition of visual encoding  
 <br>
 Some sample categories:  
 Distance, direction, population, resistance, emotion, time
 <br>
 
 ### **Data lifecycle**
-Think of what we are doing today as the foundation of how you will approach a mapping project using GIS technology. Remember that the software is just another tool, just as a needle and thread are tools. 
+Think of what we are doing today as the foundation of how you will approach a mapping project using GIS technology. Remember that the software is just another tool, just as a needle and thread are tools.  
 <br>
 Link to other relevant resources.  
 
 ## 1. **Plan** what our overarching project will look like:  
-To do this, we need to list our topic, our audience, what tools we have access to, the data or inputs available, any constraints and basic management strategy.  
-We will take some time to list these out now on the worksheet provided as you entered the room. It is also available from the Project page of this workshop for download.  
+To do this, we need to list our topic, our audience, what tools we have access to, the data or inputs available, any constraints and basic management strategy.  <br>
+Take some time to list these out now on the worksheet provided as you entered the room. It is also available from the Project page of this workshop for download.  
 ![Plan Project](img/step1.PNG)
 <br>
  
 ## 2. **Plan** what your map will look like:
-Using the next section (visual encoding) of the worksheet provided, list the themes you would like to depict, and how you will do this.  For the purposes of this session, we will be visualizing two locations, and the trajectory between them.  
+Using the next section (visual encoding) of the worksheet provided, list the themes you would like to depict, and how you will do this. For the purposes of this session, we will be visualizing two locations, and the trajectory between them.  
 ![Plan Map](img/step2.PNG)
 <br>
 Create a sketch of your map in the space provided to help you visualize how all the pieces will fit together.  
@@ -143,7 +144,7 @@ So that our work does not unravel, we need to finish the line.
 
 ## 10. Add additional **ornamentation** if desired:  
 ###  Fabric Markers  
-Using fabric markers you can add details to emphasize/ provide context to certain elements of your map if desired.
+Using fabric markers you can add details to emphasize/ provide context to certain elements of your map if desired.  
 **IMPORTANT** allow this to dry or it will smear. 
 ![Add marker ornament](img/step10a.PNG)
 <br>
@@ -154,7 +155,7 @@ Using decorative stitches like french knots or simple __stitches can add interes
 <br>
 
 ###  Sharpie  
-Using a fine tipped permanent marker you can details like labels, cartographic elements like a north arrow, and your signature.
+Using a fine tipped permanent marker you can details like labels, cartographic elements like a north arrow, and your signature.  
 **IMPORTANT** allow this to dry or it will smear. 
 ![Add sharpie ornament](img/step10c.PNG)
 <br>
