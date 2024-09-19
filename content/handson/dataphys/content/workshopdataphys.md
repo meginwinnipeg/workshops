@@ -22,28 +22,29 @@ Some map ideas could be:
 
 ## 0. **Key Concepts**:  
 ### **Data Physicalization**  
-Definition of data physicalization  
+Research area that studies the use of physical artifacts to convey data (1).   
 <br>
 Samples:
 Data phys wiki, Instagram
 
 ### **Critical Making**  
-Definition of critical making  
+A practice that unites critical thinking and hands-on experiments to encourage learning by doing (2). A reconnection of two modes of engagement with the world that are typically held separate: critical thinking, traditionally understood as conceptually and linguistically based, and physical ‘making’, goal-based material work (3).
 <br>
 Considerations:
 Sustainability, Accessibility, 
 
 ### **Visual Encoding**
-Definition of visual encoding  
+Mapping inputs to visual cues. In data visualization/ mapping, this means constructing our data to be represented by visual elements like size, colour, length and placement (4). Consideration should be taken here to incorporate the Gestalt Principles. These are principles/laws of human perception that describe how humans group similar elements, recognize patterns and simplify complex images when we perceive objects (5). 
 <br>
 Some sample categories:  
-Distance, direction, population, resistance, emotion, time
+Distance, direction, population, resistance, emotion, time...  
 <br>
 
-### **Data lifecycle**
+### **Research lifecycle**
+Encompasses research activities and data organization & management across key phases of a given research project, from planning, creation (which further involves collection, processing, and analysis), dissemination, preservation, and data re-use (6).
+<br>
 Think of what we are doing today as the foundation of how you will approach a mapping project using GIS technology. Remember that the software is just another tool, just as a needle and thread are tools.  
 <br>
-Link to other relevant resources.  
 
 ## 1. **Plan** what our overarching project will look like:  
 To do this, we need to list our topic, our audience, what tools we have access to, the data or inputs available, any constraints and basic management strategy.  <br>
@@ -145,7 +146,7 @@ Using decorative stitches like french knots or simple __stitches can add interes
 
 ###  Sharpie  
 Using a fine tipped permanent marker you can details like labels, cartographic elements like a north arrow, and your signature.  
-**IMPORTANT** allow this to dry or it will smear. 
+**IMPORTANT** allow this to dry or it will smear.  
 ![Add sharpie ornament](img/step10c.PNG)
 <br>
 
@@ -155,5 +156,4 @@ Questions? Concerns?
 <br>
 
 
-<small> Data: [Inspired by (UBC Candy Hierarchy Study)](https://www.scq.ubc.ca/wp-content/uploads/2017/10/candyhierarchysurvey2017.pdf)</small>
-
+<small> Sources: Definitions (Data Physicalization) [(1)](https://doi.org/10.1007/978-3-319-27648-9_94-1), (Critical Making)[(2)](https://doi.org/10.37514/TPC-B.2022.1725.2.12), [(3)](http://opendesignnow.org/index.html%3Fp=434.html), (Visual Encoding) [(2)](https://doi.org/10.1016/j.neucom.2023.126287), [(5)](https://www.interaction-design.org/literature/topics/gestalt-principles), (Research Lifecycle) [(6)](https://umanitoba.ca/libraries/research-lifecycle-um), YouTube Creators- [(Crafts by Geesh)](https://www.youtube.com/@CraftsbyGeesh), [(HandiWorks)](https://www.youtube.com/@HandiWorks)</small>
