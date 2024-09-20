@@ -110,23 +110,23 @@ So that our work does not unravel, we need to finish the line.
 <br>
  
 ## 9. Attaching **buttons** to depict location.  
-### If your button is **flat** (with 2-4 holes).  
+You will find two different styles of buttons in the button jar: flat (with 2-4 holes) or shank (post on bottom with a hole).  
+![Buttons](img/step9.PNG)  
+<br>
+### If your button is **flat**.  
 1. Thread your needle, and tie a knot at the tail to keep the button affixed.  
 2. Beginning on the bottom of the fabric, poke the needle through to the surface where you want to attach the button > place button onto needle point > pull thread all the way through fabric.
 3. Orient button in the desired direction > stitch downward through the opposite hole (diagonal)
 4. Push needle back through one of the remaining holes > complete the stitch using the remaining empty hole.  
 5. Repeat steps 2-4.  
 6. Tie off your button.  
-![Flat button](img/step9a.PNG)
-<br>
 
-### If your button has a **shank** (post on bottom with a hole)  
+### If your button has a **shank**  
 1. Thread your needle, and tie a knot at the tail to keep the button affixed.  
 2. Beginning on the bottom of the fabric, poke the needle through to the surface where you want to attach the button > place button onto needle point > pull thread all the way through fabric.
 3. Orient button in the desired direction > stitch downward through the opposite side of the loop into the canvas.
 4. Repeat steps 2-3.  
 6. Tie off your button.  
-![Shank button](img/step9b.PNG)
 <br>
 
 ## 10. Add additional **ornamentation** if desired:  
