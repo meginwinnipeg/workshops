@@ -24,7 +24,7 @@ Some map ideas could be:
 ### **Data Physicalization**  
 Research area that studies the use of physical artifacts to convey data (1).  
 <br>
-Samples:[Data physicalization Wiki](http://dataphys.org/wiki/), Instagram...  
+Samples: [Data physicalization Wiki](http://dataphys.org/wiki/), Instagram...  
 
 ### **Critical Making**  
 A practice that unites critical thinking and hands-on experiments to encourage learning by doing (2). A reconnection of two modes of engagement with the world that are typically held separate: critical thinking, traditionally understood as conceptually and linguistically based, and physical ‘making’, goal-based material work (3).  
@@ -63,12 +63,12 @@ Create a sketch of your map in the space provided to help you visualize how all 
 ![Materials](img/step3a.png)  
 * For a project of this size, precutting pieces of thread the length of your forearm should be adequate.  
 2. Different _techniques_ will take different levels of expertise to master.   
-* For example: a running stitch is beginner friendly, whereas a basket weave will take more time to master.  
+* For example: a running stitch is beginner friendly, whereas a twisted chain will take more time to master.  
 ![Technique](img/step3b.png)  
 <br>
  
 ## 4. Using a pencil **sketch** your map on the canvas provided (pay attention to the frame location).
-![Sketch](img/step4.PNG)
+![Sketch](img/step4.png)
 <br>
  
 ## 5: **Threading** your needle.  
@@ -89,7 +89,7 @@ We don’t want our thread to fall out of our map background once we start sewin
 ## 7: **Embroider** a line.  
 At this stage, some people like to use a thumbtack to poke holes along the line they have drawn so it is easier to see there to insert the needle. 
 
-![Stitch poke](img/step7a.PNG)  
+![Stitch poke](img/step7a.png)  
 <br>
 
 1. Select one of stitch types from below to use to depict the line (or any other stitch you are familiar with).  
