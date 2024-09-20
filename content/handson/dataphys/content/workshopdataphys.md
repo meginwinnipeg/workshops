@@ -54,7 +54,7 @@ Using the next section (visual encoding) of the worksheet provided, list the the
 ![Plan Map](img/step2.PNG)
 <br>
 Create a sketch of your map in the space provided to help you visualize how all the pieces will fit together.  
-![Draw Map](img/step2a.PNG)
+![Draw Map](img/step2a.png)
 <br>
 
 ## 3. **Gather** your supplies: Assess your skill level and brain space (do you want an easy win, or a challenge?).   
@@ -64,7 +64,7 @@ Create a sketch of your map in the space provided to help you visualize how all 
 * For a project of this size, precutting pieces of thread the length of your forearm should be adequate.  
 2. Different _techniques_ will take different levels of expertise to master.   
 * For example: a running stitch is beginner friendly, whereas a basket weave will take more time to master.  
-![Technique](img/step3b.PNG)  
+![Technique](img/step3b.png)  
 <br>
  
 ## 4. Using a pencil **sketch** your map on the canvas provided (pay attention to the frame location).
@@ -111,7 +111,7 @@ So that our work does not unravel, we need to finish the line.
  
 ## 9. Attaching **buttons** to depict location.  
 You will find two different styles of buttons in the button jar: flat (with 2-4 holes) or shank (post on bottom with a hole).  
-![Buttons](img/step9.PNG)  
+![Buttons](img/step9.png)  
 <br>
 ### If your button is **flat**.  
 1. Thread your needle, and tie a knot at the tail to keep the button affixed.  
