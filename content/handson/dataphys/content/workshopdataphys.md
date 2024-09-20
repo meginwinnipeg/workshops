@@ -60,7 +60,7 @@ Create a sketch of your map in the space provided to help you visualize how all 
 ## 3. **Gather** your supplies: Assess your skill level and brain space (do you want an easy win, or a challenge?).   
 1. Different _materials_ are easier to work with than others. 
 * For example: floofy yarn will be annoying to thread, and can break, whereas cotton embroidery thread will be more straightforward to manage.  
-![Materials](img/step3a.PNG)  
+![Materials](img/step3a.png)  
 * For a project of this size, precutting pieces of thread the length of your forearm should be adequate.  
 2. Different _techniques_ will take different levels of expertise to master.   
 * For example: a running stitch is beginner friendly, whereas a basket weave will take more time to master.  
