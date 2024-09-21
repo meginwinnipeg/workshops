@@ -9,7 +9,7 @@ nav_order: 2
 # From there to here – Making a meaningful map without a computer
 
 ---
-<kbd><img style="border:12px solid  #fcfcfc" src="img/workshop.PNG"></kbd>
+<kbd><img style="border:12px solid  #fcfcfc" src="img/physworkshop.png"></kbd>
 
 Today we’re going to make our own personal map using the prompt “From there to here”. There are many ways you can interpret these words, and no interpretation is more correct than another.   
 Some map ideas could be:  
@@ -96,7 +96,7 @@ At this stage, some people like to use a thumbtack to poke holes along the line 
 <iframe width="245" height="435" src="https://www.youtube.com/embed/BqKKOYRs1iE" title="6 Basic Embroidery Stitches" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 2. Stitch along the line.  
-![Stitch line](img/step7e.PNG)  
+![Stitch line](img/step7b.png)  
 <br>
 
 3. If you realize you want to make a change, you will need to unthread your needle and pull out your stitches.  
@@ -127,25 +127,26 @@ You will find two different styles of buttons in the button jar: flat (with 2-4 
 3. Orient button in the desired direction > stitch downward through the opposite side of the loop into the canvas.
 4. Repeat steps 2-3.  
 6. Tie off your button.  
+![Buttons sewn](img/step9a.png) 
 <br>
 
 ## 10. Add additional **ornamentation** if desired:  
 ###  Fabric Markers  
 Using fabric markers you can add details to emphasize/ provide context to certain elements of your map if desired.  
 **IMPORTANT** allow this to dry or it will smear. 
-![Add marker ornament](img/step10a.PNG)
 <br>
 
 ###  Embroidery  
 Using decorative stitches like french knots or simple __stitches can add interest to your design.  
-![Add embroidery ornament](img/step10b.PNG)
 <br>
 
 ###  Sharpie  
 Using a fine tipped permanent marker you can details like labels, cartographic elements like a north arrow, and your signature.  
 **IMPORTANT** allow this to dry or it will smear.  
-![Add sharpie ornament](img/step10c.PNG)
+
 <br>
+
+![Ornamentation](img/physworkshop.png)
 
 Congratulations! You made it through!  
 
