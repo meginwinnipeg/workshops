@@ -24,7 +24,7 @@ Some map ideas could be:
 ### **Data Physicalization**  
 Research area that studies the use of physical artifacts to convey data (1).  
 <br>
-Samples: [Data physicalization Wiki](http://dataphys.org/wiki/), Instagram...  
+Samples: [Data physicalization wiki](http://dataphys.org/wiki/), Instagram...  
 
 ### **Critical Making**  
 A practice that unites critical thinking and hands-on experiments to encourage learning by doing (2). A reconnection of two modes of engagement with the world that are typically held separate: critical thinking, traditionally understood as conceptually and linguistically based, and physical ‘making’, goal-based material work (3).  
@@ -46,12 +46,12 @@ Think of what we are doing today as the foundation of how you will approach a ma
 ## 1. **Plan** what our overarching **project** will look like:  
 To do this, we need to list our topic, our audience, what tools we have access to, the data or inputs available, any constraints and basic management strategy.  <br>
 Take some time to list these out now on the worksheet provided as you entered the room. It is also available from the Project page of this workshop for download.  
-![Plan Project](img/step1.PNG)
+![Plan Project](img/step1.png)
 <br>
  
 ## 2. **Plan** what your **map** will look like:
 Using the next section (visual encoding) of the worksheet provided, list the themes you would like to depict, and how you will do this. For the purposes of this session, we will be visualizing two locations, and the trajectory between them.  
-![Plan Map](img/step2.PNG)
+![Plan Map](img/step2.png)
 <br>
 Create a sketch of your map in the space provided to help you visualize how all the pieces will fit together.  
 ![Draw Map](img/step2a.png)
