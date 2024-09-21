@@ -68,7 +68,7 @@ Create a sketch of your map in the space provided to help you visualize how all 
 <br>
  
 ## 4. Using a pencil **sketch** your map on the canvas provided (pay attention to the frame location).
-![Sketch](img/step4.png)
+![Technique](img/sketch.png)  
 <br>
  
 ## 5: **Threading** your needle.  
