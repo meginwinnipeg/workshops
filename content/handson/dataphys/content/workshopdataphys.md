@@ -93,10 +93,10 @@ At this stage, some people like to use a thumbtack to poke holes along the line 
 <br>
 
 1. Select one of stitch types from below to use to depict the line (or any other stitch you are familiar with).  
-<iframe width="245" height="435" src="https://www.youtube.com/embed/BqKKOYRs1iE" title="6 Basic Embroidery Stitches" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+<iframe width="300" height="490" src="https://www.youtube.com/embed/BqKKOYRs1iE" title="6 Basic Embroidery Stitches" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 2. Stitch along the line.  
-![Stitch line](img/step7a.PNG)  
+![Stitch line](img/step7a.png)  
 <br>
 
 3. If you realize you want to make a change, you will need to unthread your needle and pull out your stitches.  
@@ -136,7 +136,7 @@ Using fabric markers you can add details to emphasize/ provide context to certai
 
 
 ###  Embroidery  
-Using decorative stitches like french knots or simple __stitches can add interest to your design.  
+Using decorative stitches like french knots can add interest to your design.  
 
 ###  Sharpie  
 Using a fine tipped permanent marker you can details like labels, cartographic elements like a north arrow, and your signature.  
