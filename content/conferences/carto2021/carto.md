@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CARTO 2021  
-nav_order: 2
+nav_order: 1
 parent: Conferences
 has_children: false
 has_toc: false

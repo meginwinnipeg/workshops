@@ -1,7 +1,7 @@
 ---
 layout: default
 title: GIS Days 2022
-nav_order: 0.5
+nav_order: 4
 parent: Conferences
 has_children: true
 has_toc: false
