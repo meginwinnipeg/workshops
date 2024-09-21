@@ -67,7 +67,8 @@ Create a sketch of your map in the space provided to help you visualize how all 
 ![Technique](img/step3b.png)  
 <br>
  
-## 4. Using a pencil **sketch** your map on the canvas provided (pay attention to the frame location).
+## 4. **Sketch** your map on the canvas provided.  
+Using a pencil very lightly sketch your map on your canvas (pay attention to the frame location).  
 ![Technique](img/sketch.png)  
 <br>
  
