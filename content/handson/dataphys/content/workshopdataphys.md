@@ -96,7 +96,7 @@ At this stage, some people like to use a thumbtack to poke holes along the line 
 <iframe width="245" height="435" src="https://www.youtube.com/embed/BqKKOYRs1iE" title="6 Basic Embroidery Stitches" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 2. Stitch along the line.  
-![Stitch line](img/step7a.png)  
+![Stitch line](img/step7a.PNG)  
 <br>
 
 3. If you realize you want to make a change, you will need to unthread your needle and pull out your stitches.  
