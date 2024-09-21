@@ -89,14 +89,14 @@ We don’t want our thread to fall out of our map background once we start sewin
 ## 7: **Embroider** a line.  
 At this stage, some people like to use a thumbtack to poke holes along the line they have drawn so it is easier to see there to insert the needle. 
 
-![Stitch poke](img/step7a.png)  
+![Stitch poke](img/step7.png)  
 <br>
 
 1. Select one of stitch types from below to use to depict the line (or any other stitch you are familiar with).  
 <iframe width="245" height="435" src="https://www.youtube.com/embed/BqKKOYRs1iE" title="6 Basic Embroidery Stitches" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 2. Stitch along the line.  
-![Stitch line](img/step7b.png)  
+![Stitch line](img/step7a.png)  
 <br>
 
 3. If you realize you want to make a change, you will need to unthread your needle and pull out your stitches.  
@@ -128,23 +128,19 @@ You will find two different styles of buttons in the button jar: flat (with 2-4 
 4. Repeat steps 2-3.  
 6. Tie off your button.  
 ![Buttons sewn](img/step9a.png) 
-<br>
 
 ## 10. Add additional **ornamentation** if desired:  
 ###  Fabric Markers  
 Using fabric markers you can add details to emphasize/ provide context to certain elements of your map if desired.  
 **IMPORTANT** allow this to dry or it will smear. 
-<br>
+
 
 ###  Embroidery  
 Using decorative stitches like french knots or simple __stitches can add interest to your design.  
-<br>
 
 ###  Sharpie  
 Using a fine tipped permanent marker you can details like labels, cartographic elements like a north arrow, and your signature.  
 **IMPORTANT** allow this to dry or it will smear.  
-
-<br>
 
 ![Ornamentation](img/physworkshop.png)
 
