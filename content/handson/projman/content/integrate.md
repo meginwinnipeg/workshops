@@ -13,11 +13,7 @@ nav_order: 2
 
 ---
 
-## 0. **Summary**:  
-In this step we will be exploring the workshop content and making a plan for our story.  
-This includes:  
-- Provided workshop data  
-- Organizational data  
-- Data attributes  
+## Note:  
+This step will be the most time consuming in all of your project (65% of your time). Leave yourself enough time to do this.  
   
  
