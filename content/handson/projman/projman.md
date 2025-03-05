@@ -18,6 +18,5 @@ By the end of this workshop, participants will:
 
 
 ### MATERIALS:
-- Ensure you have logged into your ArcGIS Online Account. The session instructor will email you instructions prior to the session. [Take me there!](https://univmb.maps.arcgis.com/){: N/A
+- Download the data and extract the compressed files into your **Downloads** folder. [Download Data](https://github.com/meginwinnipeg/workshops/raw/main/content/handson/dataphys/data/physData.zip){: .btn .btn-green }
 {: .prereq}  
-
