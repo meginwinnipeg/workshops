@@ -14,6 +14,6 @@ nav_order: 4
 
 ---
 
-## 0. **Step Back**:  
-While we have had the purpose of creating a StoryMap in the back of our minds while we were creating our maps, let’s step back take stock of what we have, and make a concrete plan.  
+## Next week:  
+We'll be crafting our own personal maps using the prompt 'From there to here'.  
 
