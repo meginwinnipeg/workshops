@@ -8,6 +8,8 @@ has_toc: false
 ---
 # Data Foundations: Working with structured data  
 
+<img data-src="https://github.com/meginwinnipeg/workshops/raw/main/content/slides/img/researchcycle.png" alt="Workshop content" style="border:12px solid  #fcfcfc">  
+
 ## Objectives:
 
 This session lays the groundwork for researchers who want to visualize their research and are looking for a practical approach to the project management and data literacy skills needed to be proficient in this area. Attendees will have the opportunity to interact with various visualization software and data types at different stations, and we will end with a hands-on exercise of planning a personal map to be created in the follow-up session.
