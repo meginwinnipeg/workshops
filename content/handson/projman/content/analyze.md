@@ -14,11 +14,6 @@ nav_order: 3
 
 ---
 
-## 0. **Summary**:  
-In this step we will be creating three (3) different type of maps to support our story.  
-
-- Heat map  
-- Proportional symbology  
-- Map based on joined data  
-
+## Tools:  
+Tools for analyzing your research data can be found on Data Visualization [subject guide](https://libguides.lib.umanitoba.ca/viz/tools) tools page.  
 

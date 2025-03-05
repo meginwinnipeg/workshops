@@ -12,11 +12,6 @@ nav_order: 1
 
 ---
 ## **Key Resources**:  
-Key links from these slides include:  
 1. Libraries Data Visualization [subject guide](https://libguides.lib.umanitoba.ca/viz)  
 2. Libraries GIS [subject guide](https://libguides.lib.umanitoba.ca/geoviz)  
 
-	 
-3. We will explore these options in greater depth in the **Integrating** section.
-
-<br>
