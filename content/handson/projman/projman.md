@@ -8,7 +8,7 @@ has_toc: false
 ---
 # Data Foundations: Working with structured data  
 
-<img data-src="/img/rojsheet.png" alt="Workshop content">  
+<img data-src="img/projsheet.png" alt="Workshop content">  
 
 ## Objectives:
 
