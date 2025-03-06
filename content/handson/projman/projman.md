@@ -8,7 +8,7 @@ has_toc: false
 ---
 # Data Foundations: Working with structured data  
 
-<img data-src="https://github.com/meginwinnipeg/slides/blob/c27ae918e136b0746a7969eef36bfee998128711/img/researchcycle.png" alt="Workshop content" style="border:12px solid  #fcfcfc">  
+<img data-src="https://github.com/meginwinnipeg/slides/blob/main/img/researchcycle.png" alt="Workshop content" style="border:12px solid  #fcfcfc">  
 
 ## Objectives:
 
