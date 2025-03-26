@@ -56,7 +56,7 @@ Numbers 1-4 illustrate the locations of the following elements:
 ## 4. View **Group** data options:  
 
 1. Click on **My Groups** in the blue Content navigation bar.  
-2. This brings up items that have been shared at the Group level, I have shared three (3) maps and one feature layer with you.  
+2. This brings up items that have been shared at the Group level, I have shared three (3) maps and two (2) feature layers with you.  
 3. Click on the **GenusMap_KPDemo** map that has been shared with you.  
 ![AGOL workspace](img/integrate/step4a.PNG)<br> 
  
