@@ -114,31 +114,30 @@ In the series of dialogue boxes that follow:
   ![AGOL workspace](img/analyze/step5d.PNG)<br>  
   
 
-## 6. **Open** your newly saved _TreeStatsMap_ map to calculate some tree statistics:  
+## 6. **Open** your newly saved _TreeStatsMap_ map to calculate some tree statistics for the park:  
   
 1. From your personal content list click the map title and select the **Open in Map Viewer Classic** option on the right side of your screen.  
 ![AGOL workspace](img/analyze/step4a.PNG)<br>
  
 2. You will see a new layer for park boundary appearing in your Table of Contents.  
-3. From the **Analysis** options above your Table of Contents, open the heading to **Summarize Data** and select the **Join Features** option.  
+3. From the **Analysis** options above your Table of Contents, open the heading to **Summarize Data** and select the **Summarize Within** option.  
 ![AGOL workspace](img/analyze/step6a.PNG)<br>  
 
-4. In the _Join Wizard Dialogue_ select the following options. Note that most options and tools have a blue circle you can hover over for more information.  
-    1. _Target_: **TreeInventory**  
-    2. _Join Layer_: **InspectionStatus** table  
-    3. _Join Type_: **Fields** in a table where **TreeID** = **TreeID** 
-    4. _Operation_: **1:1**  
-    5. Name the file something meaningful including your initials.  
+4. In the _Summarize Within Dialogue_ select the following options. Note that most options and tools have a blue circle you can hover over for more information.  
+    1. _Boundary_: **Polygon**  
+	2. _Layer_: **Park and Open space**  
+    3. _Summarize_: **TreeInventory** layer    
+    4. _Add Statistics_: **Diameter at Breast Height**, **Min, Max, Avg**  
+    5. _Group By_: **Genus**, add **minority, majority** and **percentages**    
+    6. Name the file something meaningful including your initials.  
 ![AGOL workspace](img/analyze/step6b.PNG)<br>  
 
-5. Click the _Run Analysis_ option, wait for the data to join and be added to the map
+5. Click the _Run Analysis_ option, wait for the data to be added to the map  
 6. Don't forget to save your work.  
-7. Change the symbols for your new layer to visualize **Inspection Status** 
-    1. (open _symbology options_ for the layer in the Table of Contents and select _Inspection Status_).  
-8. What do you think about the default colours selected?  
+7. There have been two new items added to your Table of Contents- a layer and a table   
 ![AGOL workspace](img/analyze/step6c.PNG)<br>  
  
-9. Change the colours to something more appropriate for our message and save your work.  
+9. Consider how you could use this information in a Story Map.  
 
 
 That’s it! We now have the building blocks to create a **StoryMap** in the next section!  
