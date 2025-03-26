@@ -82,8 +82,8 @@ In the series of dialogue boxes that follow:
 
 1. Click on **My Groups** in the blue Content navigation bar.  
 2. This brings up items that have been shared at the Group level, I have shared three (3) maps and two feature layers with you.  
-3. Save a copy of  _TreeDiameterMapKP_demo_ to your personal account  
-    1. Open each map and select the **Open in Map Viewer** option on the right side of your screen.  
+3. Save a copy of  _TreeDiameterMapKP_demo_ and _TreeStatsMapKP_demo_ to your personal account  
+    1. Open each map and select the **Open in Map Viewer Classic** option on the right side of your screen.  
     ![AGOL workspace](img/analyze/step4a.PNG)<br>
    
     2. **Save** a copy of the map to your personal content area by selecting the **Save As** option. Add your initials to the end of the filename.  
@@ -93,7 +93,7 @@ In the series of dialogue boxes that follow:
  
 ## 5. **Open** your newly saved _TreeDiameter_ map to edit symbology:  
   
-1. From your personal content list click the map title and select the **Open in Map Viewer** option on the right side of your screen.  
+1. From your personal content list click the map title and select the **Open in Map Viewer Classic** option on the right side of your screen.  
 ![AGOL workspace](img/analyze/step4a.PNG)<br>
 
 2. Ensure you are in the **Content** area of your Table of Contents to change symbology. The third tile from the left (3 stacked shapes) is the option to **change styles**.  
@@ -114,12 +114,12 @@ In the series of dialogue boxes that follow:
   ![AGOL workspace](img/analyze/step5d.PNG)<br>  
   
 
-## 6. **Open** your newly saved _InspectionStatusMap_ map to join external inspection data:  
+## 6. **Open** your newly saved _TreeStatsMap_ map to calculate some tree statistics:  
   
-1. From your personal content list click the map title and select the **Open in Map Viewer** option on the right side of your screen.  
+1. From your personal content list click the map title and select the **Open in Map Viewer Classic** option on the right side of your screen.  
 ![AGOL workspace](img/analyze/step4a.PNG)<br>
  
-2. You will see a table appearing at the bottom of your Table of Contents.  
+2. You will see a new layer for park boundary appearing in your Table of Contents.  
 3. From the **Analysis** options above your Table of Contents, open the heading to **Summarize Data** and select the **Join Features** option.  
 ![AGOL workspace](img/analyze/step6a.PNG)<br>  
 
