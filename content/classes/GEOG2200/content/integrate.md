@@ -56,14 +56,14 @@ Numbers 1-4 illustrate the locations of the following elements:
 ## 4. View **Group** data options:  
 
 1. Click on **My Groups** in the blue Content navigation bar.  
-2. This brings up items that have been shared at the Group level, I have shared four (4) maps and one feature layer with you.  
+2. This brings up items that have been shared at the Group level, I have shared three (3) maps and one feature layer with you.  
 3. Click on the **GenusMap_KPDemo** map that has been shared with you.  
 ![AGOL workspace](img/integrate/step4a.PNG)<br> 
  
   
 ## 5. **Open item** using the ArcGIS Online Map Viewer:  
 
-1. Select the **Open in Map Viewer** option on the right side of your screen.  
+1. Select the **Open in Map Viewer Classic** option on the right side of your screen.  
 ![AGOL workspace](img/integrate/step5a.PNG)<br>
    
 2. **Explore** the AGOL interface.  
