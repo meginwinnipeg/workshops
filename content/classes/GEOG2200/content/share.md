@@ -24,7 +24,7 @@ What do we have?
 - Map of Trees by Genus  
 - Heat Map of Tree Distribution  
 - Map of trees by Trunk Diameter  
-- Map of Tree Inspection Status  
+- Summary statistics about trees in Kings Park 
 - Workshop folder that includes: images of trees and park elements, a locator map for the park, some text to copy and paste, data csv files.  
 
 Map out your idea:  
@@ -105,7 +105,7 @@ When we scroll to the bottom of the list of objects we can add to our page there
  
 ## 5. Add a **map** to your sidecar.  
 1. Click the **Add media** button at the top of the window (1) and then select the **map** option.  
-2. Your available ArcGIS Online maps appear as options to select. I am going to add my _Inspection Status_ map.   
+2. Your available ArcGIS Online maps appear as options to select. I am going to add a _tree_ map.   
 3. After adding my map, the dialogue changes to a map preview:  
 ![AGOL workspace](img/share/step5a.PNG)<br>  
 
@@ -138,7 +138,7 @@ Congratulations! You made it through!
 
 ## ASSIGNMENT:
 
-Now that you have completed the walk-through using Kings Park data, apply the concepts you have learned to the **St. Vital Park** dataset found in the shared ArcGIS Online folder, then create a StoryMap using the four St. Vital Park maps created.  
+Now that you have completed the walk-through using Kings Park data, apply the concepts you have learned to the **Crescent Drive Park** dataset found in the shared ArcGIS Online folder, then create a StoryMap using the Crescent Drive Park maps created.  
 ### MAPS: 
 1.	A map that categorizes the data by **botanical name**, format the **pop-ups** for clarity;    
 2.	A map that symbolizes trees by **diameter of trunk** (either using colour or proportional symbology);  
@@ -153,6 +153,7 @@ Your StoryMap should include:
 4. **Media** (Created by visiting the Park or searching on the internet)  
     1.  One embedded video  
     2.  At least one embedded image  
+5. **Summary statistics** to support your story. 
 5. **References** for the data, images and video if necessary. 
 
 ### SUBMITTING
@@ -164,7 +165,7 @@ Update **metadata** and ensure you have properly **shared** to submit your file 
 3. Update the previously highlighted sections as follows:  
     1. _Description_: Describe your project  
     2. _Terms of Use_: Let people know this is a student project for the GEOG 2200 course  
-    3. _Tags_:  **GEOG2200_2024**  
+    3. _Tags_:  **GEOG2200_2025**  
     4. _Share_: Under group sharing ensure the **GEOG2200** group is selected  
  
 
