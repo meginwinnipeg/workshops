@@ -15,11 +15,11 @@ nav_order: 3
 ---
 
 ## 0. **Summary**:  
-In this step we will be creating three (3) different type of maps to support our story.  
+In this step we will be creating two (2) different type of maps, and an additional feature layer to support our story.  
 
 - Heat map  
 - Proportional symbology  
-- Map based on joined data  
+- Summary Statistics 
 
 ---
 
@@ -54,9 +54,9 @@ In the series of dialogue boxes that follow:
 ![AGOL workspace](img/analyze/step2g.PNG)<br>  
 
  
-## 3. Create a **heat map** do show distribution.  
+## 3. Create a **heat map** to show distribution.  
 
-1. Click the  dropdown arrow beside the **Open in Map Viewer** option at the top of the list of options on the right side of your feature service window.  
+1. Click the  dropdown arrow beside the **Open in Map Viewer Classic** option at the top of the list of options on the right side of your feature service window.  
 2. Select the **add to new map** option. The data may take a couple of seconds to load.  
 ![AGOL workspace](img/analyze/step3a.PNG)<br>  
 
@@ -81,8 +81,8 @@ In the series of dialogue boxes that follow:
 ## 4. Save copies of other workshop maps shared in **My Groups** to your personal content:  
 
 1. Click on **My Groups** in the blue Content navigation bar.  
-2. This brings up items that have been shared at the Group level, I have shared four (4) maps and one feature layer with you.  
-3. Save a copy of  _TreeDiameterMapKP_demo_ and _InspectionStatusMapKP_demo_ to your personal account  
+2. This brings up items that have been shared at the Group level, I have shared three (3) maps and two feature layers with you.  
+3. Save a copy of  _TreeDiameterMapKP_demo_ to your personal account  
     1. Open each map and select the **Open in Map Viewer** option on the right side of your screen.  
     ![AGOL workspace](img/analyze/step4a.PNG)<br>
    
