@@ -6,10 +6,10 @@ grand_parent: Classes
 nav_order: 1
 ---
 
-# Introduction to Story mapping for historians
+# Story mapping exercise- Henry Budd's correspondence
 
 ---
-<iframe width="720" height="480" frameborder="0" marginheight="0" marginwidth="0" style="border:12px solid  #fcfcfc" src="https://meginwinnipeg.github.io/slides/RVsharing.html"></iframe>
+<iframe width="720" height="480" frameborder="0" marginheight="0" marginwidth="0" style="border:12px solid  #fcfcfc" src="https://meginwinnipeg.github.io/slides/sharing1390.html"></iframe>
 
 
 ---
@@ -27,5 +27,4 @@ What do we have?
 - Summary statistics about trees in Kings Park 
 - Workshop folder that includes: images of trees and park elements, a locator map for the park, some text to copy and paste, data csv files.  
 
-Map out your idea:  
-![AGOL workspace](img/share/step0.PNG)<br> 
+Click to access the template file [Log-in to access](https://storymaps.arcgis.com/templates/34d910cee3b54bd087c78449fb590311){: .btn .btn-blue }
