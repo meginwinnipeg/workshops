@@ -1,28 +1,31 @@
 ---
 layout: default
-title: GIS for Historians
+title: Story mapping for historians
 parent: HIST1390
 grand_parent: Classes
 nav_order: 1
 ---
 
-# Introduction to Story Mapping for Historians
+# Introduction to Story mapping for historians
 
-*Follow along and interact with the slides below if you want:*
-<br>
+---
+<iframe width="720" height="480" frameborder="0" marginheight="0" marginwidth="0" style="border:12px solid  #fcfcfc" src="https://meginwinnipeg.github.io/slides/RVsharing.html"></iframe>
 
-<iframe width="720" height="480" frameborder="0" marginheight="0" marginwidth="0" style="border:12px solid  #fcfcfc" src="https://meginwinnipeg.github.io/slides/hist_7110.html"></iframe>
 
-Watch the session on [YouTube](https://youtu.be/).
-<hr>
+---
 
-## Key points from slides:
+## 0. **Step Back**:  
+While we have had the purpose of creating a StoryMap in the back of our minds while we were creating our maps, let’s step back take stock of what we have, and make a concrete plan.  
 
-- GIS is any system used to analyze, capture or work with geospatial data and can ingest three main types of data: tabular, vector and raster.  
-- Different tools within the software are only able to work with specific data types.  
-- Popular processes undertaken by historians conducting GIS work include:  
-    - Digitization of historical maps/images  
-    - Reconstruction of features from the past  
-    - Georeferencing microdata  
-- ArcGIS Online is a proprietary tool that is great for entry level users.    
-- Many visualization tools can be found linked from the [data visualization subject guide](https://libguides.lib.umanitoba.ca/viz).  
+Our Scenario:  
+_You have been hired as the GIS intern in the Public Works Department at the City of Winnipeg. The arborists have been doing a lot of work in King’s Park and entering information into their new tree inventory system. Your job is to create some materials for the public so they can see how their tax dollars are being used._  
+
+What do we have?  
+- Map of Trees by Genus  
+- Heat Map of Tree Distribution  
+- Map of trees by Trunk Diameter  
+- Summary statistics about trees in Kings Park 
+- Workshop folder that includes: images of trees and park elements, a locator map for the park, some text to copy and paste, data csv files.  
+
+Map out your idea:  
+![AGOL workspace](img/share/step0.PNG)<br> 
