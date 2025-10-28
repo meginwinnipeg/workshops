@@ -14,17 +14,31 @@ nav_order: 1
 
 ---
 
-## 0. **Step Back**:  
-While we have had the purpose of creating a StoryMap in the back of our minds while we were creating our maps, let’s step back take stock of what we have, and make a concrete plan.  
+## 0. Before you begin **step back** and make a plan:  
+For today we will be using a template file to make our story map, but if you are making your own, it's best to sketch out a plan of what you want to share.  
 
 Our Scenario:  
-_You have been hired as the GIS intern in the Public Works Department at the City of Winnipeg. The arborists have been doing a lot of work in King’s Park and entering information into their new tree inventory system. Your job is to create some materials for the public so they can see how their tax dollars are being used._  
+_Create a story map depicting content from Henry Budd's correspondence._   
 
 What do we have?  
-- Map of Trees by Genus  
-- Heat Map of Tree Distribution  
-- Map of trees by Trunk Diameter  
-- Summary statistics about trees in Kings Park 
-- Workshop folder that includes: images of trees and park elements, a locator map for the park, some text to copy and paste, data csv files.  
+- Letter assigned to your group  
+- Translation  
+- Image video file that is related  
+- Story map template file  
 
-Click to access the template file [Log-in to access](https://storymaps.arcgis.com/templates/34d910cee3b54bd087c78449fb590311){: .btn .btn-blue }
+
+## 1. Access the template and follow directions:
+Click to access the template file [Log-in to access](https://storymaps.arcgis.com/templates/34d910cee3b54bd087c78449fb590311){: .btn .btn-blue }  
+  
+## 2. To **share** your content to be marked:  
+1. Click the **Publish** option at the top of your screen.  
+2. Ensure that **Sharing level** is set to **Private** and **Group Sharing** is for **HIST1390_F25**  
+![AGOL workspace](img/step2.png)<br>  
+3. Email the link or QR code that appears on the following page to your professor for marking purposes.  
+
+<br>
+ 
+Congratulations! You made it through!  
+
+Questions? Concerns?  
+<br>
