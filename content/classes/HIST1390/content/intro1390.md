@@ -14,7 +14,7 @@ nav_order: 1
 
 ---
 
-## 0. Before you begin **step back** and make a plan:  
+## 0. Before you begin step back and make a plan:  
 For today we will be using a template file to make our story map, but if you are making your own, it's best to sketch out a plan of what you want to share.  
 
 Our Scenario:  
@@ -27,14 +27,14 @@ What do we have?
 - Story map template file  
 
 
-## 1. Access the template and follow directions:
+## 1. Access the **template** and follow directions:
 Click to access the template file [Log-in to access](https://storymaps.arcgis.com/templates/34d910cee3b54bd087c78449fb590311){: .btn .btn-blue }  
   
 ## 2. To **share** your content to be marked:  
 1. Click the **Publish** option at the top of your screen.  
 2. Ensure that **Sharing level** is set to **Private** and **Group Sharing** is for **HIST1390_F25**  
 ![AGOL workspace](img/step2.png)<br>  
-3. Email the link or QR code that appears on the following page to your professor for marking purposes.  
+3. Email the **link** or **QR code** that appears on the following page to your professor for marking purposes.  
 
 <br>
  
