@@ -1,15 +1,15 @@
 ---
 layout: default
-title: ArcGIS Online Exercise
-parent: HIST7110
+title: Story Mapping Exercise
+parent: HIST1390
 grand_parent: Classes
 nav_order: 2
 ---
 
-# ArcGIS Online Exercise – Toronto's Lost Breweries
+# Story Mapping Exercise – Henry Budd's Correspondence
 
 ---
-<kbd><img style="border:12px solid  #fcfcfc" src="img/workshop.PNG"></kbd>
+<kbd><img style="border:12px solid  #fcfcfc" src="img/workshop1.PNG"></kbd>
 
 
 ---

@@ -1,12 +1,12 @@
 ---
 layout: default
 title: GIS for Historians
-parent: HIST7110
+parent: HIST1390
 grand_parent: Classes
 nav_order: 1
 ---
 
-# Introduction to GIS for Historians
+# Introduction to Story Mapping for Historians
 
 *Follow along and interact with the slides below if you want:*
 <br>
