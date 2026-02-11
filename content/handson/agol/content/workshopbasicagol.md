@@ -6,7 +6,7 @@ grand_parent: Workshops
 nav_order: 2
 ---
 
-# ArcGIS Online Exercise – Toronto's Lost Breweries
+# ArcGIS Online Exercise – Exploring UM History
 
 ---
 <kbd><img style="border:12px solid  #fcfcfc" src="img/workshop.PNG"></kbd>
@@ -16,8 +16,8 @@ nav_order: 2
 ## 0. **Housekeeping**:  
 Today we will be exploring the ArcGIS Online interface by:  
 1. Finding data that is available  
-    - Living Atlas  
-2. Integrating a CSV file  
+    - University of Manitoba Libraries Organization  
+2. Integrating a point file  
 3. Adjusting dataset parameters 
 5. Discussing export options  
 
@@ -79,13 +79,13 @@ Numbers 1-4 illustrate the locations of the following elements:
 4. **Available content** (items that have been shared to you through groups, University of Manitoba or ESRI’s Living Atlas.)  
 	![AGOL workspace](img/basic/step2.PNG)<br>  
   
-## 3. View **Living Atlas** data options:  
-1. Click on **Living Atlas** in the blue Content navigation bar.  
-2. This brings up data that has been made available to ESRI users. All content here is available for reuse.  
+## 3. View **My Organization** data options:  
+1. Click on **My Organization** in the blue Content navigation bar.  
+2. This brings up data that has been made available to UM users. Not all content here is available for reuse.  
 ![AGOL workspace](img/basic/step3a.PNG)<br>  
  
 
-3. Using the search box search for _1858 Boulton_ , click the title to see more details about the file.  
+3. Using the search box search for _Campus1955_georef_ , click the title to see more details about the file.  
    
 4. Now we can see a _Description_ and the _Terms of Use_ for the file, as well as options to explore the data further.  
   ![AGOL workspace](img/basic/step3b.PNG)<br>  
@@ -96,54 +96,46 @@ Numbers 1-4 illustrate the locations of the following elements:
 6. Your screen should now look something like:  
 ![AGOL workspace](img/basic/step3d.PNG)<br>  
  
-7. **Save** your map by clicking the  **Save As** option above the map. Your map is now saved to your personal content area.  
+7. **Save** your map by clicking the  **Save As** option left of the map. Your map is now saved to your personal content area.  
 ![AGOL workspace](img/basic/step3e.PNG)<br>  
  
-## 4. **Add data** that has been shared with you through a **Group**:  
+## 4. **Add data** that is accessible via **URL**:  
 
-1. Click on the **Add** data option above your map. Select the _Search for layers_ option.  
+1. Click on the arrow beside the **Add** data option on the left of your map. Select the _add layer from URL_ option.  
 ![AGOL workspace](img/basic/step4a.PNG)<br>  
  
-2. Ensure the **My Groups** option is selected from the dropdown  
+2. Copy + Paste this url into the dialogue: **https://services7.arcgis.com/qkMZANJ0iIMLiVSJ/arcgis/rest/services/UM_Campus_Planning_Public_Tree_Inventory/FeatureServer**   
 ![AGOL workspace](img/basic/step4b.PNG)<br>  
-  This brings up items that have been shared at the Group level, I have shared one feature layer with you.  
-3. Click on the **Forgotten Breweries of Toronto** layer that has been shared with you.  
-![AGOL workspace](img/basic/step4c.PNG)<br>  
-  
-  
-4. **Add item to map** using the plus sign in the bottom right corner of the item.  
+  The import wizard should autodetect that it is a web service    
+3. **Add item to map** in the bottom right corner of the wizard.  
 Your map should now look something like:  
 ![AGOL workspace](img/basic/step4d.PNG)<br>  
 
    
 ## 5. **Explore** the workspace.  
 Numbers 1-4 illustrate the locations of the following elements:  
-  1. **Tool** options    
-  2. **Actions** (allows add new content to the map, change your base map, conduct simple analyses)  
-  3. **Table of Contents** (properties options for individual layers such as: attributes, symbology and pop-up configuration)  
+  1. **Map** options (add data, change basemap, share etc)    
+  2. **Data** options (symbology, filters, pop-ups, labels, conduct simple analyses and more)  
+  3. **Table of Contents** (list of layers in your map, show, hide, table, etc)  
   4. **Your map** workspace    
 	![AGOL workspace](img/basic/step5a.PNG)<br> 
 	  
-Numbers 5-12 illustrate the purpose of the icons found in the Table of Contents:  
-- 5  **Legend**     
-- 6  **Attribute table** (information about each data point displayed as a table)  
-- 7  **Symbology** (change the appearance of feature)   
-- 8  **Filter** (show a subset of your data)  
-- 9  **Cluster** (group features to reduce map clutter)  
-- 10  **Perform analysis** (analyze this specific layer)  
-- 11  **More options** (zoom, transparency, pop-ups, labels…)  
-	![AGOL workspace](img/basic/step5b.PNG)<br>  
+Take some time to explore the data options on the right side of the page:  
+- Change the symbol for the tree layer     
+- Change the transparency of the 1955 plan to see how it compares with campus today
+- Filter data to show the oldest trees on campus 
+- Cluster trees to reduce map clutter
+- Look at analysis options  
+- Explore more options (zoom, transparency, pop-ups, labels…)  
  
 
-**Save** your additions by clicking the **Save** option.  
+Once your map is how you want it, **Save** your additions by clicking the **Save** option.  
 
 ## 6. **Share** your map  
 There are many ways you can share your work with the world so they can explore your work.  
-1. Click the **Share**  ![AGOL workspace](img/basic/step6a.PNG) button above the map and explore the options available to you.  
-    - Share map with a **group** (1) or via **link**(2)  
-    - **Embed** Map in a website (3)  
-    - Create a stand-alone **application** (4)  
-![AGOL workspace](img/basic/step6b.PNG)   
+1. Click the **Share** button to the left of your map and explore the options available to you.  
+ 
+![AGOL workspace](img/basic/step6a.PNG)   
 
 <br>
  
@@ -153,5 +145,5 @@ Questions? Concerns?
 <br>
 
 
-<small> Data: [Lost Breweries of Toronto 1800-1989: Marcel Fortin, 2018](https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi%3A10.5683%2FSP2%2FZ7K8DZ&version=&q=&fileTypeGroupFacet=&fileAccess=&fileSortField=size)</small>  
+<small> Data: [UM Campus Planning Public Tree Inventory - 2025 Tree Data: University of Manitoba Campus Planning, 2025](https://univmb-admin.maps.arcgis.com/home/item.html?id=1217d4b556bd445a8245f48ed8c002a1)</small>  
 
