@@ -135,7 +135,7 @@ Once your map is how you want it, **Save** your additions by clicking the **Save
 There are many ways you can share your work with the world so they can explore your work.  
 1. Click the **Share** button to the left of your map and explore the options available to you.  
  
-![AGOL workspace](img/basic/step6a.PNG)   
+![AGOL workspace](img/basic/step6b.PNG)   
 
 <br>
  
