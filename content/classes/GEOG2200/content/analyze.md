@@ -24,22 +24,65 @@ In this step we will be creating three (3) different type of maps, and an additi
 
 ---
 
-## 1. Access your **Content** workspace to create your own feature service:  
+## 1. Select the **map** you made in the previous step, we're going to use it as a template to create our other maps. 
  
 1. Navigate to UM's ArcGIS Online Portal (https://univmb.maps.arcgis.com) and ensure you are signed in.  
 2. Access the **Content** area by clicking on that option in the top navigation.  
 ![AGOL workspace](img/analyze/step1a.PNG)<br>  
 
+3. Click the **map** title in your Contents area.  
+4. On the details page that opens, select the **Open in Map Viewer** option to open our map.  
+![AGOL workspace](img/analyze/step2b.PNG)<br>  
+ 
+5.  Save multiple copies of the map to your personal content area by selecting the **Save As** option.   
+![AGOL workspace](img/analyze/step3e.PNG)<br>
+We will be creating the following maps, so save one copy for each (name it something meaningful and be sure to add your initials to the end of the filename).  
+    1. Tree Species Map     
+	2. Heat Map of Trees  
+	3. Proportional Symbology Map  
+6. When you return to your **content** area, you should now see **four (4)** maps listed.   
+![AGOL workspace](img/analyze/step2g.PNG)<br>  
 
 
-## 6. **Configure pop-up** in your map for visual clarity.  
+## 2a. Create a **Species map** to show distribution around campus.  
+
+1. Click the **Species map** title in your Contents area.  
+2. On the details page that opens, select the **Open in Map Viewer** option to open our map.  
+![AGOL workspace](img/analyze/step2b.PNG)<br>
+3. In the Table of Contents ensure that:
+   1. The Space Inventory is hidden  
+   2. The Tree Inventory is selected
+![AGOL workspace](img/analyze/step2c.PNG)<br>  
+4. Select the **Styles** toolbar at the right side of the screen. 
+5. Then click the ** Field** button.  
+![AGOL workspace](img/analyze/step2d.PNG)<br> 
+6. Check off **Species** in the list that opens, and then **Add** to the map.  
+7. Your map should now look something like:  
+![AGOL workspace](img/analyze/step2e.PNG)<br>
+
+## 2b. **Configure pop-up** in your map for visual clarity.  
 Right now, our pop-up contains a lot of extra information that our audience may not be interested in:  
-![AGOL workspace](img/integrate/step6a.PNG)<br>
+![AGOL workspace](img/analyze/step2f.PNG)<br>
  
-1. To edit, ensure the **Content** option is open in your Table of Contents and hover over the _TreeInventory_ layer to reveal its options.  
-2. Select the three small dots on the right to open the **properties**, then the **Configure Pop-up** option,  
-![AGOL workspace](img/integrate/step6b.PNG)<br>
+1. To edit, ensure the **Tree Inventory** layer is selected in your Table of Contents and select the **Pop-up** toolbar on the right side of the screen.  
+2. We can see there is a title block coming from the _latin names_ field, a list of 30 fields, and an attachment image.  
+![AGOL workspace](img/analyze/step2h.PNG)<br>
+3. Delete the list of fields by clicking the 3 dots to the right of the item and selecting **delete**.  
+4. Select the **add content** option at the bottom of the menu, and select **Text**.  
+![AGOL workspace](img/analyze/step2i.PNG)<br> 
+5. Paste the following code into the text box and click OK:  
+
+`This {Species} is listed as {Tree_Maturity} and stands at {Height}m tall, with a crown that is {Spread}m wide.
+We are currently updating our dataset to include names of our campus trees in Indigenous languages.
+The {Species} ({Latin_Names}) is known as:
+Michif: {Michif}
+Dene: {Dene} 
+Anisininew: {Anisininew}
+Anishinaabeg: {Anishinaabeg}`
  
+6. Your pop-up should now look something like:  
+![AGOL workspace](img/analyze/step2j.PNG)<br> 
+
 3. Edit the title for the pop-up so that the label is _Common Name_:  instead of the feature service name.  
 4. Select the blue **Configure Attributes** text to select which attributes you want to show up.  
 ![AGOL workspace](img/integrate/step6c.PNG)<br>
@@ -68,30 +111,12 @@ s
 
 
 
+
+
  
-## 2. **New Item** to create a feature service from a .csv file:  
-We want to add our tree data to our Content area in the form of a feature service so that we can publish content with it.    
-
-1. Select the **New Item** option from the top left of your content area.  
-![AGOL workspace](img/analyze/step2a.PNG)<br>
-2. From the options that appear we want to select the **From your device** option to select to .csv file from your downloaded data.  
-![AGOL workspace](img/analyze/step2b.PNG)<br>  
  
-3. **Navigate** to your TreeInventory_KingsPark.csv file and add it.  
-In the series of dialogue boxes that follow:  
-    1. Select the optiom to create a **hosted feature layer** from the .csv.  
-	![AGOL workspace](img/analyze/step2c.PNG)<br>   
-	2. Double-check your field types and location fields: _Diameter at Breast Height_ should be a **double**, _Latitude_ and _Longitude_ set as the **double** fields.
-	![AGOL workspace](img/analyze/step2d.PNG)<br>  
-	3. Ensure the **location type** matches the selected location fields.  
-	![AGOL workspace](img/analyze/step2e.PNG)<br>  
-	4. _Title_: **TreeInventory_yourinitials**, _Tags_: **2200_yourinitials**   
-     ![AGOL workspace](img/analyze/step2f.PNG)<br>  
-
-4. Click the _Save_ button, and wait while your service publishes.  
-5. You should now have your own **feature service** to use that looks something like:  
-![AGOL workspace](img/analyze/step2g.PNG)<br>  
-
+ 
+ 
  
 ## 3. Create a **heat map** to show distribution.  
 
