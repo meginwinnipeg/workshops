@@ -15,8 +15,9 @@ nav_order: 3
 ---
 
 ## 0. **Summary**:  
-In this step we will be creating two (2) different type of maps, and an additional feature layer to support our story.  
+In this step we will be creating three (3) different type of maps, and an additional feature layer to support our story.  
 
+- Genus Map  
 - Heat map  
 - Proportional symbology  
 - Summary Statistics 
@@ -28,6 +29,44 @@ In this step we will be creating two (2) different type of maps, and an addition
 1. Navigate to UM's ArcGIS Online Portal (https://univmb.maps.arcgis.com) and ensure you are signed in.  
 2. Access the **Content** area by clicking on that option in the top navigation.  
 ![AGOL workspace](img/analyze/step1a.PNG)<br>  
+
+
+
+## 6. **Configure pop-up** in your map for visual clarity.  
+Right now, our pop-up contains a lot of extra information that our audience may not be interested in:  
+![AGOL workspace](img/integrate/step6a.PNG)<br>
+ 
+1. To edit, ensure the **Content** option is open in your Table of Contents and hover over the _TreeInventory_ layer to reveal its options.  
+2. Select the three small dots on the right to open the **properties**, then the **Configure Pop-up** option,  
+![AGOL workspace](img/integrate/step6b.PNG)<br>
+ 
+3. Edit the title for the pop-up so that the label is _Common Name_:  instead of the feature service name.  
+4. Select the blue **Configure Attributes** text to select which attributes you want to show up.  
+![AGOL workspace](img/integrate/step6c.PNG)<br>
+
+5. Click _OK_ to save your changes, now your pop-up should look something like:  
+![AGOL workspace](img/integrate/step6d.PNG)<br>
+
+
+## 7. **Center/ zoom** your map for reuse.  
+We will be reusing this map later in a StoryMap. How your map looks here is how it will look when it is reused so we want to center it/ set base maps accordingly.  
+
+1. To **center**, ensure the _Content_ option is open in your Table of Contents and hover over the _TreeInventory_ layer to reveal its options.  
+2. Select the three small dots on the right to open the **properties**, then the **Zoom to** option,  
+![AGOL workspace](img/integrate/step7a.PNG)<br>
+
+3. Your map should now look something like:  
+![AGOL workspace](img/integrate/step7b.PNG)<br>
+
+4. **Save** your edits. 
+
+
+s
+
+
+
+
+
 
  
 ## 2. **New Item** to create a feature service from a .csv file:  
