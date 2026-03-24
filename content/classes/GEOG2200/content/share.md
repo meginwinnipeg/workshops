@@ -18,14 +18,14 @@ nav_order: 4
 While we have had the purpose of creating a StoryMap in the back of our minds while we were creating our maps, let’s step back take stock of what we have, and make a concrete plan.  
 
 Our Scenario:  
-_You have been hired as the GIS intern in the Public Works Department at the City of Winnipeg. The arborists have been doing a lot of work in King’s Park and entering information into their new tree inventory system. Your job is to create some materials for the public so they can see how their tax dollars are being used._  
+_You have been hired as the GIS intern with the Campus Planning Department at UM. The arborists have been doing a lot of work on campus and entering information into their new tree inventory system. Your job is to create a story map for the campus community to help them appreciate the campus trees._  
 
 What do we have?  
 - Map of Trees by Genus  
 - Heat Map of Tree Distribution  
-- Map of trees by Trunk Diameter  
-- Summary statistics about trees in Kings Park 
-- Workshop folder that includes: images of trees and park elements, a locator map for the park, some text to copy and paste, data csv files.  
+- Map of trees by Trunk or Crown Diameter 
+- Summary statistics about campus trees
+- Workshop folder that includes: images of trees and park elements, a locator map, some text to copy and paste, data urls.  
 
 Map out your idea:  
 ![AGOL workspace](img/share/step0.PNG)<br>
@@ -138,7 +138,7 @@ Congratulations! You made it through!
 
 ## ASSIGNMENT:
 
-Now that you have completed the walk-through using Kings Park data, apply the concepts you have learned to the **Crescent Drive Park** dataset found in the shared ArcGIS Online folder, then create a StoryMap using the Crescent Drive Park maps created.  
+Now that you have completed the walk-through using Campus data, apply the concepts you have learned to the **Kildonan Park** dataset found in the shared ArcGIS Online folder, then create a StoryMap using the Kildonan Park maps created.  
 ### MAPS: 
 1.	A map that categorizes the data by **botanical name**, format the **pop-ups** for clarity;    
 2.	A map that symbolizes trees by **diameter of trunk** (either using colour or proportional symbology);  
@@ -165,7 +165,7 @@ Update **metadata** and ensure you have properly **shared** to submit your file 
 3. Update the previously highlighted sections as follows:  
     1. _Description_: Describe your project  
     2. _Terms of Use_: Let people know this is a student project for the GEOG 2200 course  
-    3. _Tags_:  **GEOG2200_2025**  
+    3. _Tags_:  **GEOG2200_2026**  
     4. _Share_: Under group sharing ensure the **GEOG2200** group is selected  
  
 
