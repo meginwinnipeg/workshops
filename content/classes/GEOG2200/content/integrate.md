@@ -119,5 +119,5 @@ Your map should now look something like:
 4. **Save** your map by clicking the  **Save As** option left of the map. Your map is now saved to your personal content area.  
 ![AGOL workspace](img/integrate/step3e.PNG)<br>  
 
-5. We will now move over to the **Analysis** section to make more maps.  
+5. We will now move over to the **Analysis** section to make some maps.  
  
