@@ -83,39 +83,7 @@ Anishinaabeg: {Anishinaabeg}`
 6. Your pop-up should now look something like:  
 ![AGOL workspace](img/analyze/step2j.PNG)<br> 
 
-3. Edit the title for the pop-up so that the label is _Common Name_:  instead of the feature service name.  
-4. Select the blue **Configure Attributes** text to select which attributes you want to show up.  
-![AGOL workspace](img/integrate/step6c.PNG)<br>
-
-5. Click _OK_ to save your changes, now your pop-up should look something like:  
-![AGOL workspace](img/integrate/step6d.PNG)<br>
-
-
-## 7. **Center/ zoom** your map for reuse.  
-We will be reusing this map later in a StoryMap. How your map looks here is how it will look when it is reused so we want to center it/ set base maps accordingly.  
-
-1. To **center**, ensure the _Content_ option is open in your Table of Contents and hover over the _TreeInventory_ layer to reveal its options.  
-2. Select the three small dots on the right to open the **properties**, then the **Zoom to** option,  
-![AGOL workspace](img/integrate/step7a.PNG)<br>
-
-3. Your map should now look something like:  
-![AGOL workspace](img/integrate/step7b.PNG)<br>
-
-4. **Save** your edits. 
-
-
-s
-
-
-
-
-
-
-
-
- 
- 
- 
+7. Don't forget to **Save** your edits. 
  
  
 ## 3. Create a **heat map** to show distribution.  
