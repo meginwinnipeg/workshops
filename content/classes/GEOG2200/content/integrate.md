@@ -67,7 +67,7 @@ Numbers 1-4 illustrate the locations of the following elements:
 1. Click on the arrow beside the **Add** data option on the left of your map. Select the _add layer from URL_ option.  
 ![AGOL workspace](img/integrate/step4a.PNG)<br>  
  
-2. Copy + Paste this url into the dialogue to add other campus assets into your map as well: **https://services7.arcgis.com/qkMZANJ0iIMLiVSJ/arcgis/rest/services/UM_Campus_Planning_2024_Exterior_Space_Inventory___Public_Database/FeatureServer**   
+2. Copy + Paste this url into the dialogue to add other campus assets into your map as well: https://services7.arcgis.com/qkMZANJ0iIMLiVSJ/ArcGIS/rest/services/UM_Campus_Planning_2024_Exterior_Space_Inventory___Public_Database/FeatureServer   
 ![AGOL workspace](img/integrate/step4b.PNG)<br>  
   The import wizard should autodetect that it is a web service    
 3. **Add item to map** in the bottom right corner of the wizard.  
