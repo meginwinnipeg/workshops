@@ -126,25 +126,19 @@ Anishinaabeg: {Anishinaabeg}`
     1. _Choose Attribute_: **Field**  
 	![AGOL workspace](img/analyze/step4a.PNG)<br>  
 	2. Use the checkbox to select __Crown Spread__.  
-
-
-
-2. Ensure you are in the **Content** area of your Table of Contents to change symbology. The third tile from the left (3 stacked shapes) is the option to **change styles**.  
-  ![AGOL workspace](img/analyze/step5a.PNG)<br>  
-
-3. In the _Styles_ dialogue that opens:  
-    1. _Attribute_: **Diameter at Breast Height**  
-    2. _Drawing Style_: **Counts and Amounts (size)**, then select **options**.  
-	  ![AGOL workspace](img/analyze/step5b.PNG)<br>  
+    3. _Drawing Style_: **Counts and Amounts (size)**, then select **options**.  
+	  ![AGOL workspace](img/analyze/step4b.PNG)<br>  
 
 4. In the _Counts and Amounts_ dialogue that opens:  
-    1. _Symbols_: change the colour to **green**.   
-    3. _Classify_: No need to check off, we just want to see the data points relative to one another.    
-    5. _Transparency_: Adjust as you want.  
-	  ![AGOL workspace](img/analyze/step5c.PNG)<br>  
+    1. _Symbol style_: change the colour to **green**, adjust transparency if you wish.   
+    2. _Classify_: No need to check off, we just want to see the data points relative to one another.    
+  	![AGOL workspace](img/analyze/step4c.PNG)<br>  
 
-5. Select _OK_ and then _Done_. Don’t forget to save. Your workspace should look something like:  
+5. Your workspace should look something like:  
   ![AGOL workspace](img/analyze/step5d.PNG)<br>  
+  
+6. Don't forget to **Save** your edits. 
+7. Return to your **personal content** page.  
   
 
 ## 6. **Open** your newly saved _TreeStatsMap_ map to calculate some tree statistics for the park:  
