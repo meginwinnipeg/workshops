@@ -17,7 +17,7 @@ nav_order: 3
 ## 0. **Summary**:  
 In this step we will be creating three (3) different type of maps, and an additional feature layer to support our story.  
 
-- Genus Map  
+- Species Map  
 - Heat map  
 - Proportional symbology  
 - Summary Statistics 
@@ -89,30 +89,30 @@ Anishinaabeg: {Anishinaabeg}`
 ![AGOL workspace](img/analyze/step2j.png)<br> 
 
 7. Don't forget to **Save** your edits. 
+8. Return to your **personal content** page.
  
  
-## 3. Create a **heat map** to show distribution.  
+## 3. Create a **Heat map** to show distribution around campus.  
 
-1. Click the  dropdown arrow beside the **Open in Map Viewer Classic** option at the top of the list of options on the right side of your feature service window.  
-2. Select the **add to new map** option. The data may take a couple of seconds to load.  
-![AGOL workspace](img/analyze/step3a.PNG)<br>  
+1. Select the **Heat Map** you have created from the template.  
+2. On the details page that opens, select the **Open in Map Viewer** option to open our map.  
+3. In the Table of Contents ensure that the __Space Inventory__ layer is hidden and the __Tree Inventory__ is selected.  
+![AGOL workspace](img/analyze/step2c.PNG)<br>  
 
-3. The style options should open automatically in your Table of Contents.  
-    1. _Choose an attribute to show_: **Show location only**  
-    2. _Drawing style_: **Heat Map**  
-    3. Select **options** for _Heat Map_  
+4. Select the **Styles** toolbar at the right side of the screen. 
+5. The style options for trees should open automatically on the right side of your screen.  
+    1. _Drawing style_: **Heat Map**  
+    2. Explore **options** for _Heat Map_  
 ![AGOL workspace](img/analyze/step3b.PNG)<br>  
      
-3. In the Symbology options that open select the small icon on the right and select a colour ramp that works for you.  
+    3. In the Heat Map options that open select a colour ramp that works for you.  
 ![AGOL workspace](img/analyze/step3c.PNG)<br>  
  
-4. Click _OK_ and then _Done_ at the bottom of the Table of Contents. Your map should look something like:  
+6.  Your map should look something like:  
 ![AGOL workspace](img/analyze/step3d.PNG)<br>  
 
-5. **Save** a copy of the map to your personal content area by selecting the **Save As** option. Call it something meaningful and be sure to add your initials to the end of the filename.  
-![AGOL workspace](img/analyze/step3e.PNG)<br>  
-
-6. Return to your **personal content** page.  
+7. Don't forget to **Save** your edits. 
+8. Return to your **personal content** page.  
 
 
 ## 4. Save copies of other workshop maps shared in **My Groups** to your personal content:  
