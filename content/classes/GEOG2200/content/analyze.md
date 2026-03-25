@@ -135,7 +135,7 @@ Anishinaabeg: {Anishinaabeg}`
   	![AGOL workspace](img/analyze/step4c.png)<br>  
 
 5. Your workspace should look something like:  
-  ![AGOL workspace](img/analyze/step4d.PNG)<br>  
+  ![AGOL workspace](img/analyze/step4d.png)<br>  
   
 6. Don't forget to **Save** your edits. 
 7. Return to your **personal content** page.  
