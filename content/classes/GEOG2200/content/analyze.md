@@ -49,13 +49,16 @@ We will be creating the following maps, so save one copy for each (name it somet
 1. Click the **Species map** title in your Contents area.  
 2. On the details page that opens, select the **Open in Map Viewer** option to open our map.  
 ![AGOL workspace](img/analyze/step2b.PNG)<br>
+
 3. In the Table of Contents ensure that:
    1. The Space Inventory is hidden  
-   2. The Tree Inventory is selected
+   2. The Tree Inventory is selected  
 ![AGOL workspace](img/analyze/step2c.PNG)<br>  
+
 4. Select the **Styles** toolbar at the right side of the screen. 
-5. Then click the ** Field** button.  
+5. Then click the **Field** button.  
 ![AGOL workspace](img/analyze/step2d.PNG)<br> 
+
 6. Check off **Species** in the list that opens, and then **Add** to the map.  
 7. Your map should now look something like:  
 ![AGOL workspace](img/analyze/step2e.PNG)<br>
@@ -66,10 +69,10 @@ Right now, our pop-up contains a lot of extra information that our audience may 
  
 1. To edit, ensure the **Tree Inventory** layer is selected in your Table of Contents and select the **Pop-up** toolbar on the right side of the screen.  
 2. We can see there is a title block coming from the _latin names_ field, a list of 30 fields, and an attachment image.  
-![AGOL workspace](img/analyze/step2h.PNG)<br>
+![AGOL workspace](img/analyze/step2h.PNG)<br>  
 3. Delete the list of fields by clicking the 3 dots to the right of the item and selecting **delete**.  
 4. Select the **add content** option at the bottom of the menu, and select **Text**.  
-![AGOL workspace](img/analyze/step2i.PNG)<br> 
+![AGOL workspace](img/analyze/step2i.PNG)<br>   
 5. Paste the following code into the text box and click OK:  
 
 `This {Species} is listed as {Tree_Maturity} and stands at {Height}m tall, with a crown that is {Spread}m wide.
