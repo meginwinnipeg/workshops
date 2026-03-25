@@ -68,11 +68,13 @@ Right now, our pop-up contains a lot of extra information that our audience may 
 ![AGOL workspace](img/analyze/step2f.PNG)<br>
  
 1. To edit, ensure the **Tree Inventory** layer is selected in your Table of Contents and select the **Pop-up** toolbar on the right side of the screen.  
-2. We can see there is a title block coming from the _latin names_ field, a list of 30 fields, and an attachment image.  
-![AGOL workspace](img/analyze/step2h.PNG)<br>  
+2. We can see there is a title block coming from the Latin Names_ field, a list of 30 fields, and an attachment image.  
+![AGOL workspace](img/analyze/step2h.png)<br>  
+
 3. Delete the list of fields by clicking the 3 dots to the right of the item and selecting **delete**.  
 4. Select the **add content** option at the bottom of the menu, and select **Text**.  
-![AGOL workspace](img/analyze/step2i.PNG)<br>   
+![AGOL workspace](img/analyze/step2i.png)<br>   
+
 5. Paste the following code into the text box and click OK:  
 
 `This {Species} is listed as {Tree_Maturity} and stands at {Height}m tall, with a crown that is {Spread}m wide.
@@ -84,7 +86,7 @@ Anisininew: {Anisininew}
 Anishinaabeg: {Anishinaabeg}`
  
 6. Your pop-up should now look something like:  
-![AGOL workspace](img/analyze/step2j.PNG)<br> 
+![AGOL workspace](img/analyze/step2j.png)<br> 
 
 7. Don't forget to **Save** your edits. 
  
