@@ -115,23 +115,19 @@ Anishinaabeg: {Anishinaabeg}`
 8. Return to your **personal content** page.  
 
 
-## 4. Save copies of other workshop maps shared in **My Groups** to your personal content:  
-
-1. Click on **My Groups** in the blue Content navigation bar.  
-2. This brings up items that have been shared at the Group level, I have shared three (3) maps and two feature layers with you.  
-3. Save a copy of  _TreeDiameterMapKP_demo_ and _TreeStatsMapKP_demo_ to your personal account  
-    1. Open each map and select the **Open in Map Viewer Classic** option on the right side of your screen.  
-    ![AGOL workspace](img/analyze/step4a.PNG)<br>
-   
-    2. **Save** a copy of the map to your personal content area by selecting the **Save As** option. Add your initials to the end of the filename.  
-
-  ![AGOL workspace](img/analyze/step4b.PNG)<br>
-
  
-## 5. **Open** your newly saved _TreeDiameter_ map to edit symbology:  
-  
-1. From your personal content list click the map title and select the **Open in Map Viewer Classic** option on the right side of your screen.  
-![AGOL workspace](img/analyze/step4a.PNG)<br>
+## 4. Use **Proportional Symbology** to show relative tree sizes around campus.  
+
+1. Select the **Proportional Symbol Map** you have created from the template.  
+2. On the details page that opens, select the **Open in Map Viewer** option to open our map.  
+3. In the Table of Contents ensure that the __Space Inventory__ layer is hidden and the __Tree Inventory__ is selected.  
+4. Select the **Styles** toolbar at the right side of the screen. 
+5. The style options for trees should open automatically on the right side of your screen.  
+    1. _Choose Attribute_: **Field**  
+	![AGOL workspace](img/analyze/step4a.PNG)<br>  
+	2. Use the checkbox to select __Crown Spread__.  
+
+
 
 2. Ensure you are in the **Content** area of your Table of Contents to change symbology. The third tile from the left (3 stacked shapes) is the option to **change styles**.  
   ![AGOL workspace](img/analyze/step5a.PNG)<br>  
