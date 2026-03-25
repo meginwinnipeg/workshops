@@ -141,29 +141,28 @@ Anishinaabeg: {Anishinaabeg}`
 7. Return to your **personal content** page.  
   
 
-## 6. **Open** your newly saved _TreeStatsMap_ map to calculate some tree statistics for the park:  
+## 6. **Re-open** your newly saved __Tree Species__ map to calculate some tree statistics for campus. We are interested in finding out species composition in the areas classified as __Interactive Landscapes__:  
   
-1. From your personal content list click the map title and select the **Open in Map Viewer Classic** option on the right side of your screen.  
-![AGOL workspace](img/analyze/step4a.PNG)<br>
- 
-2. You will see a new layer for park boundary appearing in your Table of Contents.  
-3. From the **Analysis** options above your Table of Contents, open the heading to **Summarize Data** and select the **Summarize Within** option.  
+1. Select the **Tree Species Map** you have created from the template.  
+2. On the details page that opens, select the **Open in Map Viewer** option to open our map.  
+3. In the Table of Contents ensure that the __Space Inventory__ layer is **visible** and the __Tree Inventory__ is selected.  
+4. If you haven't already, take a moment to explore the contents of the __Space Inventory__ layer.  
+5. From the **Analysis** options on the right of your screen, open the heading to **Summarize Data** and select the **Summarize Within** option (or search 'Summarize within' in the search bar).  
 ![AGOL workspace](img/analyze/step6a.PNG)<br>  
 
 4. In the _Summarize Within Dialogue_ select the following options. Note that most options and tools have a blue circle you can hover over for more information.  
-    1. _Boundary_: **Polygon**  
-	2. _Layer_: **Park and Open space**  
-    3. _Summarize_: **TreeInventory** layer    
-    4. _Add Statistics_: **Diameter at Breast Height**, **Min, Max, Avg**  
-    5. _Group By_: **Genus**, add **minority, majority** and **percentages**    
-    6. Name the file something meaningful including your initials.  
-![AGOL workspace](img/analyze/step6b.PNG)<br>  
+    1. _Features to Summarize_: **Tree Inventory**  
+	2. _Summary Area_: **Space Inventory- Interactive Landscapes**      
+    3. _Field Statistics_: **Total Height**, **Min, Max, Avg**  
+    4. _Group By_: **Species**, add **minority, majority** and **percentages**    
+    5. Name the file something meaningful including your initials.    
 
 5. Click the _Run Analysis_ option, wait for the data to be added to the map  
-6. Don't forget to save your work.  
-7. There have been two new items added to your Table of Contents- a layer and a table   
-![AGOL workspace](img/analyze/step6c.PNG)<br>  
- 
+6. Explore the Attribute table and pop-ups for the new layer you have created.   
+7. Your workspace should look something like:  
+  ![AGOL workspace](img/analyze/step6b.PNG)<br>  
+  
+8. Don't forget to **Save** your edits. 
 9. Consider how you could use this information in a Story Map.  
 
 
