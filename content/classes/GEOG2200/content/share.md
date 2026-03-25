@@ -25,7 +25,7 @@ What do we have?
 - Heat Map of Tree Distribution  
 - Map of trees by Trunk or Crown Diameter 
 - Summary statistics about campus trees
-- Workshop folder that includes: images of trees and park elements, a locator map, some text to copy and paste, data urls.  
+- Workshop folder that includes: images of trees and other elements, a locator map, some text to copy and paste, data urls.  
 
 Map out your idea:  
 ![AGOL workspace](img/share/step0.PNG)<br>
@@ -78,13 +78,13 @@ Numbers 1-4 describe them.
 3. In the plan I made, I said I was going to add a text box with a locator map to the left (you can always reorder the rows later).  
     1. Select the **Image** option and upload the _locator map_ image from the workshop content that was made available to you.  
     2. Once the image is loaded you will see the image **options** by hovering over its top.  
-    3. I am going to select the **float** option so that I can add park text next to it.  
+    3. I am going to select the **float** option so that I can add text next to it.  
     ![AGOL workspace](img/share/step3b.PNG)<br>  
 
     4. Next I will add my **Text** by clicking the _green plus sign_ that appears on the top right corner of my newly added image. Hovering over each element provides a description.  
 ![AGOL workspace](img/share/step3c.PNG)<br>  
  
-    5. Copy and paste the Park text from the word document provided in the workshop content. You can see that you can format text as headers, lists and add hyperlinks.  
+    5. Copy and paste the text from the word document provided in the workshop content. You can see that you can format text as headers, lists and add hyperlinks.  
 4. Step back and assess. In my case, my block looks like:  
 ![AGOL workspace](img/share/step3d.PNG)<br>  
 
