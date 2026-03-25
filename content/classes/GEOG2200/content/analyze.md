@@ -132,10 +132,10 @@ Anishinaabeg: {Anishinaabeg}`
 4. In the _Counts and Amounts_ dialogue that opens:  
     1. _Symbol style_: change the colour to **green**, adjust transparency if you wish.   
     2. _Classify_: No need to check off, we just want to see the data points relative to one another.    
-  	![AGOL workspace](img/analyze/step4c.PNG)<br>  
+  	![AGOL workspace](img/analyze/step4c.png)<br>  
 
 5. Your workspace should look something like:  
-  ![AGOL workspace](img/analyze/step5d.PNG)<br>  
+  ![AGOL workspace](img/analyze/step4d.PNG)<br>  
   
 6. Don't forget to **Save** your edits. 
 7. Return to your **personal content** page.  
